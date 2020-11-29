@@ -7,8 +7,25 @@ categories:
 comments: false
 date: 2018-06-23 00:12:33
 ---
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap-grid.min.css">
 
-[![](https://img.njzjz.win/?url=https://api.njzjz.win/1e8wooq2xKi_ah_DcyLN2wh1JpMDPJwLa)](https://scholar.google.com/citations?hl=en&user=7lupPLYAAAAJ&view_op=list_works&sortby=pubdate) [ ![](https://img.njzjz.win/?url=https://api.njzjz.win/1DIBQECaXTgsSJFfSxbokPc8z6QiuHM6z)](https://www.researchgate.net/profile/Tong_Zhu12) [ ![](https://img.njzjz.win/?url=https://api.njzjz.win/1kDFGZJvIAKMbu6mA-qtRxUFbunCSA_Mo)](https://orcid.org/0000-0001-7472-3736) [![](https://img.njzjz.win/?url=https://api.njzjz.win/1bdEyW2i-V9uBWtrO5YMYSaFsoTdxwFKK)](https://publons.com/researcher/2394392/tong-zhu/) 
+{% row %}
+{% col md-6 %} <!-- there is 12 columns in each row -->
+[![](https://img.njzjz.win/?url=https://api.njzjz.win/1e8wooq2xKi_ah_DcyLN2wh1JpMDPJwLa)](https://scholar.google.com/citations?hl=en&user=7lupPLYAAAAJ&view_op=list_works&sortby=pubdate)
+{% endcol %}
+{% col md-6 %}
+[![](https://img.njzjz.win/?url=https://api.njzjz.win/1DIBQECaXTgsSJFfSxbokPc8z6QiuHM6z)](https://www.researchgate.net/profile/Tong_Zhu12)
+{% endcol %}
+{% endrow %}
+
+{% row %}
+{% col md-6 %}
+[![](https://img.njzjz.win/?url=https://api.njzjz.win/1kDFGZJvIAKMbu6mA-qtRxUFbunCSA_Mo)](https://orcid.org/0000-0001-7472-3736)
+{% endcol %}
+{% col md-6 %}
+[![](https://img.njzjz.win/?url=https://api.njzjz.win/1bdEyW2i-V9uBWtrO5YMYSaFsoTdxwFKK)](https://publons.com/researcher/2394392/tong-zhu/) 
+{% endcol %}
+{% endrow %}
 
 **2020**
 

@@ -34,6 +34,11 @@ font:
   enable: true
   global:
     family: Open Sans
-    size: 0.875
+    size: 0.6875
   title:
     size: 1.625
+footer:
+  powered: false
+index_with_subtitle: true
+motion:
+  enable: false

@@ -53,6 +53,10 @@ body {
 	text-align: left;
 }
 
+.site-nav {
+	display: block;
+}
+
 .post-meta {
 	justify-content: left;
 }
@@ -65,11 +69,12 @@ body {
 .main-menu{
     border-bottom: 1px solid #ededed;
     border-top: 1px solid #ededed;
-	padding: 0;
+	padding: 0.714285714rem  0;
 }
 
-.menu-item{
-	padding: 0.714285714rem 20px 0.714285714rem 0;
+.menu .menu-item{
+	margin: 0 20px 0 0;
+	display: inline-block;
 }
 
 .header-image {
@@ -78,8 +83,12 @@ body {
     border-radius: 3px;
     box-shadow: 0 1px 4px rgba(0,0,0,.2);
 }
+.header-image, .widget img {
+	max-width: 100%;
+	height: auto;
+}
 
-.headband, .site-author, .toggle, .footer{
+.headband, .site-author, .sidebar-toggle, .site-nav-toggle, .site-nav-right, .footer{
 	display: none;
 }
 
@@ -92,6 +101,8 @@ body {
 .main-inner{
 	float: left;
     width: 65.104166667%;
+	padding: 0;
+	margin: 0 auto;
 }
 
 .main, .sidebar, .footer{
