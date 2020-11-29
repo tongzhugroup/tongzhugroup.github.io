@@ -2557,7 +2557,7 @@ ul.breadcrumb li:last-child {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #a681bb;
+  background: #3b9430;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
