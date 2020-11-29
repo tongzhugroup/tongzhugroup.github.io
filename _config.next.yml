@@ -5,7 +5,14 @@ custom_file_path:
   sidebar: source/_data/sidebar.njk
 scheme: Muse
 #darkmode: true
-#custom_logo:
+custom_logo: https://img.njzjz.win/?url=https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5
+avatar: 
+  url: https://img.njzjz.win/?url=https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5
+favicon:
+  small: https://img.njzjz.win/?url=https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5
+  medium: https://img.njzjz.win/?url=https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5
+  apple_touch_icon: https://img.njzjz.win/?url=https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5
+  safari_pinned_tab: https://img.njzjz.win/?url=https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5
 menu:
   HOME: / 
   TEAM: /people/ 
