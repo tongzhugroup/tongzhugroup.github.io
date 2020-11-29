@@ -182,7 +182,7 @@ body {
   background: var(--body-bg-color);
   color: var(--text-color);
   font-family: Open Sans, "PingFang SC", "Microsoft YaHei", sans-serif;
-  font-size: 0.875em;
+  font-size: 0.6875em;
   line-height: 2;
   min-height: 100%;
   position: relative;
@@ -2557,7 +2557,7 @@ ul.breadcrumb li:last-child {
 }
 .links-of-author a::before,
 .links-of-author span.exturl::before {
-  background: #ed8b85;
+  background: #a681bb;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
@@ -2633,6 +2633,9 @@ body {
 .post-title {
   text-align: left;
 }
+.site-nav {
+  display: block;
+}
 .post-meta {
   justify-content: left;
 }
@@ -2643,10 +2646,11 @@ body {
 .main-menu {
   border-bottom: 1px solid #ededed;
   border-top: 1px solid #ededed;
-  padding: 0;
+  padding: 0.714285714rem 0;
 }
-.menu-item {
-  padding: 0.714285714rem 20px 0.714285714rem 0;
+.menu .menu-item {
+  margin: 0 20px 0 0;
+  display: inline-block;
 }
 .header-image {
   margin-top: 24px;
@@ -2654,9 +2658,16 @@ body {
   border-radius: 3px;
   box-shadow: 0 1px 4px rgba(0,0,0,0.2);
 }
+.header-image,
+.widget img {
+  max-width: 100%;
+  height: auto;
+}
 .headband,
 .site-author,
-.toggle,
+.sidebar-toggle,
+.site-nav-toggle,
+.site-nav-right,
 .footer {
   display: none;
 }
@@ -2668,6 +2679,8 @@ body {
 .main-inner {
   float: left;
   width: 65.104166667%;
+  padding: 0;
+  margin: 0 auto;
 }
 .main,
 .sidebar,
