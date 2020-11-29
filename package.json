@@ -23,5 +23,11 @@
     "hexo-server": "^2.0.0",
     "hexo-tag-bootstrap": "https://github.com/dotJobs/hexo-tag-bootstrap#06cc099d9a799fdc878a9b5d648f6aeda961b402",
     "hexo-theme-next": "^8.0.2"
+  },
+  "resolutions": {
+    "gifsicle": "4.0.1"
+  },
+  "devDependencies": {
+    "hexo-all-minifier": "^0.5.5"
   }
 }
