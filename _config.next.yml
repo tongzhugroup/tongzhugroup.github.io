@@ -1,0 +1,39 @@
+minify: true
+custom_file_path:
+  header: source/_data/header.njk
+  style: source/_data/styles.styl
+  sidebar: source/_data/sidebar.njk
+scheme: Muse
+#darkmode: true
+#custom_logo:
+menu:
+  HOME: / 
+  TEAM: /people/ 
+  RESEARCH: /research/
+  PUBLICATIONS: /publications/
+  SOFTWARES: /softwares/
+  TEACHING: /teaching/
+  MEMORY: /memory/
+  "GROUP SEMINAR": /group-seminar/
+  TIPS: /tips/
+sidebar:
+  position: right
+  display: hide
+site_state: false
+toc:
+  enable: false
+preconnect: true
+exturl: true
+mediumzoom: true
+lazyload: true
+pangu: false
+vendors:
+  internal: jsdelivr
+  plugins: jsdelivr
+font:
+  enable: true
+  global:
+    family: Open Sans
+    size: 0.875
+  title:
+    size: 1.625
