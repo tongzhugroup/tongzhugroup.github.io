@@ -11,7 +11,7 @@ date: 2018-06-19 04:48:56
 
 {% row %}
 {% col md-5 %}
-![1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5](https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5 "1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5")
+![1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5](https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5)
 {% endcol %}
 {% col md-7 %}
 ### Tong Zhu 朱通
