@@ -84,7 +84,7 @@ jobs:
         BASE_BRANCH: master
         CLEAN: true
     - name: deploy file to server
-      uses: wlixcc/SFTP-Deploy-Action@v1.0
+      uses: wlixcc/SFTP-Deploy-Action@1.1
       with:
         username: 'root'
         server: '${{ secrets.SERVER_IP }}'
