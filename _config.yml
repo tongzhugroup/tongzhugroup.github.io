@@ -107,3 +107,6 @@ deploy:
 
 hexo-all-minifier: true
 cdn_use_webp: true
+
+marked:
+  lazyload: true
