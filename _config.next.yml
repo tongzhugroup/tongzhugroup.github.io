@@ -6,12 +6,12 @@ custom_file_path:
 scheme: Muse
 #darkmode: true
 avatar: 
-  url: https://img.njzjz.win/?url=https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5
+  url: https://cdn.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@7cebddef46c046a7a1119199002fe15b1c2dec24/logo.jpg
 favicon:
-  small: https://img.njzjz.win/?url=https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5
-  medium: https://img.njzjz.win/?url=https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5
-  apple_touch_icon: https://img.njzjz.win/?url=https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5
-  safari_pinned_tab: https://img.njzjz.win/?url=https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5
+  small: https://cdn.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@7cebddef46c046a7a1119199002fe15b1c2dec24/logo.jpg
+  medium: https://cdn.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@7cebddef46c046a7a1119199002fe15b1c2dec24/logo.jpg
+  apple_touch_icon: https://cdn.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@7cebddef46c046a7a1119199002fe15b1c2dec24/logo.jpg
+  safari_pinned_tab: https://cdn.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@7cebddef46c046a7a1119199002fe15b1c2dec24/logo.jpg
 menu:
   HOME: / 
   TEAM: /people/ 
