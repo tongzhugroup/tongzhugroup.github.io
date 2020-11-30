@@ -7,8 +7,6 @@ categories:
 comments: false
 date: 2018-06-19 04:48:56
 ---
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap-grid.min.css">
-
 {% row %}
 {% col md-5 %}
 ![1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5](https://api.njzjz.win/1UZOmNVE8C3GgIQEWpj7qmzCb5v63VXK5)

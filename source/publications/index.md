@@ -7,8 +7,6 @@ categories:
 comments: false
 date: 2018-06-23 00:12:33
 ---
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap-grid.min.css">
-
 {% row %}
 {% col md-6 %} <!-- there is 12 columns in each row -->
 [![](https://api.njzjz.win/1e8wooq2xKi_ah_DcyLN2wh1JpMDPJwLa)](https://scholar.google.com/citations?hl=en&user=7lupPLYAAAAJ&view_op=list_works&sortby=pubdate)
