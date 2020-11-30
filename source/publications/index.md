@@ -11,19 +11,19 @@ date: 2018-06-23 00:12:33
 
 {% row %}
 {% col md-6 %} <!-- there is 12 columns in each row -->
-[![](https://img.njzjz.win/?url=https://api.njzjz.win/1e8wooq2xKi_ah_DcyLN2wh1JpMDPJwLa)](https://scholar.google.com/citations?hl=en&user=7lupPLYAAAAJ&view_op=list_works&sortby=pubdate)
+[![](https://api.njzjz.win/1e8wooq2xKi_ah_DcyLN2wh1JpMDPJwLa)](https://scholar.google.com/citations?hl=en&user=7lupPLYAAAAJ&view_op=list_works&sortby=pubdate)
 {% endcol %}
 {% col md-6 %}
-[![](https://img.njzjz.win/?url=https://api.njzjz.win/1DIBQECaXTgsSJFfSxbokPc8z6QiuHM6z)](https://www.researchgate.net/profile/Tong_Zhu12)
+[![](https://api.njzjz.win/1DIBQECaXTgsSJFfSxbokPc8z6QiuHM6z)](https://www.researchgate.net/profile/Tong_Zhu12)
 {% endcol %}
 {% endrow %}
 
 {% row %}
 {% col md-6 %}
-[![](https://img.njzjz.win/?url=https://api.njzjz.win/1kDFGZJvIAKMbu6mA-qtRxUFbunCSA_Mo)](https://orcid.org/0000-0001-7472-3736)
+[![](https://api.njzjz.win/1kDFGZJvIAKMbu6mA-qtRxUFbunCSA_Mo)](https://orcid.org/0000-0001-7472-3736)
 {% endcol %}
 {% col md-6 %}
-[![](https://img.njzjz.win/?url=https://api.njzjz.win/1bdEyW2i-V9uBWtrO5YMYSaFsoTdxwFKK)](https://publons.com/researcher/2394392/tong-zhu/) 
+[![](https://api.njzjz.win/1bdEyW2i-V9uBWtrO5YMYSaFsoTdxwFKK)](https://publons.com/researcher/2394392/tong-zhu/) 
 {% endcol %}
 {% endrow %}
 
@@ -47,7 +47,7 @@ date: 2018-06-23 00:12:33
 
 50\. Xu, M.Y.; **Zhu T.\***; Zhang J.Z.H.\*, Molecular Dynamics Simulation of Zinc Ion in Water with an Ab Initio Based Neural Network Potential. _**J. Phys. Chem. A.**_ 2019, 123, 6587-6595.
 
-![](https://img.njzjz.win/?url=https://api.njzjz.win/17a4BtRcSEJx7zQV1Az1fogQOPpJdtS5b)
+![](https://api.njzjz.win/17a4BtRcSEJx7zQV1Az1fogQOPpJdtS5b)
 
 49\. Tang, Q.; Plank, T. N.; **Zhu T**.; Yu H. Z.; Ge Z. L.; Li Q.; Li L.; Davis J. T.\*; Pei H.\*, Self-Assembly of Metallo-Nucleoside Hydrogels for Injectable Materials That Promote Wound Closure. _**ACS Appl. Mater.**_ **Interfaces.** 2019, 11, 19743−19750
 
@@ -57,7 +57,7 @@ date: 2018-06-23 00:12:33
 
 46\. Chen, J. Z.\*; Wang, X. Y.; Pang, L. X.; Zhang, J. Z. H.; **Zhu T**.\*, Effect of mutations on binding of ligands to guanine riboswitch probed by free energy perturbation and molecular dynamics simulations. _**Nucleic Acids Res.**_ 2019, 47, 6618-6631.
 
-![](https://img.njzjz.win/?url=https://api.njzjz.win/1Ix20FvJjC9m68Bc9U1IJLlijqJdGdMy4)
+![](https://api.njzjz.win/1Ix20FvJjC9m68Bc9U1IJLlijqJdGdMy4)
 
 45\. Zhao, P.; Cao, H. L.; Chen, Y.; **Zhu T**.\*, Insights into the binding mechanisms of inhibitors of MDM2 based on molecular dynamics simulations and binding free energy calculations. _**Chem. Phys. Lett.**_, 2019, 728, 94-101.
 
