@@ -1,7 +1,7 @@
 ---
 title: >-
-  Our recent work “Molecular Dynamics Simulation of Zinc Ion in Water with an ab
-  Initio Based Neural Network Potential” available online now.
+  Our recent work &#34;Molecular Dynamics Simulation of Zinc Ion in Water with an ab
+  Initio Based Neural Network Potential&#34; available online now.
 tags: []
 id: '378'
 categories:

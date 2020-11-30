@@ -1,8 +1,8 @@
 ---
 title: >-
-  Our recent work "Effect of mutations on binding of ligands to guanine
+  Our recent work &#34;Effect of mutations on binding of ligands to guanine
   riboswitch probed by free energy perturbation and molecular dynamics
-  simulations" available online now.
+  simulations&#34; available online now.
 tags: []
 id: '365'
 categories:
