@@ -1,3 +1,4 @@
+const css = hexo.extend.helper.get('css').bind(hexo);
 const { version } = require("bootstrap/package.json");
 
 function cdn_url(name, version, path){
