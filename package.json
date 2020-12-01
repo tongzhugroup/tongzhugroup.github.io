@@ -26,7 +26,7 @@
     "hexo-theme-next": "8.1.0"
   },
   "resolutions": {
-    "gifsicle": "4.0.1"
+    "gifsicle": "5.1.0"
   },
   "devDependencies": {
     "bootstrap": "4.5.3",
