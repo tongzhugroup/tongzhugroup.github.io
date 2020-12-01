@@ -33,7 +33,8 @@ date: 2018-06-23 00:12:33
 
 55\. Zeng, J. Z.; Cao, L. Q.; Xu, M. Y.; Zhu T.\*; Zhang, J. Z. H.\*, Neural Network Based in Silico Simulation of Combustion Reactions. arXiv:1911.12252.
 
-54\. Zeng, J. Z.,‡ Cao, L. Q., ‡ Chin, C. H.;\* Ren, H. S.;\* Zhang, J. Z. H.; Zhu T.\*, ReacNetGenerator: an automatic reaction network generator for reactive molecular dynamics simulations. **Phys. Chem. Chem. Phys.,** 2020, 22, 683-691.![Graphical abstract: ReacNetGenerator: an automatic reaction network generator for reactive molecular dynamics simulations](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageType=GA&imageInfo.ImageIdentifier.ManuscriptID=C9CP05091D&imageInfo.ImageIdentifier.Year=2020)
+54\. Zeng, J. Z.,‡ Cao, L. Q., ‡ Chin, C. H.;\* Ren, H. S.;\* Zhang, J. Z. H.; Zhu T.\*, ReacNetGenerator: an automatic reaction network generator for reactive molecular dynamics simulations. **Phys. Chem. Chem. Phys.,** 2020, 22, 683-691.
+![Graphical abstract: ReacNetGenerator: an automatic reaction network generator for reactive molecular dynamics simulations](https://pubs.rsc.org/en/Image/Get?imageInfo.ImageIdentifier.ManuscriptID=C9CP05091D)
 
 **2019**
 
