@@ -105,7 +105,7 @@ jobs:
     - name: cachepurger
       uses: njzjz/cachepurger@index
       with:
-        url-prefix: 'https://njzjz.win/'
+        url-prefix: 'https://computchem.cn/'
         zone-id: ${{ secrets.CLOUDFLAREZONEID }}
         api-token: ${{ secrets.CLOUDFLAREAPITOKEN }}
         from-commit: 'HEAD~1'
