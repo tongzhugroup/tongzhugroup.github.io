@@ -92,3 +92,21 @@ jobs:
         local_path: './public/*'
         remote_path: '/opt/wordpress'
         args: '-o ConnectTimeout=10'
+  purge:
+    name: purge cloudflare caches
+    runs-on: ubuntu-latest
+    if: github.ref == 'refs/heads/master'
+    needs: [build_deployment]
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: 'gh-pages'
+        fetch-depth: 2
+    - name: cachepurger
+      uses: njzjz/cachepurger@index
+      with:
+        url-prefix: 'https://njzjz.win/'
+        zone-id: ${{ secrets.CLOUDFLAREZONEID }}
+        api-token: ${{ secrets.CLOUDFLAREAPITOKEN }}
+        from-commit: 'HEAD~1'
+        to-commit: 'HEAD'
