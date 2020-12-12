@@ -57,7 +57,8 @@ Zhenmei Gao (高振梅)
 {% endcol %}
 {% col md-4 %}
 ![1EJbd2t8oQKQD6zvOwaN_eCehLkP-WGQr](https://api.njzjz.win/1EJbd2t8oQKQD6zvOwaN_eCehLkP-WGQr)
-
+{% endrow %}
+{% row %}
 Yao Liu (刘瑶)
 {% endcol %}
 {% col md-4 %}
@@ -72,7 +73,8 @@ Qi Zhang (张琪)
 {% endcol %}
 {% col md-4 %}
 ![1YD5HsrIWTLWSCLKk6dIWh-PNzCxjJg1v](https://api.njzjz.win/1YD5HsrIWTLWSCLKk6dIWh-PNzCxjJg1v)
-
+{% endrow %}
+{% row %}
 Qi Lei (雷琪)
 {% endcol %}
 {% col md-4 %}
@@ -87,7 +89,8 @@ Shuangfei Gu (顾双菲)
 {% endcol %}
 {% col md-4 %}
 ![1KTxISSyr9VyWd5zspFgsmKfRwxpkSeVQ](https://api.njzjz.win/1KTxISSyr9VyWd5zspFgsmKfRwxpkSeVQ)
-
+{% endrow %}
+{% row %}
 Qiang Shen (沈强)
 {% endcol %}
 {% col md-4 %}
@@ -116,7 +119,8 @@ Jinzhe Zeng (曾晋哲): 2017-2019, 本科生, Rutgers University
 {% endcol %}
 {% col md-4 %}
 ![](https://api.njzjz.win/15rZsxBua1-R10l0rWyGt8t1WUEcDrTEG)
-
+{% endrow %}
+{% row %}
 Yu Cheng (陈娱): 2018-2019, 本科生, Rice Univerisity
 {% endcol %}
 {% col md-4 %}
