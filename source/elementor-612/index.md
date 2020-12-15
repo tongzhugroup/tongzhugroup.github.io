@@ -10,19 +10,19 @@ date: 2019-10-08 11:51:39
 
 ## CP2K 6.1 编译安装 (Intel 编译器)
 
-**CP2K 6.1.0-release** **多进程多线程****(MPI+OPENMP)**
+**CP2K 6.1.0-release** **多进程多线程(MPI+OPENMP)**
 
  **制作者：曹立群**
 
- **更新时间：****2019.10.09**
+ **更新时间：2019.10.09**
 
- **测试版本：****CP2K 6.1.0-release**
+ **测试版本：CP2K 6.1.0-release**
 
 **本文基于前辈安装老版本的说明撰写：**
 
 [https://blog.csdn.net/zh314js/article/details/76258705](https://blog.csdn.net/zh314js/article/details/76258705)
 
-**1.****下载并安装intel编译器(最新版本2019)**
+**1.下载并安装intel编译器(最新版本2019)**
 
 **安装后在~/.bashrc添加:**
 
@@ -38,9 +38,9 @@ date: 2019-10-08 11:51:39
 
 **which ifort / which mpiifort** **显示具体路径**
 
-**Intel****编译器套件安装完后，在任意目录下，执行：****icc -v** **显示版本号**
+**Intel编译器套件安装完后，在任意目录下，执行：icc -v** **显示版本号**
 
-**然后进入$MKLROOT/interfaces/fftw3xf文件夹，执行：****make libintel64** **将会生成一个名为libfftw3xf\_intel.a的静态库文件**
+**然后进入$MKLROOT/interfaces/fftw3xf文件夹，执行：make libintel64** **将会生成一个名为libfftw3xf\_intel.a的静态库文件**
 
 **在/etc/目录中新建一个名为mpd.conf的文本文件，在里面填写上(需root权限)：**
 
@@ -98,9 +98,9 @@ date: 2019-10-08 11:51:39
 
 **5\.** **安装elpa :**
 
-**cp2k 6.1.0-release****版本目前采用elpa-2018.05.001**
+**cp2k 6.1.0-release版本目前采用elpa-2018.05.001**
 
-**openmp****版本(用于多线程多进程(psmp)版本：**
+**openmp版本(用于多线程多进程(psmp)版本：**
 
 **./configure –prefix=/opt/elpa/ FC=mpiifort CC=mpiicc CXX=mpiicpc**
 
@@ -136,9 +136,9 @@ date: 2019-10-08 11:51:39
 
 **vim ../arch/Linux-x86-64-intel.psmp**
 
-**然后对照着修改****:**
+**然后对照着修改:**
 
-**LIBXSMM  = /opt/libxsmm****(****对应各人安装路径)**
+**LIBXSMM  = /opt/libxsmm(对应各人安装路径)**
 
 **LIBXC    = /opt/libxc**
 
@@ -146,9 +146,9 @@ date: 2019-10-08 11:51:39
 
 **LIBELPA  = /opt/elpa**
 
-**elpa****部分的include后面部分要注意，每个版本的elpa此处数字路径是不一样的，具体路径请到elpa的安装目录自己查看**
+**elpa部分的include后面部分要注意，每个版本的elpa此处数字路径是不一样的，具体路径请到elpa的安装目录自己查看**
 
-**DFLAGS   = -D\_\_ELPA=201805****(elpa****版本号)**
+**DFLAGS   = -D\_\_ELPA=201805(elpa版本号)**
 
 **FCFLAGS += -I$(LIBELPA)/include/elpa\_openmp-2018.05.001/modules -I$(LIBELPA)/include/elpa\_openmp-2018.05.001/elpa**
 
