@@ -1531,7 +1531,7 @@ hexo-generator-index@2.0.0:
     hexo-pagination "1.0.0"
     timsort "^0.3.0"
 
-hexo-generator-sitemap@^2.1.0:
+hexo-generator-sitemap@2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/hexo-generator-sitemap/-/hexo-generator-sitemap-2.1.0.tgz#efd938049ddbf9a961a077fcc5947918ba5b213a"
   integrity sha512-3+gF9lFdTJ67A65Z2f517DGmtloDX7ZwMmJUJxvv2tF+a8Hr6Kg9K/DXqOBpM39A/y9eqoGfQ3bmLlBx9rynTg==
@@ -1554,7 +1554,7 @@ hexo-i18n@^1.0.0:
   dependencies:
     sprintf-js "^1.0.3"
 
-hexo-image-cloudflare@^0.1.1:
+hexo-image-cloudflare@0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/hexo-image-cloudflare/-/hexo-image-cloudflare-0.1.1.tgz#4ceb696b0d92037e7f50e68bc2af6998df899063"
   integrity sha512-t3Dpqdx38LEAWLw8BA2GBoMQ71AZU1eDXxcYUBknJvUmq+4OMqmb7iOKKvEz6NIDbRAkIbYI/aMLmC8QcCRPYw==
