@@ -106,7 +106,18 @@ deploy:
   type: ''
 
 hexo-all-minifier: true
-cdn_use_webp: true
+css_minifier:
+  level: 2
+cdn:
+  use_webp: true
+  max_width:
+    - 828
+    - 1656
+    - 378
+    - 678
 
 marked:
   lazyload: true
+
+sitemap:
+  path: sitemap.xml
