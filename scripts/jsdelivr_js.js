@@ -1,3 +1,5 @@
+const js = hexo.extend.helper.get('js').bind(hexo);
+
 hexo.extend.filter.register('after_generate', () => {	
     hexo.route.remove('js/schemes/muse.js');
     hexo.route.remove('js/next-boot.js');
