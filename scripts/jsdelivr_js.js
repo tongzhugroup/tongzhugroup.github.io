@@ -22,3 +22,7 @@ hexo.extend.filter.register('after_render:html', function(str, data){
   str = use_min_js(str, 'hexo-theme-next', 'source/js/schemes/muse.js', 'source/js/schemes/muse.min.js');
   return str;
 });
+
+hexo.extend.injector.register('body_end', () => {
+	return js("https://cdn.jsdelivr.net/gh/njzjz/gist@5eab1974597adee1a1f5de13cc8acd53c14d6ba1/modernizr-custom.js");
+});
