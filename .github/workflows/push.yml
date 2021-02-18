@@ -44,7 +44,7 @@ jobs:
         BASE_BRANCH: master
         CLEAN: true
     - name: Purge jsdelivr cache
-      if: github.ref == 'refs/heads/master' && ${{ steps.csspush.outputs.deployment-status }} == 'success'
+      if: github.ref == 'refs/heads/master' && steps.csspush.outputs.deployment-status == 'success'
       run: curl https://purge.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@css/main.css
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@releases/v4
