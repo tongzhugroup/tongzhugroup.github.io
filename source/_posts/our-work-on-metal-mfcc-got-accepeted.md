@@ -12,4 +12,4 @@ Congratulations to Mingyuan, out work on the fragment-based QM calculation of me
 
 DOI: [10.1021/acs.jctc.8b00966](https://pubs.acs.org/doi/10.1021/acs.jctc.8b00966)
 
-![](https://bb.njzjz.win/file/jinzhe/img/1upyh5yCvA5J4tRnTksTk0PbHhu9giVVI)
+![](https://pic.njzjz.win/1upyh5yCvA5J4tRnTksTk0PbHhu9giVVI)
