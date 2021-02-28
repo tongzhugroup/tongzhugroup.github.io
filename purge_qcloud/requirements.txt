@@ -1,1 +1,1 @@
-tencentcloud
+tencentcloud-sdk-python
