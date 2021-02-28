@@ -65,6 +65,13 @@ jobs:
         local_path: './public/*'
         remote_path: '/opt/wordpress'
         args: '-o ConnectTimeout=10'
+    - uses: actions/setup-python@v2
+      if: github.ref == 'refs/heads/master' && steps.ghpush.outputs.deployment-status == 'success'
+      with:
+        python-version: '3.x'
     - name: purge qcloud
       if: github.ref == 'refs/heads/master' && steps.ghpush.outputs.deployment-status == 'success'
-      run: ${{ secrets.QCLOUD }}
+      run: pip install -r purge_qcloud/requirements.txt && python purge_qcloud/purge.py
+      env:
+        QCLOUDID: ${{ secrets.QCLOUDID }}
+        QCLOUDKEY: ${{ secrets.QCLOUDKEY }}
