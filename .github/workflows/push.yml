@@ -48,6 +48,7 @@ jobs:
       run: curl https://purge.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@css/main.css
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@releases/v4
+      id: ghpush
       if: github.ref == 'refs/heads/master'
       with:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -64,3 +65,6 @@ jobs:
         local_path: './public/*'
         remote_path: '/opt/wordpress'
         args: '-o ConnectTimeout=10'
+    - name: purge qcloud
+      if: github.ref == 'refs/heads/master' && steps.ghpush.outputs.deployment-status == 'success'
+      run: ${{ secrets.QCLOUD }}
