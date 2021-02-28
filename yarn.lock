@@ -1504,6 +1504,11 @@ hexo-cli@^4.0.0:
     resolve "^1.11.0"
     tildify "^2.0.0"
 
+hexo-extract-inline-scripts@0.0.2:
+  version "0.0.2"
+  resolved "https://registry.yarnpkg.com/hexo-extract-inline-scripts/-/hexo-extract-inline-scripts-0.0.2.tgz#60e422e16a63ac0ca651d89321ffcc4452fe3fc2"
+  integrity sha512-9yGpjqPCnarlKYwuzuQwNwJE78PQJzZnnajYDjyC9AlxVjti8vkdOxLXz83e7HL8NSwceCGpb+qIsRlwxxWsqA==
+
 hexo-front-matter@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/hexo-front-matter/-/hexo-front-matter-2.0.0.tgz#03f39a9eedb16c5448dbb3bec7dff2c4e224006c"
@@ -1625,7 +1630,6 @@ hexo-server@2.0.0:
 
 "hexo-tag-bootstrap@https://github.com/dotJobs/hexo-tag-bootstrap#06cc099d9a799fdc878a9b5d648f6aeda961b402":
   version "0.2.1"
-  uid "06cc099d9a799fdc878a9b5d648f6aeda961b402"
   resolved "https://github.com/dotJobs/hexo-tag-bootstrap#06cc099d9a799fdc878a9b5d648f6aeda961b402"
 
 hexo-theme-next@8.2.1:

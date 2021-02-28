@@ -28,3 +28,7 @@ hexo.extend.filter.register('after_render:html', function(str, data){
 hexo.extend.injector.register('body_end', () => {
 	return js("https://cdn.jsdelivr.net/gh/njzjz/gist@5eab1974597adee1a1f5de13cc8acd53c14d6ba1/modernizr-custom.js");
 });
+
+if(process.env.CSS_COMMIT){
+  hexo.config.assets_prefix = "https://cdn.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@gh-pages/";
+}
