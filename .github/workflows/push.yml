@@ -31,21 +31,7 @@ jobs:
     - run: yarn build
       if: github.ref == 'refs/heads/master'
       env:
-        CSS_COMMIT: css
-        DO_NOT_REMOVE_CSS: TRUE
-    - name: Deploy to GitHub Pages
-      id: csspush
-      uses: JamesIves/github-pages-deploy-action@releases/v4
-      if: github.ref == 'refs/heads/master'
-      with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: css
-        FOLDER: public/css
-        BASE_BRANCH: master
-        CLEAN: true
-    - name: Purge jsdelivr cache
-      if: github.ref == 'refs/heads/master' && steps.csspush.outputs.deployment-status == 'success'
-      run: curl https://purge.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@css/main.css
+        CSS_COMMIT: gh-pages
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@releases/v4
       id: ghpush
@@ -71,7 +57,7 @@ jobs:
         python-version: '3.x'
     - name: purge qcloud
       if: github.ref == 'refs/heads/master' && steps.ghpush.outputs.deployment-status == 'success'
-      run: pip install -r purge_qcloud/requirements.txt && python purge_qcloud/purge.py
+      run: yarn purge_qcloud
       env:
         QCLOUDID: ${{ secrets.QCLOUDID }}
         QCLOUDKEY: ${{ secrets.QCLOUDKEY }}
