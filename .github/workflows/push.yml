@@ -44,6 +44,7 @@ jobs:
         CLEAN: true
     - name: deploy file to server
       uses: wlixcc/SFTP-Deploy-Action@1.1
+      if: github.ref == 'refs/heads/master'
       with:
         username: 'root'
         server: '${{ secrets.SERVER_IP }}'
