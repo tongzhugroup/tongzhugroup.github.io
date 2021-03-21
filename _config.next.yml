@@ -49,3 +49,7 @@ footer:
 index_with_subtitle: true
 motion:
   enable: false
+math:
+  every_page: false
+  mathjax:
+    enable: true
