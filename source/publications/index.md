@@ -124,7 +124,7 @@ duan2013implementation,
 zhu2012fragment,
 tong2010quasi,
 tong2010theoretical,
-tong2010quasi,
+zhu2010quasi,
 liu2010effect,
 hu2010some
 {% endpublications %}
