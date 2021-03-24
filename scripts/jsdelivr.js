@@ -13,7 +13,7 @@ hexo.on('generateBefore', function () {
 
 hexo.extend.filter.register('after_generate', () => {
   // remove all scripts from js and all images
-  hexo.route.list().filter(path => path.startsWith("js/") || path.startsWith("images/")).forEach(path => {
+  hexo.route.list().filter(path => (path.startsWith("js/") && path.length != 38) || path.startsWith("images/")).forEach(path => {
     hexo.route.remove(path);
   });
 });
