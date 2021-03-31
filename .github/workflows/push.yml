@@ -43,7 +43,7 @@ jobs:
         BASE_BRANCH: master
         CLEAN: true
     - name: deploy file to server
-      uses: wlixcc/SFTP-Deploy-Action@1.1
+      uses: wlixcc/SFTP-Deploy-Action@v1.2
       if: github.ref == 'refs/heads/master'
       with:
         username: 'root'
