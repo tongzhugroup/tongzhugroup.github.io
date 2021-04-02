@@ -35,6 +35,6 @@
   },
   "devDependencies": {
     "bootstrap": "4.6.0",
-    "hexo-all-minifier": "0.5.5"
+    "hexo-all-minifier": "0.5.6"
   }
 }
