@@ -1,6 +1,5 @@
 minify: true
 custom_file_path:
-  header: source/_data/header.njk
   style: source/_data/styles.styl
   sidebar: source/_data/footer.njk
   footer: source/_data/footer.njk
