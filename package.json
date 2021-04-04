@@ -13,7 +13,7 @@
     "version": "5.4.0"
   },
   "dependencies": {
-    "@next-theme/utils": "^1.2.0",
+    "@next-theme/utils": "1.2.0",
     "hexo": "5.4.0",
     "hexo-extract-inline-scripts": "0.0.2",
     "hexo-generator-archive": "1.0.0",
