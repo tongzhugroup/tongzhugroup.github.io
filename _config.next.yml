@@ -5,13 +5,6 @@ custom_file_path:
   footer: source/_data/footer.njk
 scheme: Muse
 #darkmode: true
-avatar: 
-  url: https://cdn.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@7cebddef46c046a7a1119199002fe15b1c2dec24/logo.jpg
-favicon:
-  small: https://cdn.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@7cebddef46c046a7a1119199002fe15b1c2dec24/logo.jpg
-  medium: https://cdn.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@7cebddef46c046a7a1119199002fe15b1c2dec24/logo.jpg
-  apple_touch_icon: https://cdn.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@7cebddef46c046a7a1119199002fe15b1c2dec24/logo.jpg
-  safari_pinned_tab: https://cdn.jsdelivr.net/gh/tongzhugroup/tongzhugroup.github.io@7cebddef46c046a7a1119199002fe15b1c2dec24/logo.jpg
 menu:
   HOME: / 
   TEAM: /people/ 
