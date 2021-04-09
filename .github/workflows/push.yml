@@ -62,17 +62,3 @@ jobs:
       env:
         QCLOUDID: ${{ secrets.QCLOUDID }}
         QCLOUDKEY: ${{ secrets.QCLOUDKEY }}
-    - uses: actions/checkout@v2
-      if: github.ref == 'refs/heads/master' && steps.ghpush.outputs.deployment-status == 'success'
-      with:
-        ref: 'gh-pages'
-        fetch-depth: 2
-    - name: cachepurger
-      uses: njzjz/cachepurger@index
-      if: github.ref == 'refs/heads/master' && steps.ghpush.outputs.deployment-status == 'success'
-      with:
-        url-prefix: 'https://computchem.cn/'
-        zone-id: ${{ secrets.CLOUDFLAREZONEID }}
-        api-token: ${{ secrets.CLOUDFLAREAPITOKEN }}
-        from-commit: 'HEAD~1'
-        to-commit: 'HEAD'
