@@ -3,6 +3,8 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
+    "postinstall": "preview-cfpages preview",
+    "cfpages:build": "npm build build",
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
@@ -36,6 +38,7 @@
     "gifsicle": "4.0.1"
   },
   "devDependencies": {
+    "@njzjz/preview-cfpages": "^0.0.6",
     "bootstrap": "4.6.0",
     "hexo-all-minifier": "0.5.7"
   }
