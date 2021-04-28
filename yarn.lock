@@ -1343,7 +1343,7 @@ has@^1.0.3:
   dependencies:
     function-bind "^1.1.1"
 
-he@^1.2.0:
+he@1.2.0, he@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/he/-/he-1.2.0.tgz#84ae65fa7eafb165fddb61566ae14baf05664f0f"
   integrity sha512-F/1DnUGPopORZi0ni+CvrCgHQ5FyEAHRLSApuYWMmrbSwoN2Mn/7k+Gl38gJnR7yyDZk6WLXwiGod1JOWNDKGw==
@@ -1383,10 +1383,12 @@ hexo-cli@^4.0.0:
     resolve "^1.11.0"
     tildify "^2.0.0"
 
-hexo-extract-inline-scripts@0.0.2:
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/hexo-extract-inline-scripts/-/hexo-extract-inline-scripts-0.0.2.tgz#60e422e16a63ac0ca651d89321ffcc4452fe3fc2"
-  integrity sha512-9yGpjqPCnarlKYwuzuQwNwJE78PQJzZnnajYDjyC9AlxVjti8vkdOxLXz83e7HL8NSwceCGpb+qIsRlwxxWsqA==
+hexo-extract-inline-scripts@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/hexo-extract-inline-scripts/-/hexo-extract-inline-scripts-0.0.3.tgz#a2bf129efca847ec39bbcc018985d826eb617b11"
+  integrity sha512-/yl8EP85i3N+W2yqCxoysWhO9OChX2KlqF1DDHm/duQ1cPYXbJy+oOWQ2YQ+8wFa/QDUO65EYgVjB/W8TQUohw==
+  dependencies:
+    node-html-parser "^3.2.0"
 
 hexo-front-matter@^2.0.0:
   version "2.0.0"
@@ -2238,6 +2240,14 @@ no-case@^3.0.4:
   dependencies:
     lower-case "^2.0.2"
     tslib "^2.0.3"
+
+node-html-parser@^3.2.0:
+  version "3.2.0"
+  resolved "https://registry.yarnpkg.com/node-html-parser/-/node-html-parser-3.2.0.tgz#2b1b81297bc6387a868b227761b35e553d5bf92c"
+  integrity sha512-fXhiFFnccwoUW92VvDACbtg1Kv7Ky0Qj9Rv7ETWpczSFLW07JWM6zQ+d523kiHNpodQHlvDhtjK2T86AclzXzQ==
+  dependencies:
+    css-select "^3.1.2"
+    he "1.2.0"
 
 normalize-package-data@^2.3.2, normalize-package-data@^2.3.4:
   version "2.5.0"
