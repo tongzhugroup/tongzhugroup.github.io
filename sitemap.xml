@@ -158,7 +158,7 @@
 
   <url>
     <loc>https://computchem.cn/</loc>
-    <lastmod>2021-04-26</lastmod>
+    <lastmod>2021-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -168,14 +168,14 @@
   
   <url>
     <loc>https://computchem.cn/categories/News/</loc>
-    <lastmod>2021-04-26</lastmod>
+    <lastmod>2021-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://computchem.cn/categories/uncategorized/</loc>
-    <lastmod>2021-04-26</lastmod>
+    <lastmod>2021-04-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
