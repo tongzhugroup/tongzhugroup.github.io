@@ -38,7 +38,7 @@
     "gifsicle": "4.0.1"
   },
   "devDependencies": {
-    "@njzjz/preview-cfpages": "^0.0.6",
+    "@njzjz/preview-cfpages": "0.0.6",
     "bootstrap": "4.6.0",
     "hexo-all-minifier": "0.5.7"
   }

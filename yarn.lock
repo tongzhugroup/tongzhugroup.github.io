@@ -15,7 +15,7 @@
   resolved "https://registry.yarnpkg.com/@njzjz/icons/-/icons-0.0.1.tgz#a93aec32d6d98d88c66193e20c56c2422caacb9d"
   integrity sha512-YW1lHyJp9wIM9ifvBKLO6++RLDg1DPcZSdRyx6A5NyoZLotzm1uf6FxJJBNcLKhA36SLF4U7CZSAlPl/FLBObg==
 
-"@njzjz/preview-cfpages@^0.0.6":
+"@njzjz/preview-cfpages@0.0.6":
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/@njzjz/preview-cfpages/-/preview-cfpages-0.0.6.tgz#5c1f91696d3421ba3c895e4e40a3fb8024e8bbc0"
   integrity sha512-aeULSlPUCukbsh3IrBLXMhL4WBs5gYVwdEClZa/85rtbQkRpQXxrr5yQM6UtsByjswnNjkYZGa+JpRKejo53Cg==
