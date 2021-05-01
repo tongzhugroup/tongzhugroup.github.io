@@ -28,6 +28,9 @@ mathjax: true
 
 # 2021
 {% publications %}
+xu2021automated,
+li2021extensive,
+chen2021binding,
 liu2021engineering,
 zeng2020exploring
 {% endpublications %}
