@@ -111,6 +111,9 @@ css_minifier:
   level: 2
 cdn:
   use_webp: true
+  exclude_domains:
+    - https://images.weserv.nl/
+    - https://cdn.jsdelivr.net/
   max_width:
     - 828
     - 1656
