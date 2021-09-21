@@ -2,13 +2,13 @@
 # yarn lockfile v1
 
 
-"@next-theme/utils@1.2.0":
-  version "1.2.0"
-  resolved "https://registry.yarnpkg.com/@next-theme/utils/-/utils-1.2.0.tgz#b062f56d768c7722ab878bf93afd0172d89d76b0"
-  integrity sha512-SQcN24NC+aRSA+Lx3iw5kBjJrGhBUy922tkB8IcMGtzxwvRJmTNSqt+tknFpdV8bHLBav0UGU8HuXgCui05RNg==
+"@next-theme/utils@1.3.0":
+  version "1.3.0"
+  resolved "https://registry.yarnpkg.com/@next-theme/utils/-/utils-1.3.0.tgz#3460741f5af89f1f84f5a8c50af0a8630e6b19d5"
+  integrity sha512-iLAtLEK+t4NOGsiG3/KCMRcPfU3NBModvH8bEntITbGkkNdDYQ0buuf5qcHn83pEaoQ6j6t8xR7EwicShs0icw==
   dependencies:
-    js-yaml "4.0.0"
-    lodash "4.17.20"
+    hexo-util "2.5.0"
+    js-yaml "4.1.0"
 
 "@njzjz/icons@0.0.1":
   version "0.0.1"
@@ -1696,7 +1696,7 @@ hexo-theme-next@8.7.1:
   resolved "https://registry.yarnpkg.com/hexo-theme-next/-/hexo-theme-next-8.7.1.tgz#0c8a5ceda6baa7d77d5de925d36dd885db35b980"
   integrity sha512-eJstBtUSyyLFJ8CpwkJ/1/XVuibaLzgVqPwZuh55kOGKubfJ6mSP/RFKex3kly5LCwCTZSSNGbuhNeJaz2Z67Q==
 
-hexo-util@^2.0.0, hexo-util@^2.1.0, hexo-util@^2.2.0, hexo-util@^2.4.0, hexo-util@^2.5.0:
+hexo-util@2.5.0, hexo-util@^2.0.0, hexo-util@^2.1.0, hexo-util@^2.2.0, hexo-util@^2.4.0, hexo-util@^2.5.0:
   version "2.5.0"
   resolved "https://registry.yarnpkg.com/hexo-util/-/hexo-util-2.5.0.tgz#de5635341116ba2563a789a0ebceb55a875221ad"
   integrity sha512-l0zkqcg2524KPO84HQe0JROpPlCM/dEnCJaJrZ1qsq+3+/YxhDa0zxiGtUVY1dtrWzOK/V11Zj+UEklhGP8Jeg==
@@ -2103,10 +2103,10 @@ jpegtran-bin@^5.0.0:
     bin-wrapper "^4.0.0"
     logalot "^2.0.0"
 
-js-yaml@4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-4.0.0.tgz#f426bc0ff4b4051926cd588c71113183409a121f"
-  integrity sha512-pqon0s+4ScYUvX30wxQi3PogGFAlUyH0awepWvwkj4jD4v+ova3RiYw8bmA6x2rDrEaj8i/oWKoRxpVNW+Re8Q==
+js-yaml@4.1.0, js-yaml@^4.0.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-4.1.0.tgz#c1fb65f8f5017901cdd2c951864ba18458a10602"
+  integrity sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==
   dependencies:
     argparse "^2.0.1"
 
@@ -2117,13 +2117,6 @@ js-yaml@^3.13.1:
   dependencies:
     argparse "^1.0.7"
     esprima "^4.0.0"
-
-js-yaml@^4.0.0:
-  version "4.1.0"
-  resolved "https://registry.yarnpkg.com/js-yaml/-/js-yaml-4.1.0.tgz#c1fb65f8f5017901cdd2c951864ba18458a10602"
-  integrity sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==
-  dependencies:
-    argparse "^2.0.1"
 
 jsdelivr_url@0.0.1, jsdelivr_url@^0.0.1:
   version "0.0.1"
@@ -2208,11 +2201,6 @@ load-json-file@^1.0.0:
     pify "^2.0.0"
     pinkie-promise "^2.0.0"
     strip-bom "^2.0.0"
-
-lodash@4.17.20:
-  version "4.17.20"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
-  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
 
 lodash@^4.7.0:
   version "4.17.21"
