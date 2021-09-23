@@ -45,3 +45,5 @@ math:
   every_page: false
   mathjax:
     enable: true
+google_analytics:
+  tracking_id: G-5D2T26RQ3C
