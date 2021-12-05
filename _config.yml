@@ -111,7 +111,6 @@ css_minifier:
   level: 2
 cdn:
   use_webp: true
-  native: true
   exclude_domains:
     - https://images.weserv.nl/
     - https://cdn.jsdelivr.net/
