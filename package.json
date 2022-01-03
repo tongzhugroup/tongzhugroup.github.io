@@ -28,7 +28,7 @@
     "hexo-renderer-ejs": "2.0.0",
     "hexo-renderer-marked": "4.1.0",
     "hexo-renderer-stylus": "2.0.1",
-    "hexo-server": "2.0.0",
+    "hexo-server": "3.0.0",
     "hexo-tag-bootstrap": "https://github.com/dotJobs/hexo-tag-bootstrap#06cc099d9a799fdc878a9b5d648f6aeda961b402",
     "hexo-tag-publications": "0.2.2",
     "hexo-theme-next": "8.9.0",
