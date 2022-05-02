@@ -1718,10 +1718,10 @@ hexo-tag-injector@^0.1.0:
   dependencies:
     escape-string-regexp "^4.0.0"
 
-hexo-tag-publications@0.2.2:
-  version "0.2.2"
-  resolved "https://registry.yarnpkg.com/hexo-tag-publications/-/hexo-tag-publications-0.2.2.tgz#2b64dff6b09a39ce5b650c23e7869ba1801022a1"
-  integrity sha512-a2ACZLApY3YhL5ckpYY4dro5UnZdeKHMZglCzMCTUVZ4U7hnvggpUbTqWyzuF/9zB26gHJSHJ53wpEDtigsG+g==
+hexo-tag-publications@0.2.5:
+  version "0.2.5"
+  resolved "https://registry.yarnpkg.com/hexo-tag-publications/-/hexo-tag-publications-0.2.5.tgz#1cb2b1ed807d0a88c7e1281551d8045bf66f221b"
+  integrity sha512-7JfhfWTGKcumUlhBo/9BzR1HrXLhOZV9G6UXNHUzPzOTf5mHMRPr4xTIJe1nX4ym+pCPXS7ZQH+W/hqzXrsExA==
   dependencies:
     bibtex-parse "^2.1.0"
     hexo-fs "^3.1.0"
