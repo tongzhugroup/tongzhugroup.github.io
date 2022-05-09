@@ -1749,9 +1749,9 @@ hexo-util@2.5.0:
     strip-indent "^3.0.0"
 
 hexo-util@^2.0.0, hexo-util@^2.1.0, hexo-util@^2.2.0, hexo-util@^2.4.0, hexo-util@^2.5.0, hexo-util@^2.6.0:
-  version "2.6.0"
-  resolved "https://registry.yarnpkg.com/hexo-util/-/hexo-util-2.6.0.tgz#3265aa1b1983e48345a2af59c6785ac061886075"
-  integrity sha512-sLG45foxXMnMgCo3FpP4Sicj5nLD6ezO46+DKP01BWj1CfNq2pYoUdJacfeVbKc+oFtitRcNIGsPNNt3pVbzdg==
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/hexo-util/-/hexo-util-2.6.1.tgz#19b79a1ec751a735ffe34766b65d8e2039c00519"
+  integrity sha512-xj1jUrId2qTe8L/tRizWWRl+j7X1Zzh5rCVtffboOU0p/EfbPomxIxDvntTHT3fcqgvLHsncqJF9V5j7+buOqA==
   dependencies:
     bluebird "^3.5.2"
     camel-case "^4.0.0"
@@ -2356,9 +2356,9 @@ map-obj@^1.0.0, map-obj@^1.0.1:
   integrity sha1-2TPOuSBdgr3PSIb2dCvcK03qFG0=
 
 marked@^4.0.1:
-  version "4.0.14"
-  resolved "https://registry.yarnpkg.com/marked/-/marked-4.0.14.tgz#7a3a5fa5c80580bac78c1ed2e3b84d7bd6fc3870"
-  integrity sha512-HL5sSPE/LP6U9qKgngIIPTthuxC0jrfxpYMZ3LdGDD3vTnLs59m2Z7r6+LNDR3ToqEQdkKd6YaaEfJhodJmijQ==
+  version "4.0.15"
+  resolved "https://registry.yarnpkg.com/marked/-/marked-4.0.15.tgz#0216b7c9d5fcf6ac5042343c41d81a8b1b5e1b4a"
+  integrity sha512-esX5lPdTfG4p8LDkv+obbRCyOKzB+820ZZyMOXJZygZBHrH9b3xXR64X4kT3sPe9Nx8qQXbmcz6kFSMt4Nfk6Q==
 
 mdn-data@2.0.14:
   version "2.0.14"
