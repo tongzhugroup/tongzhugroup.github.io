@@ -1716,16 +1716,16 @@ hexo-tag-injector@^0.1.0:
   dependencies:
     escape-string-regexp "^4.0.0"
 
-hexo-tag-publications@0.2.6:
-  version "0.2.6"
-  resolved "https://registry.yarnpkg.com/hexo-tag-publications/-/hexo-tag-publications-0.2.6.tgz#9564c9948a388faa2ce15865731f24507f7cc3d2"
-  integrity sha512-2LDPsLyF2dAZLZw5HoNyC5qNZpXFTbqbHG5scmdaFqq7flfh20RFDvtm7HSVHGDh0FzUfJXYDhFTR0eEQZbljg==
+hexo-tag-publications@0.2.7:
+  version "0.2.7"
+  resolved "https://registry.yarnpkg.com/hexo-tag-publications/-/hexo-tag-publications-0.2.7.tgz#08c7add3aa292c738130aae23daf9283ea39fd2e"
+  integrity sha512-65qsJLFpaH18gQz+4d47DbguGXRA3pukszBe32ANQ9TlxlffwSlEHjdGIu9w3O7g6UoaUC6lqwSnj0THqchr/w==
   dependencies:
     bibtex-parse "^2.1.0"
     hexo-fs "^3.1.0"
     hexo-tag-injector "^0.1.0"
     hexo-util "^2.4.0"
-    jsdelivr_url "^0.0.1"
+    unpkg_url "^0.0.1"
 
 hexo-theme-next@8.11.1:
   version "8.11.1"
@@ -2193,11 +2193,6 @@ js-yaml@4.1.0, js-yaml@^4.1.0:
   integrity sha512-wpxZs9NoxZaJESJGIZTyDEaYpl0FKSA+FB9aJiyemKhMwkxQg63h4T1KJgUGHpTqPDNRcmmYLugrRjJlBtWvRA==
   dependencies:
     argparse "^2.0.1"
-
-jsdelivr_url@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/jsdelivr_url/-/jsdelivr_url-0.0.1.tgz#3a9c0440575ec092d88b403091b8b68d2c0df755"
-  integrity sha512-HjjyhWU8kG1Q1JsFf6D7wNF0REqUA8CMiBHHl0w5RW5uLVgdLK5UxzW5rwmorP8vxLNiNo3rjr+E4cpFb5gI/g==
 
 jsdom@^19.0.0:
   version "19.0.0"
