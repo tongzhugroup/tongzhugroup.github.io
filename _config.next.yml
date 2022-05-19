@@ -27,8 +27,8 @@ mediumzoom: true
 lazyload: true
 pangu: false
 vendors:
-  internal: jsdelivr
-  plugins: jsdelivr
+  internal: cdnjs
+  plugins: cdnjs
 font:
   enable: true
   global:
