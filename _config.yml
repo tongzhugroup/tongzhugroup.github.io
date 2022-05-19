@@ -113,7 +113,7 @@ cdn:
   use_webp: true
   exclude_domains:
     - https://images.weserv.nl/
-    - https://cdn.jsdelivr.net/
+    - https://unpkg.com/
   max_width:
     - 828
     - 1656
