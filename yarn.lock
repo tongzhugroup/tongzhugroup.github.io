@@ -1714,10 +1714,10 @@ hexo-tag-injector@^0.1.0:
   dependencies:
     escape-string-regexp "^4.0.0"
 
-hexo-tag-publications@0.3.1:
-  version "0.3.1"
-  resolved "https://registry.yarnpkg.com/hexo-tag-publications/-/hexo-tag-publications-0.3.1.tgz#6eb9ac5c4f0e5994c0da1fd77d668de1c567040c"
-  integrity sha512-VFsqBwY+gFoB/SvIDADRZiReuWx0bXrHXWj0fVqe2yuE8B7uIqeJYskOglnfr5fG8Aez8kADa4TrvTU5Wdqp5g==
+hexo-tag-publications@0.3.2:
+  version "0.3.2"
+  resolved "https://registry.yarnpkg.com/hexo-tag-publications/-/hexo-tag-publications-0.3.2.tgz#e4e96c7c0fae9f2718b273e9d4c8db73ed5cd39a"
+  integrity sha512-Fia9y0QispQR5DkiGvzeAoLpi22eTzFPei1UOMQCwr8hm3N2TN5ITymzUbtUIuoLI7bWcMq6EqEhCMlpgjqjLg==
   dependencies:
     bibtex-parse "^2.1.0"
     hexo-fs "^3.1.0"
