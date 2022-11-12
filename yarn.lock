@@ -10,10 +10,10 @@
     hexo-util "2.5.0"
     js-yaml "4.1.0"
 
-"@njzjz/icons@0.0.4":
-  version "0.0.4"
-  resolved "https://registry.yarnpkg.com/@njzjz/icons/-/icons-0.0.4.tgz#60884a41bb7e6103e78f40a84b4aa09a501a24f3"
-  integrity sha512-aJzU5tTBmKmZwRyZQLZ3XG17pSOgBf98M8ah1ohawg2bjYC0f6yDTtPSBa8yFmaA1dREMNQRWvDLJS0qpzb/9A==
+"@njzjz/icons@0.0.5":
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/@njzjz/icons/-/icons-0.0.5.tgz#5d7bfd6e2dbbd51fc6b9215ebc3e901737c81dd0"
+  integrity sha512-miPgCMvQYpj9KFZPfByxY+vghGZSuXV1Ap+O1d0EODmurT6jIVEO63O0vEp/nnHg5BzSFC9dbp6uoS27/9o0nA==
 
 "@njzjz/preview-cfpages@0.0.6":
   version "0.0.6"
