@@ -381,7 +381,7 @@ cacheable-request@^2.1.1:
     normalize-url "2.0.1"
     responselike "1.0.2"
 
-camel-case@^4.0.0, camel-case@^4.1.1:
+camel-case@^4.0.0, camel-case@^4.1.1, camel-case@^4.1.2:
   version "4.1.2"
   resolved "https://registry.yarnpkg.com/camel-case/-/camel-case-4.1.2.tgz#9728072a954f805228225a6deea6b38461e1bd5a"
   integrity sha512-gxGWBrTT1JuMx6R+o5PTXMmUnhnVzLQ9SNutD4YqKtI6ap897t3tKECYla6gCWEkplXnlNybEkZg9GEGxKFCgw==
@@ -456,7 +456,7 @@ cheerio@^1.0.0-rc.5:
     parse5 "^7.0.0"
     parse5-htmlparser2-tree-adapter "^7.0.0"
 
-chokidar@^3.0.0:
+chokidar@^3.0.0, chokidar@^3.5.3:
   version "3.5.3"
   resolved "https://registry.yarnpkg.com/chokidar/-/chokidar-3.5.3.tgz#1cf37c8707b932bd1af1ae22c0432e2acd1903bd"
   integrity sha512-Dr3sfKRP6oTcjf2JmUmFJfeVMvXBdegxB0iVQ5eb2V10uFJUCAS8OByZdVAyVb8xXNz3GjjTgj9kLWsZTqE6kw==
@@ -616,7 +616,7 @@ cross-spawn@^6.0.0:
     shebang-command "^1.2.0"
     which "^1.2.9"
 
-cross-spawn@^7.0.0:
+cross-spawn@^7.0.0, cross-spawn@^7.0.3:
   version "7.0.3"
   resolved "https://registry.yarnpkg.com/cross-spawn/-/cross-spawn-7.0.3.tgz#f73a85b9d5d41d045551c177e2882d4ac85728a6"
   integrity sha512-iRDPJKUPVEND7dHPO8rkbOnPpyDygcDFtWjpeWNCgy8WP2rXcxXL8TskReQl6OrB2G7+UJrags1q15Fudc7G6w==
@@ -1481,7 +1481,7 @@ got@^8.3.1:
     url-parse-lax "^3.0.0"
     url-to-options "^1.0.1"
 
-graceful-fs@^4.1.10, graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.3, graceful-fs@^4.2.2:
+graceful-fs@^4.1.10, graceful-fs@^4.1.11, graceful-fs@^4.1.2, graceful-fs@^4.1.3, graceful-fs@^4.2.10, graceful-fs@^4.2.2:
   version "4.2.10"
   resolved "https://registry.yarnpkg.com/graceful-fs/-/graceful-fs-4.2.10.tgz#147d3a006da4ca3ce14728c7aefc287c367d7a6c"
   integrity sha512-9ByhssR2fPVsNZj478qUUbKfmL0+t5BDVyjShtyZZLiK7ZDAArFFfopyOTj0M05wE2tJPisA4iTnnXl2YoPvOA==
@@ -1580,6 +1580,16 @@ hexo-fs@^3.0.1, hexo-fs@^3.1.0:
     chokidar "^3.0.0"
     graceful-fs "^4.1.11"
     hexo-util "^2.0.0"
+
+hexo-fs@^4.0.0:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/hexo-fs/-/hexo-fs-4.1.1.tgz#4a95d0d6b15eb7baf642ce54b8234fb32e5f032d"
+  integrity sha512-aDysNTyv8ElcerbFVbPLRXnYt+QDY6gAOZZ5DLbCxudY0Ywppqd+uZ03gZ2BDypIBvmNB27WYWYz76M+Yv/YXw==
+  dependencies:
+    bluebird "^3.7.2"
+    chokidar "^3.5.3"
+    graceful-fs "^4.2.10"
+    hexo-util "^2.7.0"
 
 hexo-generator-archive@2.0.0:
   version "2.0.0"
@@ -1703,15 +1713,15 @@ hexo-tag-injector@^0.1.0:
   dependencies:
     escape-string-regexp "^4.0.0"
 
-hexo-tag-publications@0.3.2:
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/hexo-tag-publications/-/hexo-tag-publications-0.3.2.tgz#e4e96c7c0fae9f2718b273e9d4c8db73ed5cd39a"
-  integrity sha512-Fia9y0QispQR5DkiGvzeAoLpi22eTzFPei1UOMQCwr8hm3N2TN5ITymzUbtUIuoLI7bWcMq6EqEhCMlpgjqjLg==
+hexo-tag-publications@0.3.3:
+  version "0.3.3"
+  resolved "https://registry.yarnpkg.com/hexo-tag-publications/-/hexo-tag-publications-0.3.3.tgz#d6a82de9db8d41eeff07efe46182e8b751f04337"
+  integrity sha512-JUjbrC2HWGcof03R1Vuc0tEezIVfGc5dq3fWf6u5YRGWErP2EEjJ+yXMpIe0BAiqvJ/Sc+y006H/+uDKkMWQvg==
   dependencies:
     bibtex-parse "^2.1.0"
-    hexo-fs "^3.1.0"
+    hexo-fs "^4.0.0"
     hexo-tag-injector "^0.1.0"
-    hexo-util "^2.4.0"
+    hexo-util "^3.0.0"
     unpkg_url "^0.0.1"
 
 hexo-theme-next@8.14.1:
@@ -1733,7 +1743,7 @@ hexo-util@2.5.0:
     prismjs "^1.17.1"
     strip-indent "^3.0.0"
 
-hexo-util@^2.0.0, hexo-util@^2.1.0, hexo-util@^2.2.0, hexo-util@^2.4.0, hexo-util@^2.7.0:
+hexo-util@^2.0.0, hexo-util@^2.1.0, hexo-util@^2.2.0, hexo-util@^2.7.0:
   version "2.7.0"
   resolved "https://registry.yarnpkg.com/hexo-util/-/hexo-util-2.7.0.tgz#13d09292e79d260db35399710b3e19f3995443a3"
   integrity sha512-hQM3h34nhDg0bSe/Tg1lnpODvNkz7h2u0+lZGzlKL0Oufp+5KCAEUX9wal7/xC7ax3/cwEn8IuoU75kNpZLpJQ==
@@ -1745,6 +1755,20 @@ hexo-util@^2.0.0, hexo-util@^2.1.0, hexo-util@^2.2.0, hexo-util@^2.4.0, hexo-uti
     highlight.js "^11.0.1"
     htmlparser2 "^7.0.0"
     prismjs "^1.17.1"
+    strip-indent "^3.0.0"
+
+hexo-util@^3.0.0:
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/hexo-util/-/hexo-util-3.0.1.tgz#9dc20a9ceac971e512e69bdab3d60800d76fad97"
+  integrity sha512-ri3WsEUWSfrjydYPeOaWvrYIzfVBiaXUy0846051MkuJxBcNtG2o87q0KFGiniSMmi0XxLQhSl415anU3+FFlA==
+  dependencies:
+    bluebird "^3.7.2"
+    camel-case "^4.1.2"
+    cross-spawn "^7.0.3"
+    deepmerge "^4.2.2"
+    highlight.js "^11.6.0"
+    htmlparser2 "^8.0.1"
+    prismjs "^1.29.0"
     strip-indent "^3.0.0"
 
 hexo@6.3.0:
@@ -1782,7 +1806,7 @@ highlight.js@^10.7.1:
   resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.7.3.tgz#697272e3991356e40c3cac566a74eef681756531"
   integrity sha512-tzcUFauisWKNHaRkN4Wjl/ZA07gENAjFl3J/c480dprkGTg5EQstgaNFqBfUqCq54kZRIEcreTsAgF/m2quD7A==
 
-highlight.js@^11.0.1:
+highlight.js@^11.0.1, highlight.js@^11.6.0:
   version "11.7.0"
   resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-11.7.0.tgz#3ff0165bc843f8c9bce1fd89e2fda9143d24b11e"
   integrity sha512-1rRqesRFhMO/PRF+G86evnyJkCgaZFOI+Z6kdj15TA18funfoqJXvgPCLSf0SWq3SRfg1j3HlDs8o4s3EGq1oQ==
@@ -2923,7 +2947,7 @@ pretty-hrtime@^1.0.3:
   resolved "https://registry.yarnpkg.com/pretty-hrtime/-/pretty-hrtime-1.0.3.tgz#b7e3ea42435a4c9b2759d99e0f201eb195802ee1"
   integrity sha512-66hKPCr+72mlfiSjlEB1+45IjXSqvVAIy6mocupoww4tBFE9R9IhwwUGoI4G++Tc9Aq+2rxOt0RFU6gPcrte0A==
 
-prismjs@^1.17.1:
+prismjs@^1.17.1, prismjs@^1.29.0:
   version "1.29.0"
   resolved "https://registry.yarnpkg.com/prismjs/-/prismjs-1.29.0.tgz#f113555a8fa9b57c35e637bba27509dcf802dd12"
   integrity sha512-Kx/1w86q/epKcmte75LNrEoT+lX8pBpavuAbvJWRXar7Hz8jrtF+e3vY751p0R8H9HdArwaCTNDDzHg/ScJK1Q==
