@@ -31,7 +31,7 @@
     "hexo-server": "3.0.0",
     "hexo-tag-bootstrap": "https://github.com/dotJobs/hexo-tag-bootstrap#06cc099d9a799fdc878a9b5d648f6aeda961b402",
     "hexo-tag-publications": "0.3.3",
-    "hexo-theme-next": "8.15.1",
+    "hexo-theme-next": "8.16.0",
     "unpkg_url": "0.0.1"
   },
   "resolutions": {
