@@ -1727,10 +1727,10 @@ hexo-tag-injector@^0.1.0:
   dependencies:
     escape-string-regexp "^4.0.0"
 
-hexo-tag-publications@0.3.3:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/hexo-tag-publications/-/hexo-tag-publications-0.3.3.tgz#d6a82de9db8d41eeff07efe46182e8b751f04337"
-  integrity sha512-JUjbrC2HWGcof03R1Vuc0tEezIVfGc5dq3fWf6u5YRGWErP2EEjJ+yXMpIe0BAiqvJ/Sc+y006H/+uDKkMWQvg==
+hexo-tag-publications@0.3.5:
+  version "0.3.5"
+  resolved "https://registry.yarnpkg.com/hexo-tag-publications/-/hexo-tag-publications-0.3.5.tgz#e0bc54d931c0766bf202e664480ca1336120d63a"
+  integrity sha512-3rPOUuXO8CqRgX+9FMvJ/z8Ox+2z1yCv9ZsSYnGr7eXaOdLhuUZAKX92JK23epNUO9a+iTnV01AbO6JKlxF7hA==
   dependencies:
     bibtex-parse "^2.1.0"
     hexo-fs "^4.0.0"
