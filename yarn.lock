@@ -1732,10 +1732,10 @@ hexo-tag-injector@^0.1.0:
   dependencies:
     escape-string-regexp "^4.0.0"
 
-hexo-tag-publications@0.3.6:
-  version "0.3.6"
-  resolved "https://registry.yarnpkg.com/hexo-tag-publications/-/hexo-tag-publications-0.3.6.tgz#eb65568c68f4b4450f731ddb7467fd71f565d7a6"
-  integrity sha512-RhufSbMm7jfTFfIjSdCjVws0wPaYyZ2gvTOXI/IH1GQW0XlsEVFdAyAJ4oKP2VtlUZM15fCTkV8jTP9cwLOGag==
+hexo-tag-publications@0.3.7:
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/hexo-tag-publications/-/hexo-tag-publications-0.3.7.tgz#183c273dab5ecb278358c68f67c9a3c45c4441fb"
+  integrity sha512-/NANJM8e14QrSLpC92V9rF3aaQQW6ODtEJAdm6yqWgd9659lS7X+Ycu9CRqXWrnKizxEWAPJDBVu7wgHTnIdrQ==
   dependencies:
     bibtex-parse "^2.1.0"
     hexo-fs "^4.0.0"
