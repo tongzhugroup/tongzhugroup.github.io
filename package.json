@@ -39,7 +39,7 @@
   },
   "devDependencies": {
     "@njzjz/preview-cfpages": "0.0.6",
-    "bootstrap": "5.3.6",
+    "bootstrap": "5.3.7",
     "hexo-all-minifier": "0.5.7"
   }
 }
