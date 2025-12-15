@@ -52,7 +52,7 @@ jobs:
         local_path: './public/*'
         remote_path: '/opt/wordpress'
         args: '-o ConnectTimeout=10'
-    - uses: actions/setup-python@v5
+    - uses: actions/setup-python@v6
       if: github.ref == 'refs/heads/master' && steps.ghpush.outputs.deployment-status == 'success'
       with:
         python-version: '3.x'
