@@ -12,53 +12,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
-    - uses: actions/setup-node@v4
+    - uses: actions/setup-node@v6
       with:
-        node-version: 14
-    - run: npm install -g yarn
-    - name: Get yarn cache
-      id: yarn-cache
-      run: echo "::set-output name=dir::$(yarn cache dir)"
-    - uses: actions/cache@v4
-      with:
-        path: ${{ steps.yarn-cache.outputs.dir }}
-        key: ${{ runner.os }}-yarn-${{ hashFiles('**/yarn.lock') }}
-        restore-keys: |
-          ${{ runner.os }}-yarn-
+        node-version: 22
+        cache: yarn
     - run: yarn install
     - run: yarn build
-      if: github.ref != 'refs/heads/master'
-    - run: yarn build
-      if: github.ref == 'refs/heads/master'
-      env:
-        CSS_COMMIT: gh-pages
-    - name: Deploy to GitHub Pages
-      uses: JamesIves/github-pages-deploy-action@releases/v4
-      id: ghpush
-      if: github.ref == 'refs/heads/master'
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v4
       with:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BRANCH: gh-pages
-        FOLDER: public
-        BASE_BRANCH: master
-        CLEAN: true
-    - name: deploy file to server
-      uses: wlixcc/SFTP-Deploy-Action@v1.2
-      if: github.ref == 'refs/heads/master'
-      with:
-        username: 'root'
-        server: '${{ secrets.SERVER_IP }}'
-        ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
-        local_path: './public/*'
-        remote_path: '/opt/wordpress'
-        args: '-o ConnectTimeout=10'
-    - uses: actions/setup-python@v5
-      if: github.ref == 'refs/heads/master' && steps.ghpush.outputs.deployment-status == 'success'
-      with:
-        python-version: '3.x'
-    - name: purge qcloud
-      if: github.ref == 'refs/heads/master' && steps.ghpush.outputs.deployment-status == 'success'
-      run: yarn purge_qcloud
-      env:
-        QCLOUDID: ${{ secrets.QCLOUDID }}
-        QCLOUDKEY: ${{ secrets.QCLOUDKEY }}
+        path: public
+  deploy:
+    needs: build
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-slim
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
