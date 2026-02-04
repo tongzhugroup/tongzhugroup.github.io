@@ -1818,6 +1818,7 @@ hexo-server@3.0.0:
 
 "hexo-tag-bootstrap@https://github.com/dotJobs/hexo-tag-bootstrap#06cc099d9a799fdc878a9b5d648f6aeda961b402":
   version "0.2.1"
+  uid "06cc099d9a799fdc878a9b5d648f6aeda961b402"
   resolved "https://github.com/dotJobs/hexo-tag-bootstrap#06cc099d9a799fdc878a9b5d648f6aeda961b402"
 
 hexo-tag-injector@^0.1.0:
