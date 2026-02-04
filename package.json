@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@next-theme/utils": "1.3.0",
-    "@njzjz/icons": "0.0.5",
+    "@njzjz/icons": "0.0.7",
     "hexo": "7.3.0",
     "hexo-extract-inline-scripts": "0.0.3",
     "hexo-generator-archive": "2.0.0",
