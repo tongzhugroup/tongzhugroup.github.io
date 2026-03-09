@@ -26,110 +26,105 @@ mathjax: true
 {% endcol %}
 {% endrow %}
 
+# 2026
+{% publications %}
+wang2026autoloop,
+yin2026mechanistic,
+zhu2026enhancing,
+xu2026sot,
+ren2026practical,
+he2026understanding
+{% endpublications %}
+
+# 2025
+{% publications %}
+sun2025machine,
+wu2025insights,
+xue2025identification,
+xiao2025deepatb,
+hu2025deep,
+zhu2025coarse,
+chen2025thiazolidinones,
+yin2025qm,
+liao2025application,
+tan2025time,
+zhang2025bohrium,
+li2025general,
+xu2025pretrained,
+xu2025ects,
+li2025transition,
+lu2025vib2mol,
+zhang2025graph,
+wang2025atmospheric,
+zhang2025real,
+yang2025ab,
+zhang2025atomic,
+xiao2025deep
+{% endpublications %}
+
+# 2024
+{% publications %}
+xiao2024machine,
+wei2024designer,
+fu2024predicting,
+deng2024visible,
+wang2024predicting,
+zhang2024dpa,
+nie2024enzymatic,
+li2024discovery,
+zhang2025atomic,
+wang2024dpa,
+liu2024one,
+deng2024iodide,
+sun2024rapid,
+sun2024correction,
+xue2024novel,
+chen2024discovery,
+wang2025design,
+li2024transition
+{% endpublications %}
+
+# 2023
+{% publications %}
+zeng2023neural,
+wang2023ensemble,
+zhang2023interaction,
+chin2023theoretical,
+guan2023regioselectively,
+li2023function,
+guo2023new,
+zhang2023dpa,
+zhao2023theoretical,
+wang2023front,
+wang2023enzyme,
+hu2023machine,
+xu2024envirodetanet
+{% endpublications %}
+
+# 2022
+{% publications %}
+fang2022exploring,
+gu2022theoretical,
+cao2022ab,
+gao2022efficient,
+zhao2022multiplex,
+xiong2022molecular,
+wang2022growth,
+deng2022novel,
+yu2020design
+{% endpublications %}
+
 # 2021
 {% publications %}
-cao2019combustion,
-chin2021cyclopentadienyl,
 xu2021automated,
 li2021extensive,
 chen2021binding,
 liu2021engineering,
-zeng2020exploring
+zeng2020exploring,
+liu2021structural,
+li2021benchmark,
+pei2021molecular,
+cao2021fragment,
+chin2021cyclopentadienyl
 {% endpublications %}
 
-# 2020
-{% publications %}
-han2020pharmacological,
-xu2020ab,
-zeng2020complex,
-wang2020design,
-wang2020approach,
-chin2020reaction,
-li2020ab,
-gao2020effect,
-hu2020supramolecular,
-zeng2020reacnetgenerator
-{% endpublications %}
-
-# 2019
-
-{% publications %}
-chin2019formation,
-zhu2019nanoporous,
-tian2019understanding,
-yin2019binding,
-xu2019molecular,
-tang2019self,
-zhao2019comparison,
-sun2019understanding,
-chen2019effect,
-zhao2019insights,
-chen2019decoding,
-zhu20194,
-xu2019fragment
-{% endpublications %}
-
-# 2018
-
-{% publications %}
-chen2018effect,
-gao2018comparison,
-gao2018exploring,
-yang2018donor,
-xu2018force,
-wang2018quantum,
-jin2018automated
-{% endpublications %}
-
-# 2017
-
-{% publications %}
-xi2017structure,
-sun2017optimization,
-luo2017origins,
-liu2017electrochemical,
-li2017single,
-jing2017discovery,
-huang2017theoretical,
-gao2017test,
-duan2017effect,
-duan2017direct,
-dong2017discovery
-{% endpublications %}
-
-# 2016
-
-{% publications %}
-wang2016predicted,
-lv2016new,
-liu2016pbsa_e,
-liu2016antitumor,
-jin2016systematic,
-fang2016preclinical
-{% endpublications %}
-
-# 2015
-
-{% publications %}
-zhu2015quantum,
-swails2015afnmr,
-chen2015comparative
-{% endpublications %}
-
-# 2010-2014
-
-{% publications %}
-zhu2014correction,
-he2014fragment,
-duan2014electronic,
-chen2014asp120asn,
-zhu2013automated,
-zhu2013new,
-duan2013implementation,
-zhu2012fragment,
-tong2010quasi,
-tong2010theoretical,
-zhu2010quasi,
-liu2010effect,
-hu2010some
-{% endpublications %}
