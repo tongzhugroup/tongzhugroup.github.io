@@ -1,0 +1,31 @@
+diff --git a/node_modules/hexo-tag-publications/src/read/bib.js b/node_modules/hexo-tag-publications/src/read/bib.js
+index 8db0e39..af8f276 100644
+--- a/node_modules/hexo-tag-publications/src/read/bib.js
++++ b/node_modules/hexo-tag-publications/src/read/bib.js
+@@ -13,7 +13,8 @@ const list2obj = (list) => {
+ const replace_bib = (str) => {
+     if (str) {
+         return str.replace(/\\ensuremath{([^}]+)}/g, '$$$1$$')
+-                  .replace(/\\textendash/g, '-');
++                  .replace(/\\textendash/g, '-')
++                  .replace(/\\\\?textbf{([^}]+)}/g, '$1');
+     }
+ }
+ 
+diff --git a/node_modules/hexo-tag-publications/src/render/citation.js b/node_modules/hexo-tag-publications/src/render/citation.js
+index be16d12..8effd6f 100644
+--- a/node_modules/hexo-tag-publications/src/render/citation.js
++++ b/node_modules/hexo-tag-publications/src/render/citation.js
+@@ -26,6 +26,12 @@ const get_citation = (pub) => {
+         // replace -- to –
+         var pages = pub.PAGES.toString().replace("--", "–");
+         cit.push(`, ${pages}`);
++    } else if (pub.EID) {
++        cit.push(`, ${pub.EID}`);
++    } else if (pub.ARTICLE_NUMBER) {
++        cit.push(`, ${pub.ARTICLE_NUMBER}`);
++    } else if (pub.ARTICLENUMBER) {
++        cit.push(`, ${pub.ARTICLENUMBER}`);
+     }
+     if (cit) {
+         cit.push('.');
