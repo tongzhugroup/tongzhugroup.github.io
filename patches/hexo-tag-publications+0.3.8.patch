@@ -8,10 +8,10 @@ index 8db0e39..af8f276 100644
          return str.replace(/\\ensuremath{([^}]+)}/g, '$$$1$$')
 -                  .replace(/\\textendash/g, '-');
 +                  .replace(/\\textendash/g, '-')
-+                  .replace(/\\\\?textbf{([^}]+)}/g, '$1');
++                  .replace(/\\\\?textbf{([^}]+)}/g, '<strong>$1</strong>');
      }
  }
- 
+
 diff --git a/node_modules/hexo-tag-publications/src/render/citation.js b/node_modules/hexo-tag-publications/src/render/citation.js
 index be16d12..8effd6f 100644
 --- a/node_modules/hexo-tag-publications/src/render/citation.js
