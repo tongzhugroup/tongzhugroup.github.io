@@ -1,0 +1,6798 @@
+[
+  {
+    "key": "sun2026machine",
+    "type": "article",
+    "title": "Machine learning driven ReaxFF optimization for combustion",
+    "authors": [
+      {
+        "family": "Sun",
+        "given": "Yueqian"
+      },
+      {
+        "family": "Zhang",
+        "given": "Shuwen"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Yueqian Sun, Shuwen Zhang, John ZH Zhang, **Tong Zhu**",
+    "journal": "Chinese Journal of Chemical Physics",
+    "year": 2026,
+    "volume": "39",
+    "number": "2",
+    "pages": "233--244",
+    "publisher": "Chinese Physical Society"
+  },
+  {
+    "key": "zhang2026graph",
+    "type": "article",
+    "title": "A graph neural network for the era of large atomistic models",
+    "authors": [
+      {
+        "family": "Zhang",
+        "given": "Duo"
+      },
+      {
+        "family": "Peng",
+        "given": "Anyang"
+      },
+      {
+        "family": "Cai",
+        "given": "Chun"
+      },
+      {
+        "family": "Li",
+        "given": "Wentao"
+      },
+      {
+        "family": "Zhou",
+        "given": "Yuanchang"
+      },
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Guo",
+        "given": "Mingyu"
+      },
+      {
+        "family": "Zhang",
+        "given": "Chengqian"
+      },
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Jiang",
+        "given": "Hong"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Jia",
+        "given": "Weile"
+      },
+      {
+        "family": "Zhang",
+        "given": "Linfeng"
+      },
+      {
+        "family": "Wang",
+        "given": "Han"
+      }
+    ],
+    "authorsDisplay": "Duo Zhang, Anyang Peng, Chun Cai, Wentao Li, Yuanchang Zhou, Jinzhe Zeng, Mingyu Guo, Chengqian Zhang, Bowen Li, Hong Jiang, **Tong Zhu**, Weile Jia, Linfeng Zhang, Han Wang",
+    "journal": "npj Computational Materials",
+    "year": 2026,
+    "publisher": "Nature Publishing Group UK London"
+  },
+  {
+    "key": "wang2026autoloop",
+    "type": "article",
+    "title": "AutoLoop is an autoregressive deep learning method for protein loop prediction with high accuracy",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Tianyue"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xujun"
+      },
+      {
+        "family": "Wang",
+        "given": "Langcheng"
+      },
+      {
+        "family": "Zhang",
+        "given": "Odin"
+      },
+      {
+        "family": "Wang",
+        "given": "Jike"
+      },
+      {
+        "family": "Wang",
+        "given": "Ercheng"
+      },
+      {
+        "family": "Wu",
+        "given": "Jialu"
+      },
+      {
+        "family": "Hu",
+        "given": "Renling"
+      },
+      {
+        "family": "Ge",
+        "given": "Jingxuan"
+      },
+      {
+        "family": "Li",
+        "given": "Shimeng"
+      },
+      {
+        "family": "Su",
+        "given": "Qun"
+      },
+      {
+        "family": "Yu",
+        "given": "Jiajun"
+      },
+      {
+        "family": "Hou",
+        "given": "Tingjun"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Hsieh",
+        "given": "Chang-Yu"
+      },
+      {
+        "family": "Kang",
+        "given": "Yu"
+      }
+    ],
+    "authorsDisplay": "Tianyue Wang, Xujun Zhang, Langcheng Wang, Odin Zhang, Jike Wang, Ercheng Wang, Jialu Wu, Renling Hu, Jingxuan Ge, Shimeng Li, Qun Su, Jiajun Yu, Tingjun Hou, **Tong Zhu**, Chang-Yu Hsieh, Yu Kang",
+    "journal": "Cell Reports Physical Science",
+    "year": 2026,
+    "volume": "7",
+    "number": "1",
+    "publisher": "Elsevier"
+  },
+  {
+    "key": "yin2026mechanistic",
+    "type": "article",
+    "title": "Mechanistic Insights into Nitrogenase-Catalyzed Nitrogen Fixation: A QM/MM Study",
+    "authors": [
+      {
+        "family": "Yin",
+        "given": "Jiabin"
+      },
+      {
+        "family": "Feng",
+        "given": "Jianqiang"
+      },
+      {
+        "family": "Gan",
+        "given": "Zhenjia"
+      },
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Wang",
+        "given": "Binju"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Jiabin Yin, Jianqiang Feng, Zhenjia Gan, Bowen Li, Binju Wang, **Tong Zhu**, John ZH Zhang",
+    "journal": "ACS Catalysis",
+    "year": 2026,
+    "volume": "16",
+    "number": "2",
+    "pages": "1224--1238",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "zhu2026enhancing",
+    "type": "article",
+    "title": "Enhancing the Simulation Accuracy of Small Organic Molecules with an Optimized Lennard-Jones Coarse-Grained Model",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Renjie"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Wu",
+        "given": "Ruibo"
+      },
+      {
+        "family": "Xia",
+        "given": "Fei"
+      }
+    ],
+    "authorsDisplay": "Renjie Zhu, **Tong Zhu**, Ruibo Wu, Fei Xia",
+    "year": 2026,
+    "publisher": "ChemRxiv"
+  },
+  {
+    "key": "xu2026sot",
+    "type": "article",
+    "title": "SOT-RM: An equivariant shortcut and optimal transportation-based flow model for exploring chemical reaction mechanisms",
+    "authors": [
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Dong",
+        "given": "Zhaojia"
+      },
+      {
+        "family": "Dral",
+        "given": "Pavlo O"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Chen",
+        "given": "Hongming"
+      }
+    ],
+    "authorsDisplay": "Mingyuan Xu, Bowen Li, Zhaojia Dong, Pavlo O Dral, **Tong Zhu**, Hongming Chen",
+    "year": 2026
+  },
+  {
+    "key": "ren2026practical",
+    "type": "article",
+    "title": "A practical framework for rapid calculation of protein polarization energies with anisotropic atomic polarizabilities",
+    "authors": [
+      {
+        "family": "Ren",
+        "given": "Wan-sheng"
+      },
+      {
+        "family": "Xiao",
+        "given": "Jin"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yingfeng"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Wan-sheng Ren, Jin Xiao, Yingfeng Zhang, **Tong Zhu**, John ZH Zhang",
+    "journal": "The Journal of Chemical Physics",
+    "year": 2026,
+    "volume": "164",
+    "number": "5",
+    "publisher": "AIP Publishing"
+  },
+  {
+    "key": "he2026understanding",
+    "type": "article",
+    "title": "Understanding the Adsorption and Desorption Dynamics for On-surface Systems",
+    "authors": [
+      {
+        "family": "He",
+        "given": "Jin-En"
+      },
+      {
+        "family": "Yang",
+        "given": "Mingjun"
+      },
+      {
+        "family": "Chen",
+        "given": "Zhe-Ning"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Chen",
+        "given": "Jun"
+      }
+    ],
+    "authorsDisplay": "Jin-En He, Mingjun Yang, Zhe-Ning Chen, **Tong Zhu**, Jun Chen",
+    "year": 2026
+  },
+  {
+    "key": "zhu2026comparative",
+    "type": "article",
+    "title": "Comparative binding mechanisms of SND1 with MTDH and small-molecule inhibitors: insights from molecular dynamics simulations and free energy calculations",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Xi"
+      },
+      {
+        "family": "Chang",
+        "given": "Jiarui"
+      },
+      {
+        "family": "Fang",
+        "given": "Min"
+      },
+      {
+        "family": "Wu",
+        "given": "Xinyu"
+      },
+      {
+        "family": "Yin",
+        "given": "Zhixiang"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Qi",
+        "given": "Fenghua"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      }
+    ],
+    "authorsDisplay": "Xi Zhu, Jiarui Chang, Min Fang, Xinyu Wu, Zhixiang Yin, John ZH Zhang, Fenghua Qi, **Tong Zhu**, Ya Gao",
+    "journal": "Physical Chemistry Chemical Physics",
+    "year": 2026,
+    "volume": "28",
+    "number": "16",
+    "pages": "10216--10229",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "ding2026automating",
+    "type": "article",
+    "title": "Automating computational chemistry workflows via OpenClaw and domain-specific skills",
+    "authors": [
+      {
+        "family": "Ding",
+        "given": "Mingwei"
+      },
+      {
+        "family": "Huang",
+        "given": "Chen"
+      },
+      {
+        "family": "Hu",
+        "given": "Yibo"
+      },
+      {
+        "family": "Li",
+        "given": "Yifan"
+      },
+      {
+        "family": "Lu",
+        "given": "Zitian"
+      },
+      {
+        "family": "Yu",
+        "given": "Xingtai"
+      },
+      {
+        "family": "Zhang",
+        "given": "Duo"
+      },
+      {
+        "family": "Zhai",
+        "given": "Wenxi"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Gu",
+        "given": "Qiangqiang"
+      }
+    ],
+    "authorsDisplay": "Mingwei Ding, Chen Huang, Yibo Hu, Yifan Li, Zitian Lu, Xingtai Yu, Duo Zhang, Wenxi Zhai, **Tong Zhu**, Qiangqiang Gu",
+    "journal": "Journal of Chemical Theory and Computation",
+    "year": 2026,
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "xu2026sot",
+    "type": "article",
+    "title": "SOT-RM: An equivariant shortcut and optimal transport-based flow model for exploring chemical reaction mechanisms",
+    "authors": [
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Dong",
+        "given": "Zhaojia"
+      },
+      {
+        "family": "Chen",
+        "given": "Yuxinxin"
+      },
+      {
+        "family": "Dral",
+        "given": "Pavlo"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Chen",
+        "given": "Hongming"
+      }
+    ],
+    "authorsDisplay": "Mingyuan Xu, Bowen Li, Zhaojia Dong, Yuxinxin Chen, Pavlo Dral, **Tong Zhu**, Hongming Chen",
+    "year": 2026
+  },
+  {
+    "key": "ren2026gmfcc",
+    "type": "article",
+    "title": "GMFCC-UMA: A Fragment-Based Machine Learning Framework for Scalable Ab Initio-Quality Protein Energies",
+    "authors": [
+      {
+        "family": "Ren",
+        "given": "Wan-sheng"
+      },
+      {
+        "family": "Xiao",
+        "given": "Jin"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yingfeng"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Wan-sheng Ren, Jin Xiao, Yingfeng Zhang, **Tong Zhu**, John ZH Zhang",
+    "journal": "Journal of Chemical Theory and Computation",
+    "year": 2026,
+    "volume": "22",
+    "number": "9",
+    "pages": "4822--4834",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "hu2026lamnet",
+    "type": "article",
+    "title": "LamNet: an alchemical-path-aware graph neural network to accelerate binding free energy calculations for drug discovery and beyond",
+    "authors": [
+      {
+        "family": "Hu",
+        "given": "Renling"
+      },
+      {
+        "family": "Wu",
+        "given": "Jialu"
+      },
+      {
+        "family": "Su",
+        "given": "Qun"
+      },
+      {
+        "family": "Li",
+        "given": "Shimeng"
+      },
+      {
+        "family": "Li",
+        "given": "Yang"
+      },
+      {
+        "family": "Wang",
+        "given": "Tianyue"
+      },
+      {
+        "family": "Kang",
+        "given": "Yu"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Hsieh",
+        "given": "Chang-yu"
+      },
+      {
+        "family": "Hou",
+        "given": "Tingjun"
+      }
+    ],
+    "authorsDisplay": "Renling Hu, Jialu Wu, Qun Su, Shimeng Li, Yang Li, Tianyue Wang, Yu Kang, **Tong Zhu**, Chang-yu Hsieh, Tingjun Hou",
+    "journal": "National Science Review",
+    "year": 2026,
+    "volume": "13",
+    "number": "3",
+    "pages": "nwaf559",
+    "publisher": "Oxford University Press"
+  },
+  {
+    "key": "zhu2026artificial",
+    "type": "misc",
+    "title": "From artificial intelligence for science to autonomous chemical innovation: closing the loop in energy and chemical engineering",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "E",
+        "given": "Weinan"
+      }
+    ],
+    "authorsDisplay": "**Tong Zhu**, Weinan E",
+    "journal": "Clean Energy",
+    "year": 2026,
+    "volume": "10",
+    "number": "4",
+    "pages": "1--8",
+    "publisher": "Oxford University Press UK"
+  },
+  {
+    "key": "bai2026experimental",
+    "type": "article",
+    "title": "Experimental astrochemistry and machine learning unravel the formation of oxygen-bearing organic molecules in extraterrestrial ices",
+    "authors": [
+      {
+        "family": "Bai",
+        "given": "Xilin"
+      },
+      {
+        "family": "Mi",
+        "given": "Sixuan"
+      },
+      {
+        "family": "Gong",
+        "given": "Qi’ang"
+      },
+      {
+        "family": "Lu",
+        "given": "Jinghui"
+      },
+      {
+        "family": "Yang",
+        "given": "Jiuzhong"
+      },
+      {
+        "family": "Pan",
+        "given": "Yang"
+      },
+      {
+        "family": "Li",
+        "given": "Xiaohu"
+      },
+      {
+        "family": "Sun",
+        "given": "Zhenrong"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Kaiser",
+        "given": "Ralf I"
+      }
+    ],
+    "authorsDisplay": "Xilin Bai, Sixuan Mi, Qi’ang Gong, Jinghui Lu, Jiuzhong Yang, Yang Pan, Xiaohu Li, Zhenrong Sun, **Tong Zhu**, Ralf I Kaiser",
+    "journal": "Communications Chemistry",
+    "year": 2026,
+    "publisher": "Nature Publishing Group UK London"
+  },
+  {
+    "key": "li2026automated",
+    "type": "article",
+    "title": "Automated Reaction Path Discovery for Coal Pyrolysis: Scalable Dataset Construction and Mechanistic Insights for Clean Energy Applications",
+    "authors": [
+      {
+        "family": "Li",
+        "given": "Dao"
+      },
+      {
+        "family": "Li",
+        "given": "Xu"
+      },
+      {
+        "family": "Yun",
+        "given": "Jie"
+      },
+      {
+        "family": "Liu",
+        "given": "Qizhao"
+      },
+      {
+        "family": "Gao",
+        "given": "Shansong"
+      },
+      {
+        "family": "Li",
+        "given": "Haisheng"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Gou",
+        "given": "Rongheng"
+      }
+    ],
+    "authorsDisplay": "Dao Li, Xu Li, Jie Yun, Qizhao Liu, Shansong Gao, Haisheng Li, **Tong Zhu**, Rongheng Gou",
+    "journal": "Clean Energy",
+    "year": 2026,
+    "pages": "zkag036",
+    "publisher": "Oxford University Press"
+  },
+  {
+    "key": "lin2026rnarl",
+    "type": "article",
+    "title": "RNARL: reinforcement learning-driven unified generative framework for multi-objective RNA codon design",
+    "authors": [
+      {
+        "family": "Lin",
+        "given": "Shenggeng"
+      },
+      {
+        "family": "Tan",
+        "given": "Hong"
+      },
+      {
+        "family": "Wang",
+        "given": "Keyao"
+      },
+      {
+        "family": "Wang",
+        "given": "Ruixuan"
+      },
+      {
+        "family": "Wang",
+        "given": "Hongxia"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Xiong",
+        "given": "Yi"
+      }
+    ],
+    "authorsDisplay": "Shenggeng Lin, Hong Tan, Keyao Wang, Ruixuan Wang, Hongxia Wang, **Tong Zhu**, Yi Xiong",
+    "journal": "Genome Biology",
+    "year": 2026,
+    "publisher": "BioMed Central London"
+  },
+  {
+    "key": "he2026coverage",
+    "type": "article",
+    "title": "Coverage-Dependent Free-Energy Bottlenecks in CO Adsorption and Desorption on Ru (0001)",
+    "authors": [
+      {
+        "family": "He",
+        "given": "Jin-En"
+      },
+      {
+        "family": "Yang",
+        "given": "Mingjun"
+      },
+      {
+        "family": "Chen",
+        "given": "Zhe-Ning"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Chen",
+        "given": "Jun"
+      }
+    ],
+    "authorsDisplay": "Jin-En He, Mingjun Yang, Zhe-Ning Chen, **Tong Zhu**, Jun Chen",
+    "journal": "JACS Au",
+    "year": 2026,
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "dong2026improvements",
+    "type": "article",
+    "title": "Improvements in chemical reaction pathway exploration algorithms and dataset generation",
+    "authors": [
+      {
+        "family": "Dong",
+        "given": "Zhaojia"
+      },
+      {
+        "family": "Zhang",
+        "given": "Hanwen"
+      },
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Mi",
+        "given": "Sixuan"
+      },
+      {
+        "family": "Yin",
+        "given": "Jiabin"
+      },
+      {
+        "family": "Wang",
+        "given": "Jingbo"
+      },
+      {
+        "family": "Ma",
+        "given": "Jianyi"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Zhaojia Dong, Hanwen Zhang, Bowen Li, Sixuan Mi, Jiabin Yin, Jingbo Wang, Jianyi Ma, **Tong Zhu**",
+    "journal": "Scientific Data",
+    "year": 2026,
+    "volume": "13",
+    "number": "1101",
+    "publisher": "Nature Publishing Group",
+    "doi": "10.1038/s41597-026-07771-6"
+  },
+  {
+    "key": "yang2025ab",
+    "type": "article",
+    "title": "Ab Initio Accuracy Neural Network Potential for Drug-Like Molecules",
+    "authors": [
+      {
+        "family": "Yang",
+        "given": "Manyi"
+      },
+      {
+        "family": "Zhang",
+        "given": "Duo"
+      },
+      {
+        "family": "Wang",
+        "given": "Xinyan"
+      },
+      {
+        "family": "Li",
+        "given": "BoWen"
+      },
+      {
+        "family": "Zhang",
+        "given": "Linfeng"
+      },
+      {
+        "family": "E",
+        "given": "Weinan"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Wang",
+        "given": "Han"
+      }
+    ],
+    "authorsDisplay": "Manyi Yang, Duo Zhang, Xinyan Wang, BoWen Li, Linfeng Zhang, Weinan E, **Tong Zhu**, Han Wang",
+    "journal": "Research",
+    "year": 2025,
+    "volume": "8",
+    "pages": "0837",
+    "publisher": "AAAS"
+  },
+  {
+    "key": "wang2025design",
+    "type": "article",
+    "title": "On the design space between molecular mechanics and machine learning force fields",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Yuanqing"
+      },
+      {
+        "family": "Takaba",
+        "given": "Kenichiro"
+      },
+      {
+        "family": "Chen",
+        "given": "Michael S"
+      },
+      {
+        "family": "Wieder",
+        "given": "Marcus"
+      },
+      {
+        "family": "Xu",
+        "given": "Yuzhi"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Nagle",
+        "given": "Arnav"
+      },
+      {
+        "family": "Yu",
+        "given": "Kuang"
+      },
+      {
+        "family": "Wang",
+        "given": "Xinyan"
+      }
+    ],
+    "authorsDisplay": "Yuanqing Wang, Kenichiro Takaba, Michael S Chen, Marcus Wieder, Yuzhi Xu, **Tong Zhu**, John ZH Zhang, Arnav Nagle, Kuang Yu, Xinyan Wang",
+    "journal": "Applied Physics Reviews",
+    "year": 2025,
+    "volume": "12",
+    "number": "2",
+    "publisher": "AIP Publishing"
+  },
+  {
+    "key": "zhang2025atomic",
+    "type": "article",
+    "title": "The Atomic Density-Based Tight-Binding (aTB) Model: A Robust and Accurate Semiempirical Method Parametrized for H--Ra; Applied to Structures, Vibrational Frequencies, Noncovalent Interactions, and Excited States",
+    "authors": [
+      {
+        "family": "Zhang",
+        "given": "Yingfeng"
+      },
+      {
+        "family": "Xiao",
+        "given": "Jin"
+      },
+      {
+        "family": "Wang",
+        "given": "Shunyu"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Yingfeng Zhang, Jin Xiao, Shunyu Wang, **Tong Zhu**, John ZH Zhang",
+    "journal": "Journal of Chemical Theory and Computation",
+    "year": 2025,
+    "volume": "21",
+    "number": "7",
+    "pages": "3410--3425",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "xiao2025deep",
+    "type": "article",
+    "title": "A Deep Learning-Augmented Density Functional Framework for Reaction Modeling with Chemical Accuracy",
+    "authors": [
+      {
+        "family": "Xiao",
+        "given": "Jin"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yingfeng"
+      },
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Zhang",
+        "given": "Shuwen"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Chen",
+        "given": "Wei"
+      },
+      {
+        "family": "Wang",
+        "given": "Han"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jin Xiao, Yingfeng Zhang, Bowen Li, Shuwen Zhang, Ya Gao, Wei Chen, Han Wang, John ZH Zhang, **Tong Zhu**",
+    "journal": "JACS Au",
+    "year": 2025,
+    "volume": "5",
+    "number": "8",
+    "pages": "3892"
+  },
+  {
+    "key": "li2025transition",
+    "type": "article",
+    "title": "Transition state searching accelerated by neural network potential",
+    "authors": [
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Xiao",
+        "given": "Jin"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Bowen Li, Jin Xiao, Ya Gao, John ZH Zhang, **Tong Zhu**",
+    "journal": "Journal of Chemical Information and Modeling",
+    "year": 2025,
+    "volume": "65",
+    "number": "5",
+    "pages": "2297--2303",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "lu2025vib2mol",
+    "type": "article",
+    "title": "Vib2Mol: from vibrational spectra to molecular structures-a unified deep learning framework",
+    "authors": [
+      {
+        "family": "Lu",
+        "given": "Xinyu"
+      },
+      {
+        "family": "Ma",
+        "given": "Hao"
+      },
+      {
+        "family": "Li",
+        "given": "Hui"
+      },
+      {
+        "family": "Li",
+        "given": "Jia"
+      },
+      {
+        "family": "Rong",
+        "given": "Yi"
+      },
+      {
+        "family": "Li",
+        "given": "Yuqiang"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Liu",
+        "given": "Guokun"
+      },
+      {
+        "family": "Ren",
+        "given": "Bin"
+      }
+    ],
+    "authorsDisplay": "Xinyu Lu, Hao Ma, Hui Li, Jia Li, Yi Rong, Yuqiang Li, **Tong Zhu**, Guokun Liu, Bin Ren",
+    "journal": "arXiv preprint arXiv:2503.07014",
+    "year": 2025
+  },
+  {
+    "key": "xu2025ects",
+    "type": "article",
+    "title": "ECTS: An ultra-fast diffusion model for exploring chemical reactions with equivariant consistency",
+    "authors": [
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Dong",
+        "given": "Zhaojia"
+      },
+      {
+        "family": "Dral",
+        "given": "Pavlo"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Chen",
+        "given": "Hongming"
+      }
+    ],
+    "authorsDisplay": "Mingyuan Xu, Bowen Li, Zhaojia Dong, Pavlo Dral, **Tong Zhu**, Hongming Chen",
+    "year": 2025,
+    "publisher": "ChemRxiv"
+  },
+  {
+    "key": "gu2025interaction",
+    "type": "article",
+    "title": "Interaction of magnesium ion and acetate anion in bulk water: Toward high-level machine learning potential",
+    "authors": [
+      {
+        "family": "Gu",
+        "given": "Jiaying"
+      },
+      {
+        "family": "Xiao",
+        "given": "Jin"
+      },
+      {
+        "family": "Wu",
+        "given": "Xingyu"
+      },
+      {
+        "family": "Zhu",
+        "given": "Xi"
+      },
+      {
+        "family": "Chen",
+        "given": "Huimin"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Yin",
+        "given": "Zhixiang"
+      }
+    ],
+    "authorsDisplay": "Jiaying Gu, Jin Xiao, Xingyu Wu, Xi Zhu, Huimin Chen, John ZH Zhang, **Tong Zhu**, Ya Gao, Zhixiang Yin",
+    "journal": "Chinese Journal of Chemical Physics",
+    "year": 2025,
+    "volume": "38",
+    "number": "1",
+    "pages": "95--101",
+    "publisher": "Chinese Physical Society"
+  },
+  {
+    "key": "kan2025invariant",
+    "type": "article",
+    "title": "Invariant-Potential-Driven Molecular Dynamics Unravels Formose Reaction Kinetics",
+    "authors": [
+      {
+        "family": "Kan",
+        "given": "Hei Wun"
+      },
+      {
+        "family": "Li",
+        "given": "Xiao-Tian"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Xu",
+        "given": "Yuzhi"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Hei Wun Kan, Xiao-Tian Li, **Tong Zhu**, Yuzhi Xu, John ZH Zhang",
+    "year": 2025,
+    "publisher": "ChemRxiv"
+  },
+  {
+    "key": "wang2025atmospheric",
+    "type": "article",
+    "title": "Atmospheric sulfate aerosol formation enhanced by interfacial anions",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Gehui"
+      },
+      {
+        "family": "Zhang",
+        "given": "Si"
+      },
+      {
+        "family": "Wu",
+        "given": "Can"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Xu",
+        "given": "Xinbei"
+      },
+      {
+        "family": "Ge",
+        "given": "Shuangshuang"
+      },
+      {
+        "family": "Sun",
+        "given": "Haitao"
+      },
+      {
+        "family": "Sun",
+        "given": "Zhenrong"
+      },
+      {
+        "family": "Wang",
+        "given": "Jiaxin"
+      },
+      {
+        "family": "Ji",
+        "given": "Yuemeng"
+      }
+    ],
+    "authorsDisplay": "Gehui Wang, Si Zhang, Can Wu, **Tong Zhu**, Xinbei Xu, Shuangshuang Ge, Haitao Sun, Zhenrong Sun, Jiaxin Wang, Yuemeng Ji",
+    "journal": "PNAS nexus",
+    "year": 2025,
+    "volume": "4",
+    "number": "3",
+    "pages": "pgaf058",
+    "publisher": "Oxford University Press US"
+  },
+  {
+    "key": "zhang2025real",
+    "type": "article",
+    "title": "Real-fluid transport property computations based on the Boltzmann-weighted full-dimensional potential model",
+    "authors": [
+      {
+        "family": "Zhang",
+        "given": "Xin"
+      },
+      {
+        "family": "Bai",
+        "given": "Junfeng"
+      },
+      {
+        "family": "Liu",
+        "given": "Bowen"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhao",
+        "given": "Hao"
+      }
+    ],
+    "authorsDisplay": "Xin Zhang, Junfeng Bai, Bowen Liu, **Tong Zhu**, Hao Zhao",
+    "journal": "Applications in Energy and Combustion Science",
+    "year": 2025,
+    "volume": "23",
+    "pages": "100342",
+    "publisher": "Elsevier"
+  },
+  {
+    "key": "li2025general",
+    "type": "article",
+    "title": "General reactive machine learning potentials for CHON elements",
+    "authors": [
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Mi",
+        "given": "Sixuan"
+      },
+      {
+        "family": "Xiao",
+        "given": "Jin"
+      },
+      {
+        "family": "Zhang",
+        "given": "Duo"
+      },
+      {
+        "family": "Zhang",
+        "given": "Shuwen"
+      },
+      {
+        "family": "Zhang",
+        "given": "John"
+      },
+      {
+        "family": "Wang",
+        "given": "Han"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Bowen Li, Sixuan Mi, Jin Xiao, Duo Zhang, Shuwen Zhang, John Zhang, Han Wang, **Tong Zhu**",
+    "year": 2025,
+    "publisher": "ChemRxiv"
+  },
+  {
+    "key": "xu2025pretrained",
+    "type": "article",
+    "title": "Pretrained E (3)-equivariant message-passing neural networks with multi-level representations for organic molecule spectra prediction",
+    "authors": [
+      {
+        "family": "Xu",
+        "given": "Yuzhi"
+      },
+      {
+        "family": "Bian",
+        "given": "Daqian"
+      },
+      {
+        "family": "Ju",
+        "given": "Cheng-Wei"
+      },
+      {
+        "family": "Zhao",
+        "given": "Fanyu"
+      },
+      {
+        "family": "Xie",
+        "given": "Pujun"
+      },
+      {
+        "family": "Wang",
+        "given": "Yuanqing"
+      },
+      {
+        "family": "Hu",
+        "given": "Wei"
+      },
+      {
+        "family": "Sun",
+        "given": "Zhenrong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Yuzhi Xu, Daqian Bian, Cheng-Wei Ju, Fanyu Zhao, Pujun Xie, Yuanqing Wang, Wei Hu, Zhenrong Sun, John ZH Zhang, **Tong Zhu**",
+    "journal": "npj Computational Materials",
+    "year": 2025,
+    "volume": "11",
+    "number": "1",
+    "pages": "203",
+    "publisher": "Nature Publishing Group UK London"
+  },
+  {
+    "key": "wu2025insights",
+    "type": "article",
+    "title": "Insights into Binding Mechanisms of Potential Inhibitors Targeting PCSK9 Protein via Molecular Dynamics Simulation and Free Energy Calculation",
+    "authors": [
+      {
+        "family": "Wu",
+        "given": "Xingyu"
+      },
+      {
+        "family": "Zhu",
+        "given": "Xi"
+      },
+      {
+        "family": "Fang",
+        "given": "Min"
+      },
+      {
+        "family": "Qi",
+        "given": "Fenghua"
+      },
+      {
+        "family": "Yin",
+        "given": "Zhixiang"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Luo",
+        "given": "Shihua"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      }
+    ],
+    "authorsDisplay": "Xingyu Wu, Xi Zhu, Min Fang, Fenghua Qi, Zhixiang Yin, John ZH Zhang, Shihua Luo, **Tong Zhu**, Ya Gao",
+    "journal": "Molecules",
+    "year": 2025,
+    "volume": "30",
+    "number": "14",
+    "pages": "2962",
+    "publisher": "MDPI"
+  },
+  {
+    "key": "xue2025identification",
+    "type": "article",
+    "title": "Identification of Nogo-B as a potential therapeutic target of osteosarcoma via stereochemically selective covalent probes",
+    "authors": [
+      {
+        "family": "Xue",
+        "given": "Jian"
+      },
+      {
+        "family": "Li",
+        "given": "Meng"
+      },
+      {
+        "family": "Kang",
+        "given": "Li"
+      },
+      {
+        "family": "Wang",
+        "given": "Meiting"
+      },
+      {
+        "family": "Yin",
+        "given": "Jiabin"
+      },
+      {
+        "family": "Sun",
+        "given": "Donghui"
+      },
+      {
+        "family": "Deng",
+        "given": "Yaqi"
+      },
+      {
+        "family": "Wei",
+        "given": "Qinghua"
+      },
+      {
+        "family": "Wong",
+        "given": "Jiemin"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jian Xue, Meng Li, Li Kang, Meiting Wang, Jiabin Yin, Donghui Sun, Yaqi Deng, Qinghua Wei, Jiemin Wong, **Tong Zhu**",
+    "journal": "Cell Death \\& Disease",
+    "year": 2025,
+    "volume": "16",
+    "number": "1",
+    "pages": "537",
+    "publisher": "Nature Publishing Group UK London"
+  },
+  {
+    "key": "xiao2025deepatb",
+    "type": "article",
+    "title": "DeePaTB: A deep learning powerd semi-empirical quantum mechanical method",
+    "authors": [
+      {
+        "family": "Xiao",
+        "given": "Jin"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yingfeng"
+      },
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jin Xiao, Yingfeng Zhang, Bowen Li, Jinzhe Zeng, John ZH Zhang, **Tong Zhu**",
+    "year": 2025,
+    "publisher": "ChemRxiv"
+  },
+  {
+    "key": "hu2025deep",
+    "type": "article",
+    "title": "Deep learning for bidirectional translation between molecular structures and vibrational spectra",
+    "authors": [
+      {
+        "family": "Hu",
+        "given": "Tianqing"
+      },
+      {
+        "family": "Zou",
+        "given": "Zihan"
+      },
+      {
+        "family": "Li",
+        "given": "Bo"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Gu",
+        "given": "Shaonan"
+      },
+      {
+        "family": "Jiang",
+        "given": "Jun"
+      },
+      {
+        "family": "Luo",
+        "given": "Yi"
+      },
+      {
+        "family": "Hu",
+        "given": "Wei"
+      }
+    ],
+    "authorsDisplay": "Tianqing Hu, Zihan Zou, Bo Li, **Tong Zhu**, Shaonan Gu, Jun Jiang, Yi Luo, Wei Hu",
+    "journal": "Journal of the American Chemical Society",
+    "year": 2025,
+    "volume": "147",
+    "number": "31",
+    "pages": "27525--27536",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "xue2025identification",
+    "type": "article",
+    "title": "Identification of EEF1A2 as a potential therapy target of osteosarcoma using novel compound 8e",
+    "authors": [
+      {
+        "family": "Xue",
+        "given": "Jian"
+      },
+      {
+        "family": "Li",
+        "given": "Meng"
+      },
+      {
+        "family": "Wang",
+        "given": "Ying"
+      },
+      {
+        "family": "Sun",
+        "given": "Donghui"
+      },
+      {
+        "family": "Hao",
+        "given": "Shilong"
+      },
+      {
+        "family": "Liu",
+        "given": "Zhuochao"
+      },
+      {
+        "family": "Zhang",
+        "given": "Weibin"
+      },
+      {
+        "family": "Li",
+        "given": "Lei"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Liu",
+        "given": "Shunying"
+      }
+    ],
+    "authorsDisplay": "Jian Xue, Meng Li, Ying Wang, Donghui Sun, Shilong Hao, Zhuochao Liu, Weibin Zhang, Lei Li, **Tong Zhu**, Shunying Liu",
+    "journal": "European Journal of Medicinal Chemistry",
+    "year": 2025,
+    "pages": "118355",
+    "publisher": "Elsevier Masson"
+  },
+  {
+    "key": "zhu2025coarse",
+    "type": "article",
+    "title": "Coarse-Grained Simulation of Persistence Length and Twisting Dynamics of Micrometer-Scale Microtubules",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Renjie"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yuwei"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Xia",
+        "given": "Fei"
+      }
+    ],
+    "authorsDisplay": "Renjie Zhu, Yuwei Zhang, **Tong Zhu**, Fei Xia",
+    "journal": "The Journal of Physical Chemistry Letters",
+    "year": 2025,
+    "volume": "16",
+    "number": "29",
+    "pages": "7300--7306",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "chen2025thiazolidinones",
+    "type": "article",
+    "title": "Thiazolidinones as Potential PGK1 Inhibitors for Treatment of Osteosarcoma Growth and Metastasis",
+    "authors": [
+      {
+        "family": "Chen",
+        "given": "Xuwen"
+      },
+      {
+        "family": "Li",
+        "given": "Meng"
+      },
+      {
+        "family": "Hu",
+        "given": "Zongjing"
+      },
+      {
+        "family": "Sun",
+        "given": "Donghui"
+      },
+      {
+        "family": "Xu",
+        "given": "Yikai"
+      },
+      {
+        "family": "Dong",
+        "given": "Wenwen"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "Weibin"
+      },
+      {
+        "family": "Liu",
+        "given": "Shunying"
+      }
+    ],
+    "authorsDisplay": "Xuwen Chen, Meng Li, Zongjing Hu, Donghui Sun, Yikai Xu, Wenwen Dong, **Tong Zhu**, Weibin Zhang, Shunying Liu",
+    "journal": "Journal of Medicinal Chemistry",
+    "year": 2025,
+    "volume": "68",
+    "number": "21",
+    "pages": "22216--22245",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "yin2025qm",
+    "type": "article",
+    "title": "QM/MM study of cytochrome P450 TxtE catalysis: Substrate reorganization enables selective aromatic nitration",
+    "authors": [
+      {
+        "family": "Yin",
+        "given": "Jiabin"
+      },
+      {
+        "family": "Feng",
+        "given": "Jianqiang"
+      },
+      {
+        "family": "Gan",
+        "given": "Zhenjia"
+      },
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Wang",
+        "given": "Binju"
+      },
+      {
+        "family": "Zhang",
+        "given": "Lujia"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Jiabin Yin, Jianqiang Feng, Zhenjia Gan, Bowen Li, Binju Wang, Lujia Zhang, **Tong Zhu**, John ZH Zhang",
+    "journal": "The Journal of Chemical Physics",
+    "year": 2025,
+    "volume": "163",
+    "number": "16",
+    "publisher": "AIP Publishing"
+  },
+  {
+    "key": "liao2025application",
+    "type": "article",
+    "title": "Application of Modern Intelligent Algorithms in Retrosynthesis Prediction",
+    "authors": [
+      {
+        "family": "Liao",
+        "given": "Jianhan"
+      },
+      {
+        "family": "Shi",
+        "given": "Xiaoxin"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Wang",
+        "given": "Xingyu"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jianhan Liao, Xiaoxin Shi, Ya Gao, Xingyu Wang, **Tong Zhu**",
+    "journal": "Communications in Computational Chemistry",
+    "year": 2025,
+    "volume": "7",
+    "number": "4",
+    "pages": "289--310"
+  },
+  {
+    "key": "tan2025time",
+    "type": "article",
+    "title": "Time-resolved fluorescent proteins expand fluorescent microscopy in temporal and spectral domains",
+    "authors": [
+      {
+        "family": "Tan",
+        "given": "Zizhu"
+      },
+      {
+        "family": "Hsiung",
+        "given": "Chia-Heng"
+      },
+      {
+        "family": "Feng",
+        "given": "Jiahui"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yangye"
+      },
+      {
+        "family": "Wan",
+        "given": "Yihan"
+      },
+      {
+        "family": "Chen",
+        "given": "Junlin"
+      },
+      {
+        "family": "Sun",
+        "given": "Ke"
+      },
+      {
+        "family": "Lu",
+        "given": "Peilong"
+      },
+      {
+        "family": "Zang",
+        "given": "Jianyang"
+      },
+      {
+        "family": "Yang",
+        "given": "Wenxing"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Yin",
+        "given": "Jiabin"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Lu",
+        "given": "Yang"
+      },
+      {
+        "family": "Pan",
+        "given": "Zijian"
+      },
+      {
+        "family": "Zou",
+        "given": "Yilong"
+      },
+      {
+        "family": "Liao",
+        "given": "Can"
+      },
+      {
+        "family": "Li",
+        "given": "Xiaosong"
+      },
+      {
+        "family": "Ye",
+        "given": "Yuxuan"
+      },
+      {
+        "family": "Liu",
+        "given": "Yu"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xin"
+      }
+    ],
+    "authorsDisplay": "Zizhu Tan, Chia-Heng Hsiung, Jiahui Feng, Yangye Zhang, Yihan Wan, Junlin Chen, Ke Sun, Peilong Lu, Jianyang Zang, Wenxing Yang, Ya Gao, Jiabin Yin, **Tong Zhu**, Yang Lu, Zijian Pan, Yilong Zou, Can Liao, Xiaosong Li, Yuxuan Ye, Yu Liu, Xin Zhang",
+    "journal": "Cell",
+    "year": 2025,
+    "volume": "188",
+    "number": "24",
+    "pages": "6987--7005",
+    "publisher": "Elsevier"
+  },
+  {
+    "key": "xiao2024machine",
+    "type": "article",
+    "title": "A machine learning-based high-precision density functional method for drug-like molecules",
+    "authors": [
+      {
+        "family": "Xiao",
+        "given": "Jin"
+      },
+      {
+        "family": "Chen",
+        "given": "YiXiao"
+      },
+      {
+        "family": "Zhang",
+        "given": "LinFeng"
+      },
+      {
+        "family": "Wang",
+        "given": "Han"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jin Xiao, YiXiao Chen, LinFeng Zhang, Han Wang, **Tong Zhu**",
+    "journal": "Artificial Intelligence Chemistry",
+    "year": 2024,
+    "volume": "2",
+    "number": "1",
+    "pages": "100037",
+    "publisher": "Elsevier"
+  },
+  {
+    "key": "wei2024designer",
+    "type": "article",
+    "title": "Designer cellular spheroids with DNA origami for drug screening",
+    "authors": [
+      {
+        "family": "Wei",
+        "given": "Jiayi"
+      },
+      {
+        "family": "Sun",
+        "given": "Yueyang"
+      },
+      {
+        "family": "Wang",
+        "given": "Heming"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Li",
+        "given": "Li"
+      },
+      {
+        "family": "Zhou",
+        "given": "Ying"
+      },
+      {
+        "family": "Liu",
+        "given": "Quan"
+      },
+      {
+        "family": "Dai",
+        "given": "Zhen"
+      },
+      {
+        "family": "Li",
+        "given": "Wenjuan"
+      },
+      {
+        "family": "Yang",
+        "given": "Taihua"
+      }
+    ],
+    "authorsDisplay": "Jiayi Wei, Yueyang Sun, Heming Wang, **Tong Zhu**, Li Li, Ying Zhou, Quan Liu, Zhen Dai, Wenjuan Li, Taihua Yang",
+    "journal": "Science advances",
+    "year": 2024,
+    "volume": "10",
+    "number": "29",
+    "pages": "eado9880",
+    "publisher": "American Association for the Advancement of Science"
+  },
+  {
+    "key": "fu2024predicting",
+    "type": "article",
+    "title": "Predicting Two-Photon Absorption Spectra of Octupolar Molecules: A Deep-Learning Approach Based Exclusively on Molecular Structures",
+    "authors": [
+      {
+        "family": "Fu",
+        "given": "Haoqing"
+      },
+      {
+        "family": "Zhang",
+        "given": "Mengna"
+      },
+      {
+        "family": "Leng",
+        "given": "Jiancai"
+      },
+      {
+        "family": "Hu",
+        "given": "Wei"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yujin"
+      }
+    ],
+    "authorsDisplay": "Haoqing Fu, Mengna Zhang, Jiancai Leng, Wei Hu, **Tong Zhu**, Yujin Zhang",
+    "journal": "The Journal of Physical Chemistry A",
+    "year": 2024,
+    "volume": "128",
+    "number": "2",
+    "pages": "431--438",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "deng2024visible",
+    "type": "article",
+    "title": "Visible-light-promoted $\\alpha$-C (sp3)--H amination of ethers with azoles and amides",
+    "authors": [
+      {
+        "family": "Deng",
+        "given": "Yaqi"
+      },
+      {
+        "family": "Hu",
+        "given": "Zongjing"
+      },
+      {
+        "family": "Xue",
+        "given": "Jian"
+      },
+      {
+        "family": "Yin",
+        "given": "Jiabin"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Liu",
+        "given": "Shunying"
+      }
+    ],
+    "authorsDisplay": "Yaqi Deng, Zongjing Hu, Jian Xue, Jiabin Yin, **Tong Zhu**, Shunying Liu",
+    "journal": "Organic Letters",
+    "year": 2024,
+    "volume": "26",
+    "number": "4",
+    "pages": "933--938",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "wang2024predicting",
+    "type": "article",
+    "title": "Predicting DNA Reactions with a Quantum Chemistry-Based Deep Learning Model",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Likun"
+      },
+      {
+        "family": "Li",
+        "given": "Na"
+      },
+      {
+        "family": "Cao",
+        "given": "Mengyao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Yun"
+      },
+      {
+        "family": "Xiong",
+        "given": "Xiewei"
+      },
+      {
+        "family": "Li",
+        "given": "Li"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Pei",
+        "given": "Hao"
+      }
+    ],
+    "authorsDisplay": "Likun Wang, Na Li, Mengyao Cao, Yun Zhu, Xiewei Xiong, Li Li, **Tong Zhu**, Hao Pei",
+    "journal": "Advanced Science",
+    "year": 2024,
+    "volume": "11",
+    "number": "42",
+    "pages": "2409880"
+  },
+  {
+    "key": "liao2024application",
+    "type": "article",
+    "title": "Application of modern intelligent algorithms in retrosynthesis prediction",
+    "authors": [
+      {
+        "family": "Liao",
+        "given": "Jianhan"
+      },
+      {
+        "family": "Shi",
+        "given": "Xiaoxin"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jianhan Liao, Xiaoxin Shi, **Tong Zhu**",
+    "year": 2024,
+    "publisher": "ChemRxiv"
+  },
+  {
+    "key": "li2024transition",
+    "type": "article",
+    "title": "Transition State Searching Accelerated by Deep Learning Potential",
+    "authors": [
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Xiao",
+        "given": "Jin"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Zhang",
+        "given": "John"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Bowen Li, Jin Xiao, Ya Gao, John Zhang, **Tong Zhu**",
+    "year": 2024,
+    "publisher": "ChemRxiv"
+  },
+  {
+    "key": "liu2024one",
+    "type": "article",
+    "title": "A one-pot photocatalytic triazole-based linkerology for PROTACs",
+    "authors": [
+      {
+        "family": "Liu",
+        "given": "Jinhua"
+      },
+      {
+        "family": "Deng",
+        "given": "Yaqi"
+      },
+      {
+        "family": "Yin",
+        "given": "Jiabin"
+      },
+      {
+        "family": "Ji",
+        "given": "Jian"
+      },
+      {
+        "family": "Guan",
+        "given": "Cong"
+      },
+      {
+        "family": "Chen",
+        "given": "Xuwen"
+      },
+      {
+        "family": "Wu",
+        "given": "Xiang"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Liu",
+        "given": "Shunying"
+      }
+    ],
+    "authorsDisplay": "Jinhua Liu, Yaqi Deng, Jiabin Yin, Jian Ji, Cong Guan, Xuwen Chen, Xiang Wu, **Tong Zhu**, Shunying Liu",
+    "journal": "Cell Reports Physical Science",
+    "year": 2024,
+    "volume": "5",
+    "number": "8",
+    "publisher": "Elsevier"
+  },
+  {
+    "key": "deng2024iodide",
+    "type": "article",
+    "title": "Iodide ion-enabled highly regioselective $\\alpha$-C (sp3)--H triazolization of ethers with N-sulfonyl-1, 2, 3-triazoles",
+    "authors": [
+      {
+        "family": "Deng",
+        "given": "Yaqi"
+      },
+      {
+        "family": "Yin",
+        "given": "Jiabin"
+      },
+      {
+        "family": "Hu",
+        "given": "Zongjing"
+      },
+      {
+        "family": "Xue",
+        "given": "Jian"
+      },
+      {
+        "family": "Ji",
+        "given": "Jian"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Liu",
+        "given": "Shunying"
+      }
+    ],
+    "authorsDisplay": "Yaqi Deng, Jiabin Yin, Zongjing Hu, Jian Xue, Jian Ji, **Tong Zhu**, Shunying Liu",
+    "journal": "New Journal of Chemistry",
+    "year": 2024,
+    "volume": "48",
+    "number": "34",
+    "pages": "15002--15007",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "sun2024rapid",
+    "type": "article",
+    "title": "Rapid identification of drug mechanisms with deep learning-based multichannel surface-enhanced Raman spectroscopy",
+    "authors": [
+      {
+        "family": "Sun",
+        "given": "Jiajia"
+      },
+      {
+        "family": "Lai",
+        "given": "Wei"
+      },
+      {
+        "family": "Zhao",
+        "given": "Jiayan"
+      },
+      {
+        "family": "Xue",
+        "given": "Jinhong"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Xiao",
+        "given": "Mingshu"
+      },
+      {
+        "family": "Man",
+        "given": "Tiantian"
+      },
+      {
+        "family": "Wan",
+        "given": "Ying"
+      },
+      {
+        "family": "Pei",
+        "given": "Hao"
+      },
+      {
+        "family": "Li",
+        "given": "Li"
+      }
+    ],
+    "authorsDisplay": "Jiajia Sun, Wei Lai, Jiayan Zhao, Jinhong Xue, **Tong Zhu**, Mingshu Xiao, Tiantian Man, Ying Wan, Hao Pei, Li Li",
+    "journal": "ACS sensors",
+    "year": 2024,
+    "volume": "9",
+    "number": "8",
+    "pages": "4227--4235",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "xu2024envirodetanet",
+    "type": "article",
+    "title": "EnviroDetaNet: Pretrained E (3)-equivariant Message-Passing Neural Networks with Multi-Level Molecular Representations for Organic Molecule Spectra Prediction",
+    "authors": [
+      {
+        "family": "Xu",
+        "given": "Yuzhi"
+      },
+      {
+        "family": "Bian",
+        "given": "Daqian"
+      },
+      {
+        "family": "Ju",
+        "given": "Cheng-Wei"
+      },
+      {
+        "family": "Zhao",
+        "given": "Fanyu"
+      },
+      {
+        "family": "Xie",
+        "given": "Pujun"
+      },
+      {
+        "family": "Wang",
+        "given": "Yuanqing"
+      },
+      {
+        "family": "Hu",
+        "given": "Wei"
+      },
+      {
+        "family": "Sun",
+        "given": "Zhenrong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Yuzhi Xu, Daqian Bian, Cheng-Wei Ju, Fanyu Zhao, Pujun Xie, Yuanqing Wang, Wei Hu, Zhenrong Sun, John Zhang, **Tong Zhu**",
+    "year": 2024
+  },
+  {
+    "key": "xue2024novel",
+    "type": "article",
+    "title": "Novel Alkynylamide-Based Nonpeptidic Allosteric Inhibitors for SARS-CoV-2 3-Chymotrypsin-like Protease",
+    "authors": [
+      {
+        "family": "Xue",
+        "given": "Jian"
+      },
+      {
+        "family": "Li",
+        "given": "Hongtao"
+      },
+      {
+        "family": "Wang",
+        "given": "Ruyu"
+      },
+      {
+        "family": "Wang",
+        "given": "Meiting"
+      },
+      {
+        "family": "Chen",
+        "given": "Xixiang"
+      },
+      {
+        "family": "Deng",
+        "given": "Yaqi"
+      },
+      {
+        "family": "Lu",
+        "given": "Jiani"
+      },
+      {
+        "family": "Li",
+        "given": "Yexi"
+      },
+      {
+        "family": "Song",
+        "given": "Yuheng"
+      },
+      {
+        "family": "Xu",
+        "given": "Jianrong"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Chen",
+        "given": "Lili"
+      },
+      {
+        "family": "Liu",
+        "given": "Shunying"
+      }
+    ],
+    "authorsDisplay": "Jian Xue, Hongtao Li, Ruyu Wang, Meiting Wang, Xixiang Chen, Yaqi Deng, Jiani Lu, Yexi Li, Yuheng Song, Jianrong Xu, **Tong Zhu**, Lili Chen, Shunying Liu",
+    "journal": "ACS Pharmacology \\& Translational Science",
+    "year": 2024,
+    "volume": "7",
+    "number": "10",
+    "pages": "3170--3191",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "chen2024discovery",
+    "type": "article",
+    "title": "Discovery of chalcone derivatives as bifunctional molecules with anti-SARS-CoV-2 and anti-inflammatory activities",
+    "authors": [
+      {
+        "family": "Chen",
+        "given": "Xuwen"
+      },
+      {
+        "family": "Li",
+        "given": "Hongtao"
+      },
+      {
+        "family": "Wang",
+        "given": "Meiting"
+      },
+      {
+        "family": "Sun",
+        "given": "Donghui"
+      },
+      {
+        "family": "Lu",
+        "given": "Jiani"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Chen",
+        "given": "Hongzhuan"
+      },
+      {
+        "family": "Chen",
+        "given": "Lili"
+      },
+      {
+        "family": "Liu",
+        "given": "Shunying"
+      }
+    ],
+    "authorsDisplay": "Xuwen Chen, Hongtao Li, Meiting Wang, Donghui Sun, Jiani Lu, **Tong Zhu**, Hongzhuan Chen, Lili Chen, Shunying Liu",
+    "journal": "Journal of Natural Products",
+    "year": 2024,
+    "volume": "87",
+    "number": "12",
+    "pages": "2680--2694",
+    "publisher": "American Chemical Society and American Society of Pharmacognosy"
+  },
+  {
+    "key": "li2024discovery",
+    "type": "article",
+    "title": "Discovery of new synthetic routes of amino acids in prebiotic chemistry",
+    "authors": [
+      {
+        "family": "Li",
+        "given": "Xiao-Tian"
+      },
+      {
+        "family": "Mi",
+        "given": "Sixuan"
+      },
+      {
+        "family": "Xu",
+        "given": "Yuzhi"
+      },
+      {
+        "family": "Li",
+        "given": "Bo-Wen"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Xiao-Tian Li, Sixuan Mi, Yuzhi Xu, Bo-Wen Li, **Tong Zhu**, John ZH Zhang",
+    "journal": "JACS Au",
+    "year": 2024,
+    "volume": "4",
+    "number": "12",
+    "pages": "4757"
+  },
+  {
+    "key": "wang2024dpa",
+    "type": "article",
+    "title": "DPA-2: Towards a universal large atomic model for molecular and materials simulation",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Han"
+      },
+      {
+        "family": "Zhang",
+        "given": "Duo"
+      },
+      {
+        "family": "Liu",
+        "given": "Xinzijian"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xiangyu"
+      },
+      {
+        "family": "Zhang",
+        "given": "Chengqian"
+      },
+      {
+        "family": "Cai",
+        "given": "Chun"
+      },
+      {
+        "family": "Bi",
+        "given": "Hangrui"
+      },
+      {
+        "family": "Du",
+        "given": "Yiming"
+      },
+      {
+        "family": "Qin",
+        "given": "Xuejian"
+      },
+      {
+        "family": "Huang",
+        "given": "Jiameng"
+      },
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Shan",
+        "given": "Yifan"
+      },
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yuzhi"
+      },
+      {
+        "family": "Liu",
+        "given": "Siyuan"
+      },
+      {
+        "family": "Li",
+        "given": "Yifan"
+      },
+      {
+        "family": "Chang",
+        "given": "Junhan"
+      },
+      {
+        "family": "Wang",
+        "given": "Xinyan"
+      },
+      {
+        "family": "Zhou",
+        "given": "Shuo"
+      },
+      {
+        "family": "Liu",
+        "given": "Jianchuan"
+      },
+      {
+        "family": "Luo",
+        "given": "Xiaoshan"
+      },
+      {
+        "family": "Wang",
+        "given": "Zhenyu"
+      },
+      {
+        "family": "Jiang",
+        "given": "Wanrun"
+      },
+      {
+        "family": "Wu",
+        "given": "Jing"
+      },
+      {
+        "family": "Yang",
+        "given": "Yudi"
+      },
+      {
+        "family": "Yang",
+        "given": "Jiyuan"
+      },
+      {
+        "family": "Yang",
+        "given": "Manyi"
+      },
+      {
+        "family": "Gong",
+        "given": "Fu-Qiang"
+      },
+      {
+        "family": "Zhang",
+        "given": "Linshuang"
+      },
+      {
+        "family": "Shi",
+        "given": "Mengchao"
+      },
+      {
+        "family": "Dai",
+        "given": "Fu-Zhi"
+      },
+      {
+        "family": "York",
+        "given": "Darrin"
+      },
+      {
+        "family": "Liu",
+        "given": "Shi"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhong",
+        "given": "Zhicheng"
+      },
+      {
+        "family": "Lv",
+        "given": "Jian"
+      },
+      {
+        "family": "Cheng",
+        "given": "Jun"
+      },
+      {
+        "family": "Jia",
+        "given": "Weile"
+      },
+      {
+        "family": "Chen",
+        "given": "Mohan"
+      },
+      {
+        "family": "Ke",
+        "given": "Guolin"
+      },
+      {
+        "family": "E",
+        "given": "Weinan"
+      },
+      {
+        "family": "Zhang",
+        "given": "Linfeng"
+      }
+    ],
+    "authorsDisplay": "Han Wang, Duo Zhang, Xinzijian Liu, Xiangyu Zhang, Chengqian Zhang, Chun Cai, Hangrui Bi, Yiming Du, Xuejian Qin, Jiameng Huang, Bowen Li, Yifan Shan, Jinzhe Zeng, Yuzhi Zhang, Siyuan Liu, Yifan Li, Junhan Chang, Xinyan Wang, Shuo Zhou, Jianchuan Liu, Xiaoshan Luo, Zhenyu Wang, Wanrun Jiang, Jing Wu, Yudi Yang, Jiyuan Yang, Manyi Yang, Fu-Qiang Gong, Linshuang Zhang, Mengchao Shi, Fu-Zhi Dai, Darrin York, Shi Liu, **Tong Zhu**, Zhicheng Zhong, Jian Lv, Jun Cheng, Weile Jia, Mohan Chen, Guolin Ke, Weinan E, Linfeng Zhang",
+    "year": 2024
+  },
+  {
+    "key": "zhang2024dpa",
+    "type": "article",
+    "title": "DPA-2: a large atomic model as a multi-task learner",
+    "authors": [
+      {
+        "family": "Zhang",
+        "given": "Duo"
+      },
+      {
+        "family": "Liu",
+        "given": "Xinzijian"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xiangyu"
+      },
+      {
+        "family": "Zhang",
+        "given": "Chengqian"
+      },
+      {
+        "family": "Cai",
+        "given": "Chun"
+      },
+      {
+        "family": "Bi",
+        "given": "Hangrui"
+      },
+      {
+        "family": "Du",
+        "given": "Yiming"
+      },
+      {
+        "family": "Qin",
+        "given": "Xuejian"
+      },
+      {
+        "family": "Peng",
+        "given": "Anyang"
+      },
+      {
+        "family": "Huang",
+        "given": "Jiameng"
+      },
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Shan",
+        "given": "Yifan"
+      },
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yuzhi"
+      },
+      {
+        "family": "Liu",
+        "given": "Siyuan"
+      },
+      {
+        "family": "Li",
+        "given": "Yifan"
+      },
+      {
+        "family": "Chang",
+        "given": "Junhan"
+      },
+      {
+        "family": "Wang",
+        "given": "Xinyan"
+      },
+      {
+        "family": "Zhou",
+        "given": "Shuo"
+      },
+      {
+        "family": "Liu",
+        "given": "Jianchuan"
+      },
+      {
+        "family": "Luo",
+        "given": "Xiaoshan"
+      },
+      {
+        "family": "Wang",
+        "given": "Zhenyu"
+      },
+      {
+        "family": "Jiang",
+        "given": "Wanrun"
+      },
+      {
+        "family": "Wu",
+        "given": "Jing"
+      },
+      {
+        "family": "Yang",
+        "given": "Yudi"
+      },
+      {
+        "family": "Yang",
+        "given": "Jiyuan"
+      },
+      {
+        "family": "Yang",
+        "given": "Manyi"
+      },
+      {
+        "family": "Gong",
+        "given": "Fu-Qiang"
+      },
+      {
+        "family": "Zhang",
+        "given": "Linshuang"
+      },
+      {
+        "family": "Shi",
+        "given": "Mengchao"
+      },
+      {
+        "family": "Dai",
+        "given": "Fu-Zhi"
+      },
+      {
+        "family": "York",
+        "given": "Darrin M."
+      },
+      {
+        "family": "Liu",
+        "given": "Shi"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhong",
+        "given": "Zhicheng"
+      },
+      {
+        "family": "Lv",
+        "given": "Jian"
+      },
+      {
+        "family": "Cheng",
+        "given": "Jun"
+      },
+      {
+        "family": "Jia",
+        "given": "Weile"
+      },
+      {
+        "family": "Chen",
+        "given": "Mohan"
+      },
+      {
+        "family": "Ke",
+        "given": "Guolin"
+      },
+      {
+        "family": "E",
+        "given": "Weinan"
+      },
+      {
+        "family": "Zhang",
+        "given": "Linfeng"
+      },
+      {
+        "family": "Wang",
+        "given": "Han"
+      }
+    ],
+    "authorsDisplay": "Duo Zhang, Xinzijian Liu, Xiangyu Zhang, Chengqian Zhang, Chun Cai, Hangrui Bi, Yiming Du, Xuejian Qin, Anyang Peng, Jiameng Huang, Bowen Li, Yifan Shan, Jinzhe Zeng, Yuzhi Zhang, Siyuan Liu, Yifan Li, Junhan Chang, Xinyan Wang, Shuo Zhou, Jianchuan Liu, Xiaoshan Luo, Zhenyu Wang, Wanrun Jiang, Jing Wu, Yudi Yang, Jiyuan Yang, Manyi Yang, Fu-Qiang Gong, Linshuang Zhang, Mengchao Shi, Fu-Zhi Dai, Darrin M. York, Shi Liu, **Tong Zhu**, Zhicheng Zhong, Jian Lv, Jun Cheng, Weile Jia, Mohan Chen, Guolin Ke, Weinan E, Linfeng Zhang, Han Wang",
+    "journal": "npj computational materials",
+    "year": 2024,
+    "volume": "10",
+    "number": "1",
+    "pages": "293",
+    "publisher": "Nature Publishing Group UK London"
+  },
+  {
+    "key": "nie2024enzymatic",
+    "type": "article",
+    "title": "Enzymatic ring contraction for the biosynthesis of sulfur-containing cyclopentachromone",
+    "authors": [
+      {
+        "family": "Nie",
+        "given": "Qiuyue"
+      },
+      {
+        "family": "Sun",
+        "given": "Chunxiao"
+      },
+      {
+        "family": "Liu",
+        "given": "Shuai"
+      },
+      {
+        "family": "Li",
+        "given": "Qiang"
+      },
+      {
+        "family": "Zotova",
+        "given": "Maria"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Gao",
+        "given": "Xue"
+      }
+    ],
+    "authorsDisplay": "Qiuyue Nie, Chunxiao Sun, Shuai Liu, Qiang Li, Maria Zotova, **Tong Zhu**, Xue Gao",
+    "journal": "Journal of the American Chemical Society",
+    "year": 2024,
+    "volume": "147",
+    "number": "1",
+    "pages": "548--556",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "sun2024correction",
+    "type": "article",
+    "title": "Correction to “Rapid Identification of Drug Mechanisms with Deep Learning-Based Multichannel Surface-Enhanced Raman Spectroscopy”",
+    "authors": [
+      {
+        "family": "Sun",
+        "given": "Jiajia"
+      },
+      {
+        "family": "Lai",
+        "given": "Wei"
+      },
+      {
+        "family": "Zhao",
+        "given": "Jiayan"
+      },
+      {
+        "family": "Xue",
+        "given": "Jinhong"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Xiao",
+        "given": "Mingshu"
+      },
+      {
+        "family": "Man",
+        "given": "Tiantian"
+      },
+      {
+        "family": "Wan",
+        "given": "Ying"
+      },
+      {
+        "family": "Pei",
+        "given": "Hao"
+      },
+      {
+        "family": "Li",
+        "given": "Li"
+      }
+    ],
+    "authorsDisplay": "Jiajia Sun, Wei Lai, Jiayan Zhao, Jinhong Xue, **Tong Zhu**, Mingshu Xiao, Tiantian Man, Ying Wan, Hao Pei, Li Li",
+    "journal": "ACS sensors",
+    "year": 2024,
+    "volume": "10",
+    "number": "1",
+    "pages": "574--574",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "yang2024ab",
+    "type": "article",
+    "title": "Ab initio accuracy neural network potential for drug-like molecules",
+    "authors": [
+      {
+        "family": "Yang",
+        "given": "Manyi"
+      },
+      {
+        "family": "Zhang",
+        "given": "Duo"
+      },
+      {
+        "family": "Wang",
+        "given": "Xinyan"
+      },
+      {
+        "family": "Zhang",
+        "given": "Lingfeng"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Wang",
+        "given": "Han"
+      }
+    ],
+    "authorsDisplay": "Manyi Yang, Duo Zhang, Xinyan Wang, Lingfeng Zhang, **Tong Zhu**, Han Wang",
+    "year": 2024,
+    "publisher": "ChemRxiv"
+  },
+  {
+    "key": "zeng2023neural",
+    "type": "incollection",
+    "title": "Neural network potentials",
+    "authors": [
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Cao",
+        "given": "Liqun"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jinzhe Zeng, Liqun Cao, **Tong Zhu**",
+    "journal": "Quantum Chemistry in the Age of Machine Learning",
+    "year": 2023,
+    "pages": "279--294",
+    "publisher": "Elsevier"
+  },
+  {
+    "key": "li2023function",
+    "type": "article",
+    "title": "Function-oriented synthesis of Imidazo [1, 2-a] pyrazine and Imidazo [1, 2-b] pyridazine derivatives as potent PI3K/mTOR dual inhibitors",
+    "authors": [
+      {
+        "family": "Li",
+        "given": "Chuchu"
+      },
+      {
+        "family": "Han",
+        "given": "Yuqiao"
+      },
+      {
+        "family": "Wang",
+        "given": "Zhengyang"
+      },
+      {
+        "family": "Yu",
+        "given": "Yanan"
+      },
+      {
+        "family": "Wang",
+        "given": "Chen"
+      },
+      {
+        "family": "Ren",
+        "given": "Ziwei"
+      },
+      {
+        "family": "Guo",
+        "given": "Yanzhi"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Li",
+        "given": "XuWen"
+      },
+      {
+        "family": "Dong",
+        "given": "Suzhen"
+      }
+    ],
+    "authorsDisplay": "Chuchu Li, Yuqiao Han, Zhengyang Wang, Yanan Yu, Chen Wang, Ziwei Ren, Yanzhi Guo, **Tong Zhu**, XuWen Li, Suzhen Dong",
+    "journal": "European Journal of Medicinal Chemistry",
+    "year": 2023,
+    "volume": "247",
+    "pages": "115030",
+    "publisher": "Elsevier Masson"
+  },
+  {
+    "key": "chin2023theoretical",
+    "type": "article",
+    "title": "Theoretical study of the absorption and emission spectrum and non-adiabatic excited state dynamics of gas-phase xanthone",
+    "authors": [
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John Zeng Hui"
+      }
+    ],
+    "authorsDisplay": "Chih-Hao Chin, **Tong Zhu**, John Zeng Hui Zhang",
+    "journal": "Journal of the Chinese Chemical Society",
+    "year": 2023,
+    "volume": "70",
+    "number": "3",
+    "pages": "372--385",
+    "publisher": "Wiley-VCH Verlag GmbH \\& Co. KGaA Weinheim"
+  },
+  {
+    "key": "wang2023ensemble",
+    "type": "article",
+    "title": "Ensemble-based virtual screening of human PI4KIII$\\alpha$ inhibitors toward the Hepatitis C virus",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Chen"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Gu",
+        "given": "Jiaying"
+      },
+      {
+        "family": "Chen",
+        "given": "Huimin"
+      },
+      {
+        "family": "Yin",
+        "given": "Zhixiang"
+      },
+      {
+        "family": "Zhu",
+        "given": "Hao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Chen Wang, Ya Gao, Jiaying Gu, Huimin Chen, Zhixiang Yin, Hao Zhu, **Tong Zhu**",
+    "journal": "Chemical Physics Letters",
+    "year": 2023,
+    "volume": "815",
+    "pages": "140354",
+    "publisher": "North-Holland"
+  },
+  {
+    "key": "wang2023enzyme",
+    "type": "article",
+    "title": "Enzyme-Free Nucleic Acid Circuits for Fold-Change Detection",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Likun"
+      },
+      {
+        "family": "Zhao",
+        "given": "Jiayan"
+      },
+      {
+        "family": "Xiong",
+        "given": "Xiewei"
+      },
+      {
+        "family": "Li",
+        "given": "Li"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Pei",
+        "given": "Hao"
+      }
+    ],
+    "authorsDisplay": "Likun Wang, Jiayan Zhao, Xiewei Xiong, Li Li, **Tong Zhu**, Hao Pei",
+    "journal": "ChemPlusChem",
+    "year": 2023,
+    "volume": "88",
+    "number": "9",
+    "pages": "e202300083"
+  },
+  {
+    "key": "zhang2023interaction",
+    "type": "article",
+    "title": "Interaction of divalent cations and amino acids in bulk water: Molecular simulations with neural network potentials",
+    "authors": [
+      {
+        "family": "Zhang",
+        "given": "Qi"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Qi Zhang, **Tong Zhu**",
+    "journal": "Chinese Journal of Chemical Physics",
+    "year": 2023,
+    "volume": "36",
+    "number": "2",
+    "pages": "162--168",
+    "publisher": "Chinese Physical Society"
+  },
+  {
+    "key": "guan2023regioselectively",
+    "type": "article",
+    "title": "Regioselectively Electrochemical Synthesis of N 2-Selective C--H Amination of Ethers with N-Tosyl 1, 2, 3-Triazole via Triazole Radical Cation",
+    "authors": [
+      {
+        "family": "Guan",
+        "given": "Cong"
+      },
+      {
+        "family": "Yin",
+        "given": "Jiabin"
+      },
+      {
+        "family": "Ji",
+        "given": "Jian"
+      },
+      {
+        "family": "Liu",
+        "given": "Jinhua"
+      },
+      {
+        "family": "Wu",
+        "given": "Xiang"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Liu",
+        "given": "Shunying"
+      }
+    ],
+    "authorsDisplay": "Cong Guan, Jiabin Yin, Jian Ji, Jinhua Liu, Xiang Wu, **Tong Zhu**, Shunying Liu",
+    "journal": "Organic Letters",
+    "year": 2023,
+    "volume": "25",
+    "number": "28",
+    "pages": "5383--5388",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "zhang2023dpa",
+    "type": "article",
+    "title": "DPA-2: Towards a universal large atomic model for molecular and material simulation",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Han"
+      },
+      {
+        "family": "Zhang",
+        "given": "Duo"
+      },
+      {
+        "family": "Liu",
+        "given": "Xinzijian"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xiangyu"
+      },
+      {
+        "family": "Zhang",
+        "given": "Chengqian"
+      },
+      {
+        "family": "Cai",
+        "given": "Chun"
+      },
+      {
+        "family": "Bi",
+        "given": "Hangrui"
+      },
+      {
+        "family": "Du",
+        "given": "Yiming"
+      },
+      {
+        "family": "Qin",
+        "given": "Xuejian"
+      },
+      {
+        "family": "Huang",
+        "given": "Jiameng"
+      },
+      {
+        "family": "Li",
+        "given": "Bowen"
+      },
+      {
+        "family": "Shan",
+        "given": "Yifan"
+      },
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yuzhi"
+      },
+      {
+        "family": "Liu",
+        "given": "Siyuan"
+      },
+      {
+        "family": "Li",
+        "given": "Yifan"
+      },
+      {
+        "family": "Chang",
+        "given": "Junhan"
+      },
+      {
+        "family": "Wang",
+        "given": "Xinyan"
+      },
+      {
+        "family": "Zhou",
+        "given": "Shuo"
+      },
+      {
+        "family": "Liu",
+        "given": "Jianchuan"
+      },
+      {
+        "family": "Luo",
+        "given": "Xiaoshan"
+      },
+      {
+        "family": "Wang",
+        "given": "Zhenyu"
+      },
+      {
+        "family": "Jiang",
+        "given": "Wanrun"
+      },
+      {
+        "family": "Wu",
+        "given": "Jing"
+      },
+      {
+        "family": "Yang",
+        "given": "Yudi"
+      },
+      {
+        "family": "Yang",
+        "given": "Jiyuan"
+      },
+      {
+        "family": "Yang",
+        "given": "Manyi"
+      },
+      {
+        "family": "Gong",
+        "given": "Fu-Qiang"
+      },
+      {
+        "family": "Zhang",
+        "given": "Linshuang"
+      },
+      {
+        "family": "Shi",
+        "given": "Mengchao"
+      },
+      {
+        "family": "Dai",
+        "given": "Fu-Zhi"
+      },
+      {
+        "family": "York",
+        "given": "Darrin"
+      },
+      {
+        "family": "Liu",
+        "given": "Shi"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhong",
+        "given": "Zhicheng"
+      },
+      {
+        "family": "Lv",
+        "given": "Jian"
+      },
+      {
+        "family": "Cheng",
+        "given": "Jun"
+      },
+      {
+        "family": "Jia",
+        "given": "Weile"
+      },
+      {
+        "family": "Chen",
+        "given": "Mohan"
+      },
+      {
+        "family": "Ke",
+        "given": "Guolin"
+      },
+      {
+        "family": "E",
+        "given": "Weinan"
+      },
+      {
+        "family": "Zhang",
+        "given": "Linfeng"
+      }
+    ],
+    "authorsDisplay": "Han Wang, Duo Zhang, Xinzijian Liu, Xiangyu Zhang, Chengqian Zhang, Chun Cai, Hangrui Bi, Yiming Du, Xuejian Qin, Jiameng Huang, Bowen Li, Yifan Shan, Jinzhe Zeng, Yuzhi Zhang, Siyuan Liu, Yifan Li, Junhan Chang, Xinyan Wang, Shuo Zhou, Jianchuan Liu, Xiaoshan Luo, Zhenyu Wang, Wanrun Jiang, Jing Wu, Yudi Yang, Jiyuan Yang, Manyi Yang, Fu-Qiang Gong, Linshuang Zhang, Mengchao Shi, Fu-Zhi Dai, Darrin York, Shi Liu, **Tong Zhu**, Zhicheng Zhong, Jian Lv, Jun Cheng, Weile Jia, Mohan Chen, Guolin Ke, Weinan E, Linfeng Zhang",
+    "journal": "arXiv e-prints",
+    "year": 2023,
+    "pages": "arXiv--2312"
+  },
+  {
+    "key": "guo2023new",
+    "type": "article",
+    "title": "A new inhibitor of human peptide deformylase suppresses cell proliferation and induces cell apoptosis and autophagy in cancers",
+    "authors": [
+      {
+        "family": "Guo",
+        "given": "Yanzhi"
+      },
+      {
+        "family": "Han",
+        "given": "Yuqiao"
+      },
+      {
+        "family": "Li",
+        "given": "Ziyan"
+      },
+      {
+        "family": "Ji",
+        "given": "Jiali"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Du",
+        "given": "Yijie"
+      },
+      {
+        "family": "Dong",
+        "given": "Suzhen"
+      }
+    ],
+    "authorsDisplay": "Yanzhi Guo, Yuqiao Han, Ziyan Li, Jiali Ji, **Tong Zhu**, Yijie Du, Suzhen Dong",
+    "journal": "Anti-Cancer Drugs",
+    "year": 2023,
+    "volume": "34",
+    "number": "4",
+    "pages": "483--494",
+    "publisher": "LWW"
+  },
+  {
+    "key": "zhao2023theoretical",
+    "type": "article",
+    "title": "Theoretical investigation of the lack of chiral self-sorting behaviour of a molecular cinquefoil knot",
+    "authors": [
+      {
+        "family": "Zhao",
+        "given": "Xinyi"
+      },
+      {
+        "family": "Yang",
+        "given": "Raorao"
+      },
+      {
+        "family": "Zhang",
+        "given": "Zhi-Hui"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "Liang"
+      }
+    ],
+    "authorsDisplay": "Xinyi Zhao, Raorao Yang, Zhi-Hui Zhang, **Tong Zhu**, Liang Zhang",
+    "journal": "Supramolecular Chemistry",
+    "year": 2023,
+    "volume": "34",
+    "number": "5-6",
+    "pages": "247--256",
+    "publisher": "Taylor \\& Francis"
+  },
+  {
+    "key": "hu2023machine",
+    "type": "article",
+    "title": "A Machine Learning Protocol to Directly Translate Molecular Infrared or Raman Spectra into Molecular Formula",
+    "authors": [
+      {
+        "family": "Hu",
+        "given": "Wei"
+      },
+      {
+        "family": "Hu",
+        "given": "Tianqing"
+      },
+      {
+        "family": "Li",
+        "given": "Bo"
+      },
+      {
+        "family": "Zou",
+        "given": "Zihan"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "Yujin"
+      },
+      {
+        "family": "Jiang",
+        "given": "Jun"
+      },
+      {
+        "family": "Luo",
+        "given": "Yi"
+      }
+    ],
+    "authorsDisplay": "Wei Hu, Tianqing Hu, Bo Li, Zihan Zou, **Tong Zhu**, Yujin Zhang, Jun Jiang, Yi Luo",
+    "year": 2023
+  },
+  {
+    "key": "wang2023front",
+    "type": "article",
+    "title": "Front Cover: Enzyme-Free Nucleic Acid Circuits for Fold-Change Detection (ChemPlusChem 9/2023).",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Likun"
+      },
+      {
+        "family": "Zhao",
+        "given": "Jiayan"
+      },
+      {
+        "family": "Xiong",
+        "given": "Xiewei"
+      },
+      {
+        "family": "Li",
+        "given": "Li"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Pei",
+        "given": "Hao"
+      }
+    ],
+    "authorsDisplay": "Likun Wang, Jiayan Zhao, Xiewei Xiong, Li Li, **Tong Zhu**, Hao Pei",
+    "journal": "ChemPlusChem",
+    "year": 2023,
+    "volume": "88",
+    "number": "9",
+    "pages": "1"
+  },
+  {
+    "key": "fang2022exploring",
+    "type": "article",
+    "title": "Exploring the selective mechanism of inhibitors towards different subtypes of class I PI3K",
+    "authors": [
+      {
+        "family": "Fang",
+        "given": "Xiaoniu"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Wang",
+        "given": "Chen"
+      },
+      {
+        "family": "Chen",
+        "given": "Huimin"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Xiaoniu Fang, Ya Gao, Chen Wang, Huimin Chen, **Tong Zhu**",
+    "journal": "Chemical Physics Letters",
+    "year": 2022,
+    "volume": "786",
+    "pages": "139174",
+    "publisher": "North-Holland"
+  },
+  {
+    "key": "gu2022theoretical",
+    "type": "article",
+    "title": "Theoretical investigations on photodissociation dynamics of deuterated alkyl halides CD3CH2F",
+    "authors": [
+      {
+        "family": "Gu",
+        "given": "Shuangfei"
+      },
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John Zeng Hui"
+      }
+    ],
+    "authorsDisplay": "Shuangfei Gu, Chih-Hao Chin, **Tong Zhu**, John Zeng Hui Zhang",
+    "journal": "Chinese Journal of Chemical Physics",
+    "year": 2022,
+    "volume": "35",
+    "number": "3",
+    "pages": "431--442",
+    "publisher": "Chinese Physical Society"
+  },
+  {
+    "key": "wang2022growth",
+    "type": "article",
+    "title": "Growth of polycyclic aromatic hydrocarbon and soot inception by in silico simulation",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Bo"
+      },
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Cao",
+        "given": "Liqun"
+      },
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "York",
+        "given": "Darrin"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John"
+      }
+    ],
+    "authorsDisplay": "Bo Wang, Jinzhe Zeng, Liqun Cao, Chih-Hao Chin, Darrin York, **Tong Zhu**, John Zhang",
+    "year": 2022
+  },
+  {
+    "key": "cao2022ab",
+    "type": "article",
+    "title": "Ab initio neural network MD simulation of thermal decomposition of a high energy material CL-20/TNT",
+    "authors": [
+      {
+        "family": "Cao",
+        "given": "Liqun"
+      },
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Wang",
+        "given": "Bo"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Liqun Cao, Jinzhe Zeng, Bo Wang, **Tong Zhu**, John ZH Zhang",
+    "journal": "Physical Chemistry Chemical Physics",
+    "year": 2022,
+    "volume": "24",
+    "number": "19",
+    "pages": "11801--11811",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "xiong2022molecular",
+    "type": "article",
+    "title": "Molecular convolutional neural networks with DNA regulatory circuits",
+    "authors": [
+      {
+        "family": "Xiong",
+        "given": "Xiewei"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhu",
+        "given": "Yun"
+      },
+      {
+        "family": "Cao",
+        "given": "Mengyao"
+      },
+      {
+        "family": "Xiao",
+        "given": "Jin"
+      },
+      {
+        "family": "Li",
+        "given": "Li"
+      },
+      {
+        "family": "Wang",
+        "given": "Fei"
+      },
+      {
+        "family": "Fan",
+        "given": "Chunhai"
+      },
+      {
+        "family": "Pei",
+        "given": "Hao"
+      }
+    ],
+    "authorsDisplay": "Xiewei Xiong, **Tong Zhu**, Yun Zhu, Mengyao Cao, Jin Xiao, Li Li, Fei Wang, Chunhai Fan, Hao Pei",
+    "journal": "Nature Machine Intelligence",
+    "year": 2022,
+    "volume": "4",
+    "number": "7",
+    "pages": "625--635",
+    "publisher": "Nature Publishing Group UK London"
+  },
+  {
+    "key": "gao2022efficient",
+    "type": "article",
+    "title": "An efficient method to predict protein thermostability in alanine mutation",
+    "authors": [
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Wang",
+        "given": "Bo"
+      },
+      {
+        "family": "Hu",
+        "given": "Shiyu"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Ya Gao, Bo Wang, Shiyu Hu, **Tong Zhu**, John ZH Zhang",
+    "journal": "Physical Chemistry Chemical Physics",
+    "year": 2022,
+    "volume": "24",
+    "number": "48",
+    "pages": "29629--29639",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "deng2022novel",
+    "type": "article",
+    "title": "Novel 2-phenyl-3-(Pyridin-2-yl) thiazolidin-4-one derivatives as potent inhibitors for proliferation of osteosarcoma cells in vitro and in vivo",
+    "authors": [
+      {
+        "family": "Deng",
+        "given": "Yaqi"
+      },
+      {
+        "family": "Pi",
+        "given": "Rou"
+      },
+      {
+        "family": "Niu",
+        "given": "Li"
+      },
+      {
+        "family": "Zhao",
+        "given": "Yun"
+      },
+      {
+        "family": "Ni",
+        "given": "Dan"
+      },
+      {
+        "family": "Song",
+        "given": "Longlong"
+      },
+      {
+        "family": "Li",
+        "given": "Zi"
+      },
+      {
+        "family": "Han",
+        "given": "Wangyujing"
+      },
+      {
+        "family": "Wei",
+        "given": "Qinghua"
+      },
+      {
+        "family": "Han",
+        "given": "Yuqiao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Luo",
+        "given": "Zhengli"
+      },
+      {
+        "family": "Sun",
+        "given": "Donghui"
+      },
+      {
+        "family": "Dong",
+        "given": "Suzhen"
+      },
+      {
+        "family": "Liu",
+        "given": "Shunying"
+      }
+    ],
+    "authorsDisplay": "Yaqi Deng, Rou Pi, Li Niu, Yun Zhao, Dan Ni, Longlong Song, Zi Li, Wangyujing Han, Qinghua Wei, Yuqiao Han, **Tong Zhu**, Zhengli Luo, Donghui Sun, Suzhen Dong, Shunying Liu",
+    "journal": "European Journal of Medicinal Chemistry",
+    "year": 2022,
+    "volume": "228",
+    "pages": "114010",
+    "publisher": "Elsevier Masson"
+  },
+  {
+    "key": "zhao2022multiplex",
+    "type": "article",
+    "title": "Multiplex base-editing enables combinatorial epigenetic regulation for genome mining of fungal natural products",
+    "authors": [
+      {
+        "family": "Zhao",
+        "given": "Fanglong"
+      },
+      {
+        "family": "Sun",
+        "given": "Chunxiao"
+      },
+      {
+        "family": "Liu",
+        "given": "Zhiwen"
+      },
+      {
+        "family": "Cabrera",
+        "given": "Alan"
+      },
+      {
+        "family": "Escobar",
+        "given": "Mario"
+      },
+      {
+        "family": "Huang",
+        "given": "Shunyu"
+      },
+      {
+        "family": "Yuan",
+        "given": "Qichen"
+      },
+      {
+        "family": "Nie",
+        "given": "Qiuyue"
+      },
+      {
+        "family": "Luo",
+        "given": "Kevin Lee"
+      },
+      {
+        "family": "Lin",
+        "given": "Angela"
+      },
+      {
+        "family": "Vanegas",
+        "given": "Jeffrey A."
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Hilton",
+        "given": "Isaac B."
+      },
+      {
+        "family": "Gao",
+        "given": "Xue"
+      }
+    ],
+    "authorsDisplay": "Fanglong Zhao, Chunxiao Sun, Zhiwen Liu, Alan Cabrera, Mario Escobar, Shunyu Huang, Qichen Yuan, Qiuyue Nie, Kevin Lee Luo, Angela Lin, Jeffrey A. Vanegas, **Tong Zhu**, Isaac B. Hilton, Xue Gao",
+    "journal": "Journal of the American Chemical Society",
+    "year": 2022,
+    "volume": "145",
+    "number": "1",
+    "pages": "413"
+  },
+  {
+    "key": "liu2021engineering",
+    "type": "article",
+    "title": "Engineering the biomimetic cofactors of NMNH for cytochrome P450 BM3 based on binding conformation refinement",
+    "authors": [
+      {
+        "family": "Liu",
+        "given": "Yao"
+      },
+      {
+        "family": "Cong",
+        "given": "Yalong"
+      },
+      {
+        "family": "Zhang",
+        "given": "Chuanxi"
+      },
+      {
+        "family": "Fang",
+        "given": "Bohuan"
+      },
+      {
+        "family": "Pan",
+        "given": "Yue"
+      },
+      {
+        "family": "Li",
+        "given": "Qiangzi"
+      },
+      {
+        "family": "You",
+        "given": "Chun"
+      },
+      {
+        "family": "Gao",
+        "given": "Bei"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Yao Liu, Yalong Cong, Chuanxi Zhang, Bohuan Fang, Yue Pan, Qiangzi Li, Chun You, Bei Gao, John ZH Zhang, **Tong Zhu**",
+    "journal": "RSC advances",
+    "year": 2021,
+    "volume": "11",
+    "number": "20",
+    "pages": "12036--12042",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "xu2021automated",
+    "type": "article",
+    "title": "Automated construction of neural network potential energy surface: The enhanced self-organizing incremental neural network deep potential method",
+    "authors": [
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Mingyuan Xu, **Tong Zhu**, John ZH Zhang",
+    "journal": "Journal of Chemical Information and Modeling",
+    "year": 2021,
+    "volume": "61",
+    "number": "11",
+    "pages": "5425--5437",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "li2021extensive",
+    "type": "article",
+    "title": "Extensive Evaluation of Force Fields for G-Quadruplexes",
+    "authors": [
+      {
+        "family": "Li",
+        "given": "Na"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Na Li, **Tong Zhu**",
+    "year": 2021,
+    "publisher": "ChemRxiv"
+  },
+  {
+    "key": "chen2021molecular",
+    "type": "article",
+    "title": "Molecular mechanism related to the binding of fluorophores to Mango-II revealed by multiple-replica molecular dynamics simulations",
+    "authors": [
+      {
+        "family": "Chen",
+        "given": "Junxiao"
+      },
+      {
+        "family": "Li",
+        "given": "Na"
+      },
+      {
+        "family": "Wang",
+        "given": "Xingyu"
+      },
+      {
+        "family": "Chen",
+        "given": "Jianzhong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Junxiao Chen, Na Li, Xingyu Wang, Jianzhong Chen, John ZH Zhang, **Tong Zhu**",
+    "journal": "Physical Chemistry Chemical Physics",
+    "year": 2021,
+    "volume": "23",
+    "number": "17",
+    "pages": "10636--10649",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "chin2021cyclopentadienyl",
+    "type": "article",
+    "title": "Cyclopentadienyl radical formation from the reaction of excited nitrogen atoms with benzene: a theoretical study",
+    "authors": [
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John Zeng Hui"
+      }
+    ],
+    "authorsDisplay": "Chih-Hao Chin, **Tong Zhu**, John Zeng Hui Zhang",
+    "journal": "Physical Chemistry Chemical Physics",
+    "year": 2021,
+    "volume": "23",
+    "number": "21",
+    "pages": "12408--12420",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "xu2021automatically",
+    "type": "article",
+    "title": "Automatically constructed neural network potentials for molecular dynamics simulation of zinc proteins",
+    "authors": [
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Mingyuan Xu, **Tong Zhu**, John ZH Zhang",
+    "journal": "Frontiers in Chemistry",
+    "year": 2021,
+    "volume": "9",
+    "pages": "692200",
+    "publisher": "Frontiers Media SA"
+  },
+  {
+    "key": "cao2021fragment",
+    "type": "article",
+    "title": "Fragment-based ab initio molecular dynamics simulation for combustion",
+    "authors": [
+      {
+        "family": "Cao",
+        "given": "Liqun"
+      },
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Liqun Cao, Jinzhe Zeng, Mingyuan Xu, Chih-Hao Chin, **Tong Zhu**, John ZH Zhang",
+    "journal": "Molecules",
+    "year": 2021,
+    "volume": "26",
+    "number": "11",
+    "pages": "3120",
+    "publisher": "MDPI"
+  },
+  {
+    "key": "liu2021structural",
+    "type": "article",
+    "title": "Structural basis of the stereoselective formation of the spirooxindole ring in the biosynthesis of citrinadins",
+    "authors": [
+      {
+        "family": "Liu",
+        "given": "Zhiwen"
+      },
+      {
+        "family": "Zhao",
+        "given": "Fanglong"
+      },
+      {
+        "family": "Zhao",
+        "given": "Boyang"
+      },
+      {
+        "family": "Yang",
+        "given": "Jie"
+      },
+      {
+        "family": "Ferrara",
+        "given": "Joseph"
+      },
+      {
+        "family": "Sankaran",
+        "given": "Banumathi"
+      },
+      {
+        "family": "Prasad",
+        "given": "B. V. Venkataram"
+      },
+      {
+        "family": "Kundu",
+        "given": "Biki Bapi"
+      },
+      {
+        "family": "Phillips",
+        "given": "George N."
+      },
+      {
+        "family": "Gao",
+        "given": "Yang"
+      },
+      {
+        "family": "Hu",
+        "given": "Liya"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Gao",
+        "given": "Xue"
+      }
+    ],
+    "authorsDisplay": "Zhiwen Liu, Fanglong Zhao, Boyang Zhao, Jie Yang, Joseph Ferrara, Banumathi Sankaran, B. V. Venkataram Prasad, Biki Bapi Kundu, George N. Phillips, Yang Gao, Liya Hu, **Tong Zhu**, Xue Gao",
+    "journal": "Nature communications",
+    "year": 2021,
+    "volume": "12",
+    "number": "1",
+    "pages": "4158",
+    "publisher": "Nature Publishing Group UK London"
+  },
+  {
+    "key": "li2021benchmark",
+    "type": "article",
+    "title": "Benchmark force fields for the molecular dynamic simulation of G-quadruplexes",
+    "authors": [
+      {
+        "family": "Li",
+        "given": "Na"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Qiu",
+        "given": "Feng"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Na Li, Ya Gao, Feng Qiu, **Tong Zhu**",
+    "journal": "Molecules",
+    "year": 2021,
+    "volume": "26",
+    "number": "17",
+    "pages": "5379",
+    "publisher": "MDPI"
+  },
+  {
+    "key": "pei2021molecular",
+    "type": "article",
+    "title": "Molecular convolutional neural networks with DNA regulatory circuits",
+    "authors": [
+      {
+        "family": "Pei",
+        "given": "Hao"
+      },
+      {
+        "family": "Xiong",
+        "given": "Xiewei"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhu",
+        "given": "Yun"
+      },
+      {
+        "family": "Cao",
+        "given": "Mengyao"
+      },
+      {
+        "family": "Xiao",
+        "given": "Jin"
+      },
+      {
+        "family": "Li",
+        "given": "Li"
+      },
+      {
+        "family": "Wang",
+        "given": "Fei"
+      },
+      {
+        "family": "Fan",
+        "given": "Chunhai"
+      }
+    ],
+    "authorsDisplay": "Hao Pei, Xiewei Xiong, **Tong Zhu**, Yun Zhu, Mengyao Cao, Jin Xiao, Li Li, Fei Wang, Chunhai Fan",
+    "year": 2021
+  },
+  {
+    "key": "zeng2020reacnetgenerator",
+    "type": "article",
+    "title": "ReacNetGenerator: an automatic reaction network generator for reactive molecular dynamics simulations",
+    "authors": [
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Cao",
+        "given": "Liqun"
+      },
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Ren",
+        "given": "Haisheng"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jinzhe Zeng, Liqun Cao, Chih-Hao Chin, Haisheng Ren, John ZH Zhang, **Tong Zhu**",
+    "journal": "Physical chemistry chemical physics",
+    "year": 2020,
+    "volume": "22",
+    "number": "2",
+    "pages": "683--691",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "chen2020decoding",
+    "type": "article",
+    "title": "Decoding molecular mechanism of inhibitor bindings to CDK2 using molecular dynamics simulations and binding free energy calculations",
+    "authors": [
+      {
+        "family": "Chen",
+        "given": "Jianzhong"
+      },
+      {
+        "family": "Pang",
+        "given": "Laixue"
+      },
+      {
+        "family": "Wang",
+        "given": "Wei"
+      },
+      {
+        "family": "Wang",
+        "given": "Lifei"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jianzhong Chen, Laixue Pang, Wei Wang, Lifei Wang, John ZH Zhang, **Tong Zhu**",
+    "journal": "Journal of Biomolecular Structure and Dynamics",
+    "year": 2020,
+    "publisher": "Taylor \\& Francis"
+  },
+  {
+    "key": "yin2020binding",
+    "type": "article",
+    "title": "Binding modes and conformational changes of FK506-binding protein 51 induced by inhibitor bindings: insight into molecular mechanisms based on multiple simulation technologies",
+    "authors": [
+      {
+        "family": "Yin",
+        "given": "Baohua"
+      },
+      {
+        "family": "Pang",
+        "given": "Laixue"
+      },
+      {
+        "family": "Wang",
+        "given": "Wei"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Baohua Yin, Laixue Pang, Wei Wang, John ZH Zhang, **Tong Zhu**",
+    "journal": "Journal of Biomolecular Structure and Dynamics",
+    "year": 2020,
+    "publisher": "Taylor \\& Francis"
+  },
+  {
+    "key": "gao2020effect",
+    "type": "article",
+    "title": "Effect of mutations on drug resistance of smoothened receptor toward inhibitors probed by molecular modeling",
+    "authors": [
+      {
+        "family": "Gao",
+        "given": "Zhenmei"
+      },
+      {
+        "family": "Bao",
+        "given": "Jingxiao"
+      },
+      {
+        "family": "Shi",
+        "given": "Shuhua"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xiongwen"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Zhenmei Gao, Jingxiao Bao, Shuhua Shi, Xiongwen Zhang, Ya Gao, **Tong Zhu**",
+    "journal": "Chemical Physics Letters",
+    "year": 2020,
+    "volume": "741",
+    "pages": "137126",
+    "publisher": "North-Holland"
+  },
+  {
+    "key": "li2020ab",
+    "type": "article",
+    "title": "An ab initio/RRKM study of the reaction mechanism and product branching ratios of CH3OH+ and CH3OH++ dissociation",
+    "authors": [
+      {
+        "family": "Li",
+        "given": "Cuiyu"
+      },
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John Zeng Hui"
+      }
+    ],
+    "authorsDisplay": "Cuiyu Li, Chih-Hao Chin, **Tong Zhu**, John Zeng Hui Zhang",
+    "journal": "Journal of Molecular Structure",
+    "year": 2020,
+    "volume": "1217",
+    "pages": "128410",
+    "publisher": "Elsevier"
+  },
+  {
+    "key": "chin2020reaction",
+    "type": "article",
+    "title": "Reaction mechanism and product branching ratios of OH+ C2H3F reaction: A theoretical study",
+    "authors": [
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John Zeng-Hui"
+      }
+    ],
+    "authorsDisplay": "Chih-Hao Chin, **Tong Zhu**, John Zeng-Hui Zhang",
+    "journal": "Chinese Journal of Chemical Physics",
+    "year": 2020,
+    "volume": "33",
+    "number": "2",
+    "pages": "203--209",
+    "publisher": "Chinese Physical Society"
+  },
+  {
+    "key": "chin2020oh+",
+    "type": "article",
+    "title": "OH+ C_2H_3F 的反应机理及产物支化比反应的理论研究 (英文)",
+    "authors": [
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John Zeng-Hui"
+      }
+    ],
+    "authorsDisplay": "Chih-Hao Chin, **Tong Zhu**, John Zeng-Hui Zhang",
+    "journal": "Chinese Journal of Chemical Physics",
+    "year": 2020
+  },
+  {
+    "key": "zhang2020explore",
+    "type": "article",
+    "title": "Explore the Chemical",
+    "authors": [
+      {
+        "family": "Zhang",
+        "given": "Linfeng"
+      },
+      {
+        "family": "Wang",
+        "given": "Han"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Linfeng Zhang, Han Wang, **Tong Zhu**",
+    "year": 2020
+  },
+  {
+    "key": "zeng2020explore",
+    "type": "article",
+    "title": "Explore the Chemical Space of Linear Alkanes Pyrolysis via Deep Potential Generator",
+    "authors": [
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Zhang",
+        "given": "Linfeng"
+      },
+      {
+        "family": "Wang",
+        "given": "Han"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jinzhe Zeng, Linfeng Zhang, Han Wang, **Tong Zhu**",
+    "year": 2020
+  },
+  {
+    "key": "wang2020approach",
+    "type": "article",
+    "title": "An Approach to Computing Solvent Reorganization Energy",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Bo"
+      },
+      {
+        "family": "Li",
+        "given": "Cuiyu"
+      },
+      {
+        "family": "Xiangyu",
+        "given": "Jia"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Bo Wang, Cuiyu Li, Jia Xiangyu, **Tong Zhu**, John ZH Zhang",
+    "journal": "Journal of Chemical Theory and Computation",
+    "year": 2020,
+    "volume": "16",
+    "number": "10",
+    "pages": "6513--6519",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "wang2020design",
+    "type": "article",
+    "title": "Design, synthesis, and structure activity relationship (SAR) studies of novel imidazo [1, 2-a] pyridine derivatives as Nek2 inhibitors",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Haili"
+      },
+      {
+        "family": "Chen",
+        "given": "Yunzhong"
+      },
+      {
+        "family": "Gu",
+        "given": "Xiaofan"
+      },
+      {
+        "family": "Xi",
+        "given": "Jianbei"
+      },
+      {
+        "family": "Ren",
+        "given": "Ziwei"
+      },
+      {
+        "family": "Wang",
+        "given": "Shuting"
+      },
+      {
+        "family": "Duan",
+        "given": "Yanhong"
+      },
+      {
+        "family": "Li",
+        "given": "Hongyu"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Du",
+        "given": "Yijie"
+      }
+    ],
+    "authorsDisplay": "Haili Wang, Yunzhong Chen, Xiaofan Gu, Jianbei Xi, Ziwei Ren, Shuting Wang, Yanhong Duan, Hongyu Li, **Tong Zhu**, Yijie Du",
+    "journal": "Bioorganic \\& Medicinal Chemistry",
+    "year": 2020,
+    "volume": "28",
+    "number": "23",
+    "pages": "115775",
+    "publisher": "Pergamon"
+  },
+  {
+    "key": "zeng2020complex",
+    "type": "article",
+    "title": "Complex reaction processes in combustion unraveled by neural network-based molecular dynamics simulation",
+    "authors": [
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Cao",
+        "given": "Liqun"
+      },
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Jinzhe Zeng, Liqun Cao, Mingyuan Xu, **Tong Zhu**, John ZH Zhang",
+    "journal": "Nature communications",
+    "year": 2020,
+    "volume": "11",
+    "number": "1",
+    "pages": "5713",
+    "publisher": "Nature Publishing Group UK London"
+  },
+  {
+    "key": "xu2020ab",
+    "type": "article",
+    "title": "Ab Initio Molecular Dynamics Simulation of Zinc metalloproteins with Enhanced Self-Organizing Incremental High Dimensional Neural Network",
+    "authors": [
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Mingyuan Xu, **Tong Zhu**, John ZH Zhang",
+    "year": 2020
+  },
+  {
+    "key": "han2020pharmacological",
+    "type": "article",
+    "title": "Pharmacological activation of the p53 pathway by a new compound CYZ2017 exerts anti-tumor effects",
+    "authors": [
+      {
+        "family": "Han",
+        "given": "Yuqiao"
+      },
+      {
+        "family": "Ren",
+        "given": "Ziwei"
+      },
+      {
+        "family": "Wu",
+        "given": "Yixin"
+      },
+      {
+        "family": "Chen",
+        "given": "Yunzhong"
+      },
+      {
+        "family": "Cui",
+        "given": "Zhenmei"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Ma",
+        "given": "Mingliang"
+      },
+      {
+        "family": "Du",
+        "given": "Yijie"
+      },
+      {
+        "family": "Dong",
+        "given": "Suzhen"
+      }
+    ],
+    "authorsDisplay": "Yuqiao Han, Ziwei Ren, Yixin Wu, Yunzhong Chen, Zhenmei Cui, **Tong Zhu**, Mingliang Ma, Yijie Du, Suzhen Dong",
+    "journal": "Biochemical and biophysical research communications",
+    "year": 2020,
+    "volume": "533",
+    "number": "4",
+    "pages": "1069--1075",
+    "publisher": "Academic Press"
+  },
+  {
+    "key": "zeng2020exploring",
+    "type": "article",
+    "title": "Exploring the chemical space of linear alkane pyrolysis via deep potential generator",
+    "authors": [
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Zhang",
+        "given": "Linfeng"
+      },
+      {
+        "family": "Wang",
+        "given": "Han"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jinzhe Zeng, Linfeng Zhang, Han Wang, **Tong Zhu**",
+    "journal": "Energy \\& fuels",
+    "year": 2020,
+    "volume": "35",
+    "number": "1",
+    "pages": "762--769",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "yu2020design",
+    "type": "article",
+    "title": "Design, synthesis, and biological evaluation of imidazo [1, 2-a] pyridine derivatives as novel PI3K/mTOR dual inhibitors",
+    "authors": [
+      {
+        "family": "Yu",
+        "given": "Ya’nan"
+      },
+      {
+        "family": "Han",
+        "given": "Yuqiao"
+      },
+      {
+        "family": "Zhang",
+        "given": "Fupo"
+      },
+      {
+        "family": "Gao",
+        "given": "Zhenmei"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Dong",
+        "given": "Suzhen"
+      },
+      {
+        "family": "Ma",
+        "given": "Mingliang"
+      }
+    ],
+    "authorsDisplay": "Ya’nan Yu, Yuqiao Han, Fupo Zhang, Zhenmei Gao, **Tong Zhu**, Suzhen Dong, Mingliang Ma",
+    "journal": "Journal of Medicinal Chemistry",
+    "year": 2020,
+    "volume": "63",
+    "number": "6",
+    "pages": "3028--3046",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "xu2019fragment",
+    "type": "article",
+    "title": "A fragment quantum mechanical method for metalloproteins",
+    "authors": [
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "He",
+        "given": "Xiao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Mingyuan Xu, Xiao He, **Tong Zhu**, John ZH Zhang",
+    "journal": "Journal of chemical theory and computation",
+    "year": 2019,
+    "volume": "15",
+    "number": "2",
+    "pages": "1430--1439",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "zhu20194",
+    "type": "article",
+    "title": "L-4, a well-tolerated and orally active inhibitor of hedgehog pathway, exhibited potent anti-tumor effects against medulloblastoma in vitro and in vivo",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Mingfei"
+      },
+      {
+        "family": "Wang",
+        "given": "Hong"
+      },
+      {
+        "family": "Wang",
+        "given": "Chenglin"
+      },
+      {
+        "family": "Fang",
+        "given": "Yanfen"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhao",
+        "given": "Weili"
+      },
+      {
+        "family": "Dong",
+        "given": "Xiaochun"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xiongwen"
+      }
+    ],
+    "authorsDisplay": "Mingfei Zhu, Hong Wang, Chenglin Wang, Yanfen Fang, **Tong Zhu**, Weili Zhao, Xiaochun Dong, Xiongwen Zhang",
+    "journal": "Frontiers in Pharmacology",
+    "year": 2019,
+    "volume": "10",
+    "pages": "89",
+    "publisher": "Frontiers Media SA"
+  },
+  {
+    "key": "chin2019theoretical",
+    "type": "article",
+    "title": "Theoretical investigations of photoionization efficiency of naphthalene",
+    "authors": [
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Chih-Hao Chin, **Tong Zhu**, John ZH Zhang",
+    "year": 2019,
+    "publisher": "ChemRxiv"
+  },
+  {
+    "key": "zhu2019formation",
+    "type": "article",
+    "title": "Formation Mechanism of a Nonterrestrial C6H Radical: An Ab Initio/RRKM Study on the Reaction of Tetracarbon with Acetylene",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "**Tong Zhu**, Chih-Hao Chin, John ZH Zhang",
+    "year": 2019,
+    "publisher": "ChemRxiv"
+  },
+  {
+    "key": "zhao2019insights",
+    "type": "article",
+    "title": "Insights into the binding mechanisms of inhibitors of MDM2 based on molecular dynamics simulations and binding free energy calculations",
+    "authors": [
+      {
+        "family": "Zhao",
+        "given": "Pei"
+      },
+      {
+        "family": "Cao",
+        "given": "Huali"
+      },
+      {
+        "family": "Chen",
+        "given": "Yu"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Pei Zhao, Huali Cao, Yu Chen, **Tong Zhu**",
+    "journal": "Chemical Physics Letters",
+    "year": 2019,
+    "volume": "728",
+    "pages": "94--101",
+    "publisher": "North-Holland"
+  },
+  {
+    "key": "sun2019understanding",
+    "type": "article",
+    "title": "Understanding Aldose Reductase-Inhibitors interactions with free energy simulation",
+    "authors": [
+      {
+        "family": "Sun",
+        "given": "Zhaoxi"
+      },
+      {
+        "family": "Wang",
+        "given": "Xiaohui"
+      },
+      {
+        "family": "Zhao",
+        "given": "Qianqian"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Zhaoxi Sun, Xiaohui Wang, Qianqian Zhao, **Tong Zhu**",
+    "journal": "Journal of Molecular Graphics and Modelling",
+    "year": 2019,
+    "volume": "91",
+    "pages": "10--21",
+    "publisher": "Elsevier"
+  },
+  {
+    "key": "chen2019effect",
+    "type": "article",
+    "title": "Effect of mutations on binding of ligands to guanine riboswitch probed by free energy perturbation and molecular dynamics simulations",
+    "authors": [
+      {
+        "family": "Chen",
+        "given": "Jianzhong"
+      },
+      {
+        "family": "Wang",
+        "given": "Xingyu"
+      },
+      {
+        "family": "Pang",
+        "given": "Laixue"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jianzhong Chen, Xingyu Wang, Laixue Pang, John ZH Zhang, **Tong Zhu**",
+    "journal": "Nucleic Acids Research",
+    "year": 2019,
+    "volume": "47",
+    "number": "13",
+    "pages": "6618--6631",
+    "publisher": "Oxford University Press"
+  },
+  {
+    "key": "xu2019molecular",
+    "type": "article",
+    "title": "Molecular dynamics simulation of zinc ion in water with an ab initio based neural network potential",
+    "authors": [
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Mingyuan Xu, **Tong Zhu**, John ZH Zhang",
+    "journal": "The Journal of Physical Chemistry A",
+    "year": 2019,
+    "volume": "123",
+    "number": "30",
+    "pages": "6587--6595",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "zhao2019comparison",
+    "type": "article",
+    "title": "Comparison of RP-3 pyrolysis reactions between surrogates and 45-component model by ReaxFF molecular dynamics simulations",
+    "authors": [
+      {
+        "family": "Zhao",
+        "given": "Pei"
+      },
+      {
+        "family": "Han",
+        "given": "Song"
+      },
+      {
+        "family": "Li",
+        "given": "Xiaoxia"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Tao",
+        "given": "Xiaofang"
+      },
+      {
+        "family": "Guo",
+        "given": "Li"
+      }
+    ],
+    "authorsDisplay": "Pei Zhao, Song Han, Xiaoxia Li, **Tong Zhu**, Xiaofang Tao, Li Guo",
+    "journal": "Energy \\& Fuels",
+    "year": 2019,
+    "volume": "33",
+    "number": "8",
+    "pages": "7176--7187",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "tian2019understanding",
+    "type": "article",
+    "title": "Understanding the selectivity of inhibitors toward PI4KIII$\\alpha$ and PI4KIII$\\beta$ based molecular modeling",
+    "authors": [
+      {
+        "family": "Tian",
+        "given": "Shuaizhen"
+      },
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Liu",
+        "given": "Xiao"
+      },
+      {
+        "family": "Chen",
+        "given": "Jianzhong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Shuaizhen Tian, Jinzhe Zeng, Xiao Liu, Jianzhong Chen, John ZH Zhang, **Tong Zhu**",
+    "journal": "Physical Chemistry Chemical Physics",
+    "year": 2019,
+    "volume": "21",
+    "number": "39",
+    "pages": "22103--22112",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "chin2019formation",
+    "type": "article",
+    "title": "Formation mechanism and spectroscopy of C6H radicals in extreme environments: a theoretical study",
+    "authors": [
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John Zeng Hui"
+      }
+    ],
+    "authorsDisplay": "Chih-Hao Chin, **Tong Zhu**, John Zeng Hui Zhang",
+    "journal": "Physical Chemistry Chemical Physics",
+    "year": 2019,
+    "volume": "21",
+    "number": "41",
+    "pages": "23044--23055",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "zeng2019neural",
+    "type": "article",
+    "title": "Neural network based in silico simulation of combustion reactions",
+    "authors": [
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Cao",
+        "given": "Liqun"
+      },
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Jinzhe Zeng, Liqun Cao, Mingyuan Xu, **Tong Zhu**, John ZH Zhang",
+    "journal": "arXiv preprint arXiv:1911.12252",
+    "year": 2019
+  },
+  {
+    "key": "cao2019combustion",
+    "type": "article",
+    "title": "Combustion Driven by Fragment-based Ab Initio Molecular Dynamics Simulation",
+    "authors": [
+      {
+        "family": "Cao",
+        "given": "Liqun"
+      },
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Liqun Cao, Jinzhe Zeng, Mingyuan Xu, Chih-Hao Chin, **Tong Zhu**, John ZH Zhang",
+    "year": 2019,
+    "publisher": "ChemRxiv"
+  },
+  {
+    "key": "tang2019self",
+    "type": "article",
+    "title": "Self-assembly of metallo-nucleoside hydrogels for injectable materials that promote wound closure",
+    "authors": [
+      {
+        "family": "Tang",
+        "given": "Qian"
+      },
+      {
+        "family": "Plank",
+        "given": "Taylor N"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Yu",
+        "given": "Huizhen"
+      },
+      {
+        "family": "Ge",
+        "given": "Zhilei"
+      },
+      {
+        "family": "Li",
+        "given": "Qian"
+      },
+      {
+        "family": "Li",
+        "given": "Li"
+      },
+      {
+        "family": "Davis",
+        "given": "Jeffery T"
+      },
+      {
+        "family": "Pei",
+        "given": "Hao"
+      }
+    ],
+    "authorsDisplay": "Qian Tang, Taylor N Plank, **Tong Zhu**, Huizhen Yu, Zhilei Ge, Qian Li, Li Li, Jeffery T Davis, Hao Pei",
+    "journal": "ACS applied materials \\& interfaces",
+    "year": 2019,
+    "volume": "11",
+    "number": "22",
+    "pages": "19743--19750",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "wang2018quantum",
+    "type": "article",
+    "title": "A quantum mechanical computational method for modeling electrostatic and solvation effects of protein",
+    "authors": [
+      {
+        "family": "Wang",
+        "given": "Xianwei"
+      },
+      {
+        "family": "Li",
+        "given": "Yang"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Yang",
+        "given": "Zejin"
+      },
+      {
+        "family": "Lu",
+        "given": "Chenhui"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Xianwei Wang, Yang Li, Ya Gao, Zejin Yang, Chenhui Lu, **Tong Zhu**",
+    "journal": "Scientific reports",
+    "year": 2018,
+    "volume": "8",
+    "number": "1",
+    "pages": "5475",
+    "publisher": "Nature Publishing Group UK London"
+  },
+  {
+    "key": "jin2018automated",
+    "type": "article",
+    "title": "Automated fragmentation QM/MM calculation of NMR chemical shifts for protein-ligand complexes",
+    "authors": [
+      {
+        "family": "Jin",
+        "given": "Xinsheng"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "He",
+        "given": "Xiao"
+      }
+    ],
+    "authorsDisplay": "Xinsheng Jin, **Tong Zhu**, John ZH Zhang, Xiao He",
+    "journal": "Frontiers in Chemistry",
+    "year": 2018,
+    "volume": "6",
+    "pages": "150",
+    "publisher": "Frontiers Media SA"
+  },
+  {
+    "key": "xu2018force",
+    "type": "article",
+    "title": "A force balanced fragmentation method for ab initio molecular dynamic simulation of protein",
+    "authors": [
+      {
+        "family": "Xu",
+        "given": "Mingyuan"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Mingyuan Xu, **Tong Zhu**, John ZH Zhang",
+    "journal": "Frontiers in Chemistry",
+    "year": 2018,
+    "volume": "6",
+    "pages": "189",
+    "publisher": "Frontiers Media SA"
+  },
+  {
+    "key": "gao2018exploring",
+    "type": "article",
+    "title": "Exploring drug-resistant mechanisms of I84V mutation in HIV-1 protease toward different inhibitors by thermodynamics integration and solvated interaction energy method",
+    "authors": [
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Chen",
+        "given": "Jianzhong"
+      }
+    ],
+    "authorsDisplay": "Ya Gao, **Tong Zhu**, Jianzhong Chen",
+    "journal": "Chemical Physics Letters",
+    "year": 2018,
+    "volume": "706",
+    "pages": "400--408",
+    "publisher": "North-Holland"
+  },
+  {
+    "key": "gao2018comparison",
+    "type": "article",
+    "title": "Comparison of the unfolding and oligomerization of human prion protein under acidic and neutral environments by molecular dynamics simulations",
+    "authors": [
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "Chaomin"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Mei",
+        "given": "Ye"
+      }
+    ],
+    "authorsDisplay": "Ya Gao, **Tong Zhu**, Chaomin Zhang, John ZH Zhang, Ye Mei",
+    "journal": "Chemical Physics Letters",
+    "year": 2018,
+    "volume": "706",
+    "pages": "594--600",
+    "publisher": "North-Holland"
+  },
+  {
+    "key": "chen2018effect",
+    "type": "article",
+    "title": "Effect of substituents in different positions of aminothiazole hinge-binding scaffolds on inhibitor--CDK2 association probed by interaction entropy method",
+    "authors": [
+      {
+        "family": "Chen",
+        "given": "Jianzhong"
+      },
+      {
+        "family": "Wang",
+        "given": "Xingyu"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jianzhong Chen, Xingyu Wang, John ZH Zhang, **Tong Zhu**",
+    "journal": "ACS Omega",
+    "year": 2018,
+    "volume": "3",
+    "number": "12",
+    "pages": "18052--18064",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "jiang2018multi",
+    "type": "article",
+    "title": "Multi-point wireless temperature sensing system for monitoring pharmaceutical lyophilization",
+    "authors": [
+      {
+        "family": "Jiang",
+        "given": "Xiaofan"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Kodama",
+        "given": "Tatsuhiro"
+      },
+      {
+        "family": "Raghunathan",
+        "given": "Nithin"
+      },
+      {
+        "family": "Alexeenko",
+        "given": "Alina"
+      },
+      {
+        "family": "Peroulis",
+        "given": "Dimitrios"
+      }
+    ],
+    "authorsDisplay": "Xiaofan Jiang, **Tong Zhu**, Tatsuhiro Kodama, Nithin Raghunathan, Alina Alexeenko, Dimitrios Peroulis",
+    "journal": "Frontiers in chemistry",
+    "year": 2018,
+    "volume": "6",
+    "pages": "288",
+    "publisher": "Frontiers Media SA"
+  },
+  {
+    "key": "zeng2018reacnetgen",
+    "type": "article",
+    "title": "ReacNetGen: an Automatic Reaction Network Generator for Reactive Molecular Dynamic Simulations",
+    "authors": [
+      {
+        "family": "Zeng",
+        "given": "Jinzhe"
+      },
+      {
+        "family": "Cao",
+        "given": "Liqun"
+      },
+      {
+        "family": "Zhang",
+        "given": "JZ"
+      },
+      {
+        "family": "Chin",
+        "given": "Chih-Hao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Jinzhe Zeng, Liqun Cao, JZ Zhang, Chih-Hao Chin, **Tong Zhu**",
+    "year": 2018
+  },
+  {
+    "key": "jin2018zhang",
+    "type": "article",
+    "title": "Zhang JZH and He X (2018) Automated Fragmentation QM/MM Calculation of NMR Chemical Shifts for Protein-Ligand Complexes",
+    "authors": [
+      {
+        "family": "Jin",
+        "given": "X"
+      },
+      {
+        "family": "Zhu",
+        "given": "T"
+      }
+    ],
+    "authorsDisplay": "X Jin, T Zhu",
+    "journal": "Quantum Mechanical/Molecular Mechanical Approaches for the Investigation of Chemical Systems--Recent Developments and Advanced Applications",
+    "year": 2018,
+    "pages": "15057",
+    "publisher": "Frontiers Media SA"
+  },
+  {
+    "key": "jing2017discovery",
+    "type": "article",
+    "title": "Discovery of bisindole as a novel scaffold for protein tyrosine phosphatase 1B inhibitors",
+    "authors": [
+      {
+        "family": "Jing",
+        "given": "Changcheng"
+      },
+      {
+        "family": "Li",
+        "given": "Ziyan"
+      },
+      {
+        "family": "Jia",
+        "given": "Kaili"
+      },
+      {
+        "family": "Chen",
+        "given": "Chen"
+      },
+      {
+        "family": "Liu",
+        "given": "Xiao"
+      },
+      {
+        "family": "Wang",
+        "given": "Beibei"
+      },
+      {
+        "family": "Hu",
+        "given": "Wenhao"
+      },
+      {
+        "family": "Li",
+        "given": "Jia"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Dong",
+        "given": "Suzhen"
+      }
+    ],
+    "authorsDisplay": "Changcheng Jing, Ziyan Li, Kaili Jia, Chen Chen, Xiao Liu, Beibei Wang, Wenhao Hu, Jia Li, **Tong Zhu**, Suzhen Dong",
+    "journal": "Archiv der Pharmazie",
+    "year": 2017,
+    "volume": "350",
+    "number": "1",
+    "pages": "e1600173"
+  },
+  {
+    "key": "duan2017effect",
+    "type": "article",
+    "title": "Effect of polarization on HIV-1protease and fluoro-substituted inhibitors binding energies by large scale molecular dynamics simulations",
+    "authors": [
+      {
+        "family": "Duan",
+        "given": "Li L"
+      },
+      {
+        "family": "Zhu",
+        "given": "T"
+      },
+      {
+        "family": "Li",
+        "given": "Yu C"
+      },
+      {
+        "family": "Zhang",
+        "given": "Qing G"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Li L Duan, T Zhu, Yu C Li, Qing G Zhang, John ZH Zhang",
+    "journal": "Scientific Reports",
+    "year": 2017,
+    "volume": "7",
+    "number": "1",
+    "pages": "42223",
+    "publisher": "Nature Publishing Group UK London"
+  },
+  {
+    "key": "xi2017structure",
+    "type": "article",
+    "title": "Structure-based design and synthesis of imidazo [1, 2-a] pyridine derivatives as novel and potent Nek2 inhibitors with in vitro and in vivo antitumor activities",
+    "authors": [
+      {
+        "family": "Xi",
+        "given": "Jian-Bei"
+      },
+      {
+        "family": "Fang",
+        "given": "Yan-Fen"
+      },
+      {
+        "family": "Frett",
+        "given": "Brendan"
+      },
+      {
+        "family": "Zhu",
+        "given": "Meng-Li"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Kong",
+        "given": "Yan-Nan"
+      },
+      {
+        "family": "Guan",
+        "given": "Feng-Jie"
+      },
+      {
+        "family": "Zhao",
+        "given": "Yun"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xiong-Wen"
+      },
+      {
+        "family": "Li",
+        "given": "Hong-Yu"
+      }
+    ],
+    "authorsDisplay": "Jian-Bei Xi, Yan-Fen Fang, Brendan Frett, Meng-Li Zhu, **Tong Zhu**, Yan-Nan Kong, Feng-Jie Guan, Yun Zhao, Xiong-Wen Zhang, Hong-Yu Li",
+    "journal": "European Journal of Medicinal Chemistry",
+    "year": 2017,
+    "volume": "126",
+    "pages": "1083--1106",
+    "publisher": "Elsevier Masson"
+  },
+  {
+    "key": "dong2017discovery",
+    "type": "article",
+    "title": "Discovery of core-structurally novel PTP1B inhibitors with specific selectivity containing oxindole-fused spirotetrahydrofurochroman by one-pot reaction",
+    "authors": [
+      {
+        "family": "Dong",
+        "given": "Suzhen"
+      },
+      {
+        "family": "Lei",
+        "given": "Yubing"
+      },
+      {
+        "family": "Jia",
+        "given": "Shikun"
+      },
+      {
+        "family": "Gao",
+        "given": "Lixin"
+      },
+      {
+        "family": "Li",
+        "given": "Jia"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Liu",
+        "given": "Shunying"
+      },
+      {
+        "family": "Hu",
+        "given": "Wenhao"
+      }
+    ],
+    "authorsDisplay": "Suzhen Dong, Yubing Lei, Shikun Jia, Lixin Gao, Jia Li, **Tong Zhu**, Shunying Liu, Wenhao Hu",
+    "journal": "Bioorganic \\& Medicinal Chemistry Letters",
+    "year": 2017,
+    "volume": "27",
+    "number": "4",
+    "pages": "1105--1108",
+    "publisher": "Pergamon"
+  },
+  {
+    "key": "gao2017test",
+    "type": "article",
+    "title": "A test of AMBER force fields in predicting the secondary structure of $\\alpha$-helical and $\\beta$-hairpin peptides",
+    "authors": [
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Zhang",
+        "given": "Chaomin"
+      },
+      {
+        "family": "Wang",
+        "given": "Xianwei"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      }
+    ],
+    "authorsDisplay": "Ya Gao, Chaomin Zhang, Xianwei Wang, **Tong Zhu**",
+    "journal": "Chemical Physics Letters",
+    "year": 2017,
+    "volume": "679",
+    "pages": "112--118",
+    "publisher": "North-Holland"
+  },
+  {
+    "key": "duan2017direct",
+    "type": "article",
+    "title": "Direct folding simulation of helical proteins using an effective polarizable bond force field",
+    "authors": [
+      {
+        "family": "Duan",
+        "given": "Lili"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Ji",
+        "given": "Changge"
+      },
+      {
+        "family": "Zhang",
+        "given": "Qinggang"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Lili Duan, **Tong Zhu**, Changge Ji, Qinggang Zhang, John ZH Zhang",
+    "journal": "Physical Chemistry Chemical Physics",
+    "year": 2017,
+    "volume": "19",
+    "number": "23",
+    "pages": "15273--15284",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "liu2017electrochemical",
+    "type": "article",
+    "title": "An electrochemical biosensor with dual signal outputs: toward simultaneous quantification of pH and O2 in the brain upon ischemia and in a tumor during cancer starvation therapy",
+    "authors": [
+      {
+        "family": "Liu",
+        "given": "Li"
+      },
+      {
+        "family": "Zhao",
+        "given": "Fan"
+      },
+      {
+        "family": "Liu",
+        "given": "Wei"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Chen",
+        "given": "Chen"
+      },
+      {
+        "family": "Dai",
+        "given": "Zhihui"
+      },
+      {
+        "family": "Peng",
+        "given": "Huisheng"
+      },
+      {
+        "family": "Huang",
+        "given": "Jun-Long"
+      },
+      {
+        "family": "Hu",
+        "given": "Qin"
+      }
+    ],
+    "authorsDisplay": "Li Liu, Fan Zhao, Wei Liu, **Tong Zhu**, John ZH Zhang, Chen Chen, Zhihui Dai, Huisheng Peng, Jun-Long Huang, Qin Hu",
+    "journal": "Angewandte Chemie",
+    "year": 2017,
+    "volume": "129",
+    "number": "35",
+    "pages": "10607--10611"
+  },
+  {
+    "key": "li2017single",
+    "type": "article",
+    "title": "Single biosensor for simultaneous quantification of glucose and pH in a rat brain of diabetic model using both current and potential outputs",
+    "authors": [
+      {
+        "family": "Li",
+        "given": "Shuai"
+      },
+      {
+        "family": "Zhu",
+        "given": "Anwei"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "Tian",
+        "given": "Yang"
+      }
+    ],
+    "authorsDisplay": "Shuai Li, Anwei Zhu, **Tong Zhu**, John ZH Zhang, Yang Tian",
+    "journal": "Analytical Chemistry",
+    "year": 2017,
+    "volume": "89",
+    "number": "12",
+    "pages": "6656--6662",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "luo2017origins",
+    "type": "article",
+    "title": "Origins of Protons in C--H Bond Insertion Products of Phenols: Proton-Self-Sufficient Function via Water Molecules",
+    "authors": [
+      {
+        "family": "Luo",
+        "given": "Zhoujie"
+      },
+      {
+        "family": "Gao",
+        "given": "Ya"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John Zenghui"
+      },
+      {
+        "family": "Xia",
+        "given": "Fei"
+      }
+    ],
+    "authorsDisplay": "Zhoujie Luo, Ya Gao, **Tong Zhu**, John Zenghui Zhang, Fei Xia",
+    "journal": "The Journal of Physical Chemistry A",
+    "year": 2017,
+    "volume": "121",
+    "number": "34",
+    "pages": "6523--6529",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "liu2017mfcc",
+    "type": "article",
+    "title": "MFCC-Based Fragmentation Methods for Biomolecules",
+    "authors": [
+      {
+        "family": "Liu",
+        "given": "Jinfeng"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "He",
+        "given": "Xiao"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Jinfeng Liu, **Tong Zhu**, Xiao He, John ZH Zhang",
+    "journal": "Fragmentation: Toward Accurate Calculations on Complex Molecular Systems",
+    "year": 2017,
+    "pages": "323--348",
+    "publisher": "John Wiley \\& Sons, Ltd Chichester, UK"
+  },
+  {
+    "key": "sun2017optimization",
+    "type": "article",
+    "title": "Optimization of convergence criteria for fragmentation methods",
+    "authors": [
+      {
+        "family": "Sun",
+        "given": "Zhaoxi"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Wang",
+        "given": "Xiaohui"
+      },
+      {
+        "family": "Mei",
+        "given": "Ye"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Zhaoxi Sun, **Tong Zhu**, Xiaohui Wang, Ye Mei, John ZH Zhang",
+    "journal": "Chemical Physics Letters",
+    "year": 2017,
+    "volume": "687",
+    "pages": "163--170",
+    "publisher": "North-Holland"
+  },
+  {
+    "key": "zhang2017genome",
+    "type": "misc",
+    "title": "Genome-wide microRNA expression profiling in malignant pleural effusion to identify a ten-microRNA signature.",
+    "authors": [
+      {
+        "family": "Zhang",
+        "given": "Meiling"
+      },
+      {
+        "family": "Zhu",
+        "given": "Miaojun"
+      },
+      {
+        "family": "Hu",
+        "given": "Qin"
+      },
+      {
+        "family": "Li",
+        "given": "Chun"
+      },
+      {
+        "family": "Zhu",
+        "given": "Zhenhua"
+      },
+      {
+        "family": "Hou",
+        "given": "Yingyong"
+      },
+      {
+        "family": "Xu",
+        "given": "Jing"
+      },
+      {
+        "family": "Wang",
+        "given": "Hailong"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Tang",
+        "given": "Tom"
+      }
+    ],
+    "authorsDisplay": "Meiling Zhang, Miaojun Zhu, Qin Hu, Chun Li, Zhenhua Zhu, Yingyong Hou, Jing Xu, Hailong Wang, **Tong Zhu**, Tom Tang",
+    "year": 2017,
+    "publisher": "American Society of Clinical Oncology"
+  },
+  {
+    "key": "huang2017theoretical",
+    "type": "article",
+    "title": "A theoretical study of the substituent effect on reactions of amines, carbon dioxide and ethylene oxide catalyzed by binary ionic liquids",
+    "authors": [
+      {
+        "family": "Huang",
+        "given": "Minmin"
+      },
+      {
+        "family": "Luo",
+        "given": "Zhoujie"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Chen",
+        "given": "Jian"
+      },
+      {
+        "family": "Zhang",
+        "given": "John Zenghui"
+      },
+      {
+        "family": "Xia",
+        "given": "Fei"
+      }
+    ],
+    "authorsDisplay": "Minmin Huang, Zhoujie Luo, **Tong Zhu**, Jian Chen, John Zenghui Zhang, Fei Xia",
+    "journal": "RSC advances",
+    "year": 2017,
+    "volume": "7",
+    "number": "81",
+    "pages": "51521--51527",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "liu2016antitumor",
+    "type": "article",
+    "title": "Antitumor activity of TY-011 against gastric cancer by inhibiting Aurora A, Aurora B and VEGFR2 kinases",
+    "authors": [
+      {
+        "family": "Liu",
+        "given": "Wang"
+      },
+      {
+        "family": "Lu",
+        "given": "Yu"
+      },
+      {
+        "family": "Chai",
+        "given": "Xiaoping"
+      },
+      {
+        "family": "Liu",
+        "given": "Xiao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Wu",
+        "given": "Xihan"
+      },
+      {
+        "family": "Fang",
+        "given": "Yanfen"
+      },
+      {
+        "family": "Liu",
+        "given": "Xuan"
+      },
+      {
+        "family": "Zhang",
+        "given": "Xiongwen"
+      }
+    ],
+    "authorsDisplay": "Wang Liu, Yu Lu, Xiaoping Chai, Xiao Liu, **Tong Zhu**, Xihan Wu, Yanfen Fang, Xuan Liu, Xiongwen Zhang",
+    "journal": "Journal of Experimental \\& Clinical Cancer Research",
+    "year": 2016,
+    "volume": "35",
+    "number": "1",
+    "pages": "183",
+    "publisher": "BioMed Central London"
+  },
+  {
+    "key": "liu2016pbsa_e",
+    "type": "article",
+    "title": "PBSA_E: A PBSA-Based Free Energy Estimator for Protein--Ligand Binding Affinity",
+    "authors": [
+      {
+        "family": "Liu",
+        "given": "Xiao"
+      },
+      {
+        "family": "Liu",
+        "given": "Jinfeng"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "Lujia"
+      },
+      {
+        "family": "He",
+        "given": "Xiao"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Xiao Liu, Jinfeng Liu, **Tong Zhu**, Lujia Zhang, Xiao He, John ZH Zhang",
+    "journal": "Journal of Chemical Information and Modeling",
+    "year": 2016,
+    "volume": "56",
+    "number": "5",
+    "pages": "854--861",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "jin2016systematic",
+    "type": "article",
+    "title": "A systematic study on RNA NMR chemical shift calculation based on the automated fragmentation QM/MM approach",
+    "authors": [
+      {
+        "family": "Jin",
+        "given": "Xinsheng"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "He",
+        "given": "Xiao"
+      }
+    ],
+    "authorsDisplay": "Xinsheng Jin, **Tong Zhu**, John ZH Zhang, Xiao He",
+    "journal": "RSC advances",
+    "year": 2016,
+    "volume": "6",
+    "number": "110",
+    "pages": "108590--108602",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "fang2016preclinical",
+    "type": "article",
+    "title": "Preclinical activity of MBM-5 in gastrointestinal cancer by inhibiting NEK2 kinase activity",
+    "authors": [
+      {
+        "family": "Fang",
+        "given": "Yanfen"
+      },
+      {
+        "family": "Kong",
+        "given": "Yannan"
+      },
+      {
+        "family": "Xi",
+        "given": "Jianbei"
+      },
+      {
+        "family": "Zhu",
+        "given": "Mengli"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Jiang",
+        "given": "Tongtong"
+      },
+      {
+        "family": "Frett",
+        "given": "Brendan"
+      },
+      {
+        "family": "Hu",
+        "given": "Wenhao"
+      },
+      {
+        "family": "Li",
+        "given": "Hong-yu"
+      },
+      {
+        "family": "Ma",
+        "given": "Mingliang"
+      }
+    ],
+    "authorsDisplay": "Yanfen Fang, Yannan Kong, Jianbei Xi, Mengli Zhu, **Tong Zhu**, Tongtong Jiang, Brendan Frett, Wenhao Hu, Hong-yu Li, Mingliang Ma",
+    "journal": "Oncotarget",
+    "year": 2016,
+    "volume": "7",
+    "number": "48",
+    "pages": "79327"
+  },
+  {
+    "key": "lv2016new",
+    "type": "article",
+    "title": "New peptide deformylase inhibitors design, synthesis and pharmacokinetic assessment",
+    "authors": [
+      {
+        "family": "Lv",
+        "given": "Fengping"
+      },
+      {
+        "family": "Chen",
+        "given": "Chen"
+      },
+      {
+        "family": "Tang",
+        "given": "Yang"
+      },
+      {
+        "family": "Wei",
+        "given": "Jianhai"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Hu",
+        "given": "Wenhao"
+      }
+    ],
+    "authorsDisplay": "Fengping Lv, Chen Chen, Yang Tang, Jianhai Wei, **Tong Zhu**, Wenhao Hu",
+    "journal": "Bioorganic \\& Medicinal Chemistry Letters",
+    "year": 2016,
+    "volume": "26",
+    "number": "15",
+    "pages": "3714--3718",
+    "publisher": "Pergamon"
+  },
+  {
+    "key": "swails2015afnmr",
+    "type": "article",
+    "title": "AFNMR: automated fragmentation quantum mechanical calculation of NMR chemical shifts for biomolecules",
+    "authors": [
+      {
+        "family": "Swails",
+        "given": "Jason"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "He",
+        "given": "Xiao"
+      },
+      {
+        "family": "Case",
+        "given": "David A"
+      }
+    ],
+    "authorsDisplay": "Jason Swails, **Tong Zhu**, Xiao He, David A Case",
+    "journal": "Journal of biomolecular NMR",
+    "year": 2015,
+    "volume": "63",
+    "number": "2",
+    "pages": "125--139",
+    "publisher": "Springer Netherlands Dordrecht"
+  },
+  {
+    "key": "liu2015quantum",
+    "type": "article",
+    "title": "Quantum fragment based ab initio molecular dynamics for proteins",
+    "authors": [
+      {
+        "family": "Liu",
+        "given": "Jinfeng"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Wang",
+        "given": "Xianwei"
+      },
+      {
+        "family": "He",
+        "given": "Xiao"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Jinfeng Liu, **Tong Zhu**, Xianwei Wang, Xiao He, John ZH Zhang",
+    "journal": "Journal of chemical theory and computation",
+    "year": 2015,
+    "volume": "11",
+    "number": "12",
+    "pages": "5897--5905",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "chen2015comparative",
+    "type": "article",
+    "title": "A comparative insight into amprenavir resistance of mutations V32I, G48V, I50V, I54V, and I84V in HIV-1 protease based on thermodynamic integration and MM-PBSA methods",
+    "authors": [
+      {
+        "family": "Chen",
+        "given": "Jianzhong"
+      },
+      {
+        "family": "Wang",
+        "given": "Xingyu"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "Qinggang"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Jianzhong Chen, Xingyu Wang, **Tong Zhu**, Qinggang Zhang, John ZH Zhang",
+    "journal": "Journal of chemical information and modeling",
+    "year": 2015,
+    "volume": "55",
+    "number": "9",
+    "pages": "1903--1913",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "zhu2015correction",
+    "type": "article",
+    "title": "Correction: Fragment density functional theory calculation of NMR chemical shifts for proteins with implicit solvation",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "He",
+        "given": "Xiao"
+      },
+      {
+        "family": "Zhang",
+        "given": "JZ"
+      }
+    ],
+    "authorsDisplay": "**Tong Zhu**, Xiao He, JZ Zhang",
+    "journal": "Physical Chemistry Chemical Physics",
+    "year": 2015,
+    "volume": "17",
+    "number": "18",
+    "pages": "12367--12367",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "he2014fragment",
+    "type": "article",
+    "title": "Fragment quantum mechanical calculation of proteins and its applications",
+    "authors": [
+      {
+        "family": "He",
+        "given": "Xiao"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Wang",
+        "given": "Xianwei"
+      },
+      {
+        "family": "Liu",
+        "given": "Jinfeng"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Xiao He, **Tong Zhu**, Xianwei Wang, Jinfeng Liu, John ZH Zhang",
+    "journal": "Accounts of chemical research",
+    "year": 2014,
+    "volume": "47",
+    "number": "9",
+    "pages": "2748--2757",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "zhu2014correction",
+    "type": "article",
+    "title": "Correction of erroneously packed protein's side chains in the NMR structure based on ab initio chemical shift calculations",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "He",
+        "given": "Xiao"
+      }
+    ],
+    "authorsDisplay": "**Tong Zhu**, John ZH Zhang, Xiao He",
+    "journal": "Physical Chemistry Chemical Physics",
+    "year": 2014,
+    "volume": "16",
+    "number": "34",
+    "pages": "18163--18169",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "duan2014electronic",
+    "type": "article",
+    "title": "Electronic polarization stabilizes tertiary structure prediction of HP-36",
+    "authors": [
+      {
+        "family": "Duan",
+        "given": "Li L"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "Qing G"
+      },
+      {
+        "family": "Tang",
+        "given": "Bo"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Li L Duan, **Tong Zhu**, Qing G Zhang, Bo Tang, John ZH Zhang",
+    "journal": "Journal of Molecular Modeling",
+    "year": 2014,
+    "volume": "20",
+    "number": "4",
+    "pages": "2195",
+    "publisher": "Springer Berlin Heidelberg Berlin/Heidelberg"
+  },
+  {
+    "key": "zhu2014quantum",
+    "type": "incollection",
+    "title": "Quantum calculation of protein NMR chemical shifts based on the automated fragmentation method",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "He",
+        "given": "Xiao"
+      }
+    ],
+    "authorsDisplay": "**Tong Zhu**, John ZH Zhang, Xiao He",
+    "journal": "Advance in Structural Bioinformatics",
+    "year": 2014,
+    "pages": "49--70",
+    "publisher": "Springer Netherlands Dordrecht"
+  },
+  {
+    "key": "zhu2013automated",
+    "type": "article",
+    "title": "Automated fragmentation QM/MM calculation of amide proton chemical shifts in proteins with explicit solvent model",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      },
+      {
+        "family": "He",
+        "given": "Xiao"
+      }
+    ],
+    "authorsDisplay": "**Tong Zhu**, John ZH Zhang, Xiao He",
+    "journal": "Journal of chemical theory and computation",
+    "year": 2013,
+    "volume": "9",
+    "number": "4",
+    "pages": "2104--2114",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "zhu2013new",
+    "type": "article",
+    "title": "A new quantum calibrated force field for zinc--protein complex",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Xiao",
+        "given": "Xudong"
+      },
+      {
+        "family": "Ji",
+        "given": "Changge"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "**Tong Zhu**, Xudong Xiao, Changge Ji, John ZH Zhang",
+    "journal": "Journal of Chemical Theory and Computation",
+    "year": 2013,
+    "volume": "9",
+    "number": "3",
+    "pages": "1788--1798",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "duan2013implementation",
+    "type": "article",
+    "title": "An implementation of hydrophobic force in implicit solvent molecular dynamics simulation for packed proteins",
+    "authors": [
+      {
+        "family": "Duan",
+        "given": "Li L"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Mei",
+        "given": "Ye"
+      },
+      {
+        "family": "Zhang",
+        "given": "Qing G"
+      },
+      {
+        "family": "Tang",
+        "given": "Bo"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Li L Duan, **Tong Zhu**, Ye Mei, Qing G Zhang, Bo Tang, John ZH Zhang",
+    "journal": "Journal of molecular modeling",
+    "year": 2013,
+    "volume": "19",
+    "number": "6",
+    "pages": "2605--2612",
+    "publisher": "Springer-Verlag Berlin/Heidelberg"
+  },
+  {
+    "key": "xiao2013development",
+    "type": "article",
+    "title": "Development of an effective polarizable bond method for biomolecular simulation",
+    "authors": [
+      {
+        "family": "Xiao",
+        "given": "Xudong"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Ji",
+        "given": "Chang G"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "Xudong Xiao, **Tong Zhu**, Chang G Ji, John ZH Zhang",
+    "journal": "The Journal of Physical Chemistry B",
+    "year": 2013,
+    "volume": "117",
+    "number": "48",
+    "pages": "14885--14893",
+    "publisher": "American Chemical Society"
+  },
+  {
+    "key": "zhu2012fragment",
+    "type": "article",
+    "title": "Fragment density functional theory calculation of NMR chemical shifts for proteins with implicit solvation",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "He",
+        "given": "Xiao"
+      },
+      {
+        "family": "Zhang",
+        "given": "John ZH"
+      }
+    ],
+    "authorsDisplay": "**Tong Zhu**, Xiao He, John ZH Zhang",
+    "journal": "Physical Chemistry Chemical Physics",
+    "year": 2012,
+    "volume": "14",
+    "number": "21",
+    "pages": "7837--7845",
+    "publisher": "The Royal Society of Chemistry"
+  },
+  {
+    "key": "hu2010some",
+    "type": "article",
+    "title": "Some insights into mechanism for binding and drug resistance of wild type and I50V V82A and I84V mutations in HIV-1 protease with GRL-98065 inhibitor from molecular dynamic simulations",
+    "authors": [
+      {
+        "family": "Hu",
+        "given": "Guo-Dong"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Zhang",
+        "given": "Shao-Long"
+      },
+      {
+        "family": "Wang",
+        "given": "Dunyou"
+      },
+      {
+        "family": "Zhang",
+        "given": "Qing-Gang"
+      }
+    ],
+    "authorsDisplay": "Guo-Dong Hu, **Tong Zhu**, Shao-Long Zhang, Dunyou Wang, Qing-Gang Zhang",
+    "journal": "European journal of medicinal chemistry",
+    "year": 2010,
+    "volume": "45",
+    "number": "1",
+    "pages": "227--235",
+    "publisher": "Elsevier Masson"
+  },
+  {
+    "key": "zhu2010quasi",
+    "type": "article",
+    "title": "Quasi-classical trajectory study of the reaction O (3P)+ HCl→ OH+ Cl and O (3P)+ DCl→ OD+ Cl: Vector and scalar properties",
+    "authors": [
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Hu",
+        "given": "Guodong"
+      },
+      {
+        "family": "Zhang",
+        "given": "Qinggang"
+      }
+    ],
+    "authorsDisplay": "**Tong Zhu**, Guodong Hu, Qinggang Zhang",
+    "journal": "Journal of Molecular Structure: THEOCHEM",
+    "year": 2010,
+    "volume": "948",
+    "number": "1-3",
+    "pages": "36--42",
+    "publisher": "Elsevier"
+  },
+  {
+    "key": "tong2010theoretical",
+    "type": "article",
+    "title": "Theoretical study of stereodynamics for reaction O (3P)+ HCl",
+    "authors": [
+      {
+        "family": "Tong",
+        "given": "Zhu"
+      },
+      {
+        "family": "Guo-Dong",
+        "given": "Hu"
+      },
+      {
+        "family": "Jian-Zhong",
+        "given": "Chen"
+      },
+      {
+        "family": "Xin-Guo",
+        "given": "Liu"
+      },
+      {
+        "family": "Qing-Gang",
+        "given": "Zhang"
+      }
+    ],
+    "authorsDisplay": "Zhu Tong, Hu Guo-Dong, Chen Jian-Zhong, Liu Xin-Guo, Zhang Qing-Gang",
+    "journal": "Chinese Physics B",
+    "year": 2010,
+    "volume": "19",
+    "number": "8",
+    "pages": "083402"
+  },
+  {
+    "key": "liu2010effect",
+    "type": "article",
+    "title": "THE EFFECT OF VIBRATIONAL EXCITATION OF THE REACTION O (3 P)+ HCl→ OH+ Cl FOR THE 3 A ″ELECTRONIC STATES",
+    "authors": [
+      {
+        "family": "Liu",
+        "given": "Huirong"
+      },
+      {
+        "family": "Liu",
+        "given": "Xinguo"
+      },
+      {
+        "family": "Zhu",
+        "given": "Tong"
+      },
+      {
+        "family": "Sun",
+        "given": "Haizhu"
+      },
+      {
+        "family": "Zhang",
+        "given": "Qinggang"
+      }
+    ],
+    "authorsDisplay": "Huirong Liu, Xinguo Liu, **Tong Zhu**, Haizhu Sun, Qinggang Zhang",
+    "journal": "Journal of Theoretical and Computational Chemistry",
+    "year": 2010,
+    "volume": "9",
+    "number": "06",
+    "pages": "1033--1042",
+    "publisher": "World Scientific"
+  },
+  {
+    "key": "tong2010quasi",
+    "type": "article",
+    "title": "Quasi-classical Trajectory Study of Reaction O (3 P)+ HCl (v= 2; j= 1, 6, 9)→ OH+ Cl",
+    "authors": [
+      {
+        "family": "Tong",
+        "given": "Zhu"
+      },
+      {
+        "family": "Guo-Dong",
+        "given": "Hu"
+      },
+      {
+        "family": "Qing-Gang",
+        "given": "Zhang"
+      }
+    ],
+    "authorsDisplay": "Zhu Tong, Hu Guo-Dong, Zhang Qing-Gang",
+    "journal": "Chinese Physics Letters",
+    "year": 2010,
+    "volume": "27",
+    "number": "3",
+    "pages": "033102"
+  },
+  {
+    "key": "tong2010quasi",
+    "type": "article",
+    "title": "Quasi-classical Trajectory Study of Reaction O (P-3) plus HCl (v= 2; j= 1, 6, 9)-> OH plus Cl",
+    "authors": [
+      {
+        "family": "Tong",
+        "given": "Zhu"
+      },
+      {
+        "family": "Guo-Dong",
+        "given": "Hu"
+      },
+      {
+        "family": "Qing-Gang",
+        "given": "Zhang"
+      }
+    ],
+    "authorsDisplay": "Zhu Tong, Hu Guo-Dong, Zhang Qing-Gang",
+    "journal": "CHINESE PHYSICS LETTERS",
+    "year": 2010,
+    "volume": "27",
+    "number": "3",
+    "publisher": "IOP Publishing Ltd TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND"
+  }
+]

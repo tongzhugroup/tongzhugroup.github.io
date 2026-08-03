@@ -1,10 +1,59 @@
 ---
 import Base from '../layouts/Base.astro';
 
-const title = 'Contact — Tong Zhu';
+const title = 'Contact';
+
+const email = 'tzhu@lps.ecnu.edu.cn';
+const orcid = '0000-0001-7472-3736';
 ---
 
 <Base title={title}>
-  <h1>Contact</h1>
-  <p class="placeholder">Contact information to be added.</p>
+  <p class="eyebrow" data-en="Contact" data-zh="联系方式">Contact</p>
+  <h1 data-en="Get in touch" data-zh="联系方式">Get in touch</h1>
+
+  <dl class="contact-list">
+    <div>
+      <dt data-en="Email" data-zh="邮箱">Email</dt>
+      <dd><a href={`mailto:${email}`}>{email}</a></dd>
+    </div>
+    <div>
+      <dt data-en="ORCID" data-zh="ORCID">ORCID</dt>
+      <dd><a href={`https://orcid.org/${orcid}`}>{orcid}</a></dd>
+    </div>
+  </dl>
 </Base>
+
+<style>
+  .contact-list {
+    margin: 1.5rem 0 0;
+  }
+  .contact-list > div {
+    display: grid;
+    grid-template-columns: 8rem 1fr;
+    gap: 1rem;
+    padding: 0.85rem 0;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .contact-list > div:last-child {
+    border-bottom: none;
+  }
+  .contact-list dt {
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--color-faint);
+    margin: 0;
+    padding-top: 0.15rem;
+  }
+  .contact-list dd {
+    margin: 0;
+    color: var(--color-text);
+  }
+  @media (max-width: 540px) {
+    .contact-list > div {
+      grid-template-columns: 1fr;
+      gap: 0.25rem;
+    }
+  }
+</style>

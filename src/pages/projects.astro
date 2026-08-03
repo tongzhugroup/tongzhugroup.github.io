@@ -1,10 +1,135 @@
 ---
 import Base from '../layouts/Base.astro';
 
-const title = 'Projects — Tong Zhu';
+const title = 'Projects';
+
+const projects = [
+  {
+    period: '2026–2029',
+    title_en:
+      'Interpretable atomic-level foundation models for efficient catalysis of resource molecules',
+    title_zh: '面向资源分子高效催化的可解释原子级基座模型',
+    funder_en: 'NSFC Major Research Plan',
+    funder_zh: '国家自然科学基金重大研究计划项目',
+    role_en: 'Project lead (PI)',
+    role_zh: '项目负责人',
+  },
+  {
+    period: '2023–2026',
+    title_en:
+      'Next-generation molecular dynamics simulation and drug–target affinity prediction integrating AI and physical models',
+    title_zh: '融合 AI 和物理模型的新一代分子动力学模拟及药靶亲和预测算法研发',
+    funder_en: 'National Key R&D Program (subtask)',
+    funder_zh: '国家重点研发计划课题',
+    role_en: 'Task lead',
+    role_zh: '课题负责人',
+    note_en: 'Parent program: AI technology for drug-target discovery and molecular generation.',
+    note_zh: '所属项目：支撑创新药物靶标发现与分子生成的新一代人工智能技术研发及应用。',
+  },
+  {
+    period: '2022–',
+    title_en: 'Combustion reaction dynamics simulation',
+    title_zh: '燃烧反应动力学模拟',
+    funder_en: 'NSFC Excellent Young Scientists Fund',
+    funder_zh: '国家自然科学基金优秀青年科学基金',
+    role_en: 'PI',
+    role_zh: '项目负责人',
+  },
+];
+
+const software = [
+  {
+    name: 'ReacNetGenerator',
+    desc_en:
+      'Automated extraction of reaction networks and kinetic parameters from molecular dynamics trajectories.',
+    desc_zh:
+      '从分子动力学轨迹中自动提取反应网络与动力学参数的开源软件。',
+  },
+  {
+    name: 'DeePMD-kit / DP-GEN',
+    desc_en:
+      'Deep potential molecular dynamics package and generator, integrating neural network potential fitting for combustion reactions.',
+    desc_zh:
+      '深度势分子动力学软件包与生成器，集成面向燃烧反应的神经网络势能面拟合。',
+  },
+  {
+    name: 'DPA',
+    desc_en:
+      'Deep potential atomistic models — universal large atomistic models for molecular and material simulation.',
+    desc_zh:
+      '深度势原子模型——面向分子与材料模拟的通用大原子模型。',
+  },
+];
 ---
 
 <Base title={title}>
-  <h1>Projects</h1>
-  <p class="placeholder">Project list to be added.</p>
+  <p class="eyebrow" data-en="Projects" data-zh="项目">Projects</p>
+  <h1 data-en="Research Projects & Software" data-zh="科研项目与软件">Research Projects &amp; Software</h1>
+
+  <h2 data-en="Funded Projects" data-zh="科研项目">Funded Projects</h2>
+  <ul class="proj-list">
+    {projects.map((p) => (
+      <li>
+        <p class="proj-title" data-en={p.title_en} data-zh={p.title_zh}>{p.title_en}</p>
+        <p class="proj-meta">
+          <span class="proj-period">{p.period}</span>
+          <span class="proj-funder" data-en={p.funder_en} data-zh={p.funder_zh}>{p.funder_en}</span>
+          <span class="proj-role" data-en={p.role_en} data-zh={p.role_zh}>{p.role_en}</span>
+        </p>
+        {p.note_en && (
+          <p class="proj-note" data-en={p.note_en} data-zh={p.note_zh}>{p.note_en}</p>
+        )}
+      </li>
+    ))}
+  </ul>
+
+  <h2 data-en="Open-Source Software" data-zh="开源软件">Open-Source Software</h2>
+  <ul class="proj-list">
+    {software.map((s) => (
+      <li>
+        <p class="proj-title">{s.name}</p>
+        <p class="proj-note" data-en={s.desc_en} data-zh={s.desc_zh}>{s.desc_en}</p>
+      </li>
+    ))}
+  </ul>
 </Base>
+
+<style>
+  .proj-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 1.5rem;
+  }
+  .proj-list li {
+    padding: 0.75rem 0 1.1rem 1.25rem;
+    border-left: 2px solid var(--color-border);
+    margin-bottom: 0.5rem;
+  }
+  .proj-list li:hover {
+    border-left-color: var(--color-accent);
+  }
+  .proj-title {
+    font-family: var(--font-serif);
+    font-size: 1.05rem;
+    margin: 0 0 0.35rem;
+    color: var(--color-text);
+  }
+  .proj-meta {
+    font-size: 0.85rem;
+    color: var(--color-muted);
+    margin: 0 0 0.3rem;
+  }
+  .proj-meta span + span::before {
+    content: "·";
+    margin: 0 0.5rem;
+    color: var(--color-faint);
+  }
+  .proj-note {
+    font-size: 0.88rem;
+    color: var(--color-muted);
+    margin: 0;
+  }
+  .proj-period {
+    font-variant-numeric: tabular-nums;
+  }
+</style>

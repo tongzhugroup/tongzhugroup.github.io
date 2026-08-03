@@ -1,10 +1,147 @@
 ---
 import Base from '../layouts/Base.astro';
+import pubs from '../data/publications.json';
 
-const title = 'Publications — Tong Zhu';
+const title = 'Publications';
+
+// group by year, descending
+const byYear = new Map();
+for (const p of pubs) {
+  const y = p.year;
+  if (!byYear.has(y)) byYear.set(y, []);
+  byYear.get(y).push(p);
+}
+const years = [...byYear.keys()].sort((a, b) => b - a);
+
+/** render authorsDisplay (**me** → <strong>, *et al.* → <em>) safely */
+function renderAuthors(s) {
+  // escape HTML first
+  const esc = s
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
+  return esc
+    .replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g, '<em>$1</em>')
+    .replace(/__(.+?)__/g, '<strong>$1</strong>');
+}
+
+function cite(p) {
+  const vol = p.volume ? ` <strong>${p.volume}</strong>` : '';
+  const num = p.number ? `(${p.number})` : '';
+  const pages = p.pages ? `, ${p.pages.replace(/--/g, '–')}` : '';
+  const journal = p.journal ? `<em>${p.journal}</em>` : '';
+  return [journal, vol, num, pages].filter(Boolean).join(' ');
+}
 ---
 
 <Base title={title}>
-  <h1>Publications</h1>
-  <p class="placeholder">Publication list to be added.</p>
+  <p class="eyebrow" data-en="Publications" data-zh="论文">Publications</p>
+  <h1 data-en="Selected Publications" data-zh="代表性论文">Selected Publications</h1>
+  <p class="lede">
+    <span data-en={`${pubs.length} publications, ${years[years.length - 1]}–${years[0]}.`} data-zh={`共 ${pubs.length} 篇论文，${years[years.length - 1]}–${years[0]}。`}>
+      {`${pubs.length} publications, ${years[years.length - 1]}–${years[0]}.`}
+    </span>
+  </p>
+
+  <ol class="pub-list">
+    {years.map((year) => (
+      <li class="pub-year">
+        <h2 class="pub-year-head">{year}</h2>
+        <ol class="pub-year-items">
+          {byYear.get(year).map((p) => (
+            <li class="pub-item">
+              <p class="pub-authors" set:html={renderAuthors(p.authorsDisplay)} />
+              <p class="pub-title">{p.title}.</p>
+              <p class="pub-cite" set:html={cite(p)} />
+              {p.year && <span class="pub-meta">{p.year}</span>}
+              {p.doi && (
+                <a class="pub-doi" href={`https://doi.org/${p.doi}`}>doi:{p.doi}</a>
+              )}
+            </li>
+          ))}
+        </ol>
+      </li>
+    ))}
+  </ol>
 </Base>
+
+<style>
+  .pub-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    counter-reset: pub;
+  }
+  .pub-year {
+    margin-bottom: 2.75rem;
+  }
+  .pub-year-head {
+    font-family: var(--font-sans);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.12em;
+    color: var(--color-accent);
+    margin: 0 0 1.25rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .pub-year-items {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+  .pub-item {
+    position: relative;
+    padding: 0.5rem 0 1.5rem 2.2rem;
+    border-bottom: 1px solid var(--color-border);
+  }
+  .pub-item:last-child {
+    border-bottom: none;
+  }
+  .pub-item::before {
+    counter-increment: pub;
+    content: counter(pub);
+    position: absolute;
+    left: 0;
+    top: 0.55rem;
+    font-size: 0.8rem;
+    color: var(--color-faint);
+    font-variant-numeric: tabular-nums;
+  }
+  .pub-item p {
+    margin: 0 0 0.35rem;
+    max-width: none;
+  }
+  .pub-authors {
+    font-size: 0.92rem;
+    color: var(--color-text);
+  }
+  .pub-authors :global(strong) {
+    color: var(--color-me);
+    font-weight: 600;
+  }
+  .lede .me-inline {
+    color: var(--color-me);
+  }
+  .pub-title {
+    font-family: var(--font-serif);
+    font-size: 1.02rem;
+    line-height: 1.4;
+    color: var(--color-text);
+  }
+  .pub-cite {
+    font-size: 0.88rem;
+    color: var(--color-muted);
+  }
+  .pub-meta {
+    font-size: 0.8rem;
+    color: var(--color-faint);
+    margin-right: 0.75rem;
+  }
+  .pub-doi {
+    font-size: 0.8rem;
+    font-family: var(--font-mono);
+    border-bottom: none;
+  }
+</style>

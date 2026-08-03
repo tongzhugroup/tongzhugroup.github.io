@@ -4,18 +4,25 @@ import '../styles/global.css';
 interface NavItem {
   href: string;
   label: string;
+  labelZh: string;
 }
 
 const nav: NavItem[] = [
-  { href: '/', label: 'Home' },
-  { href: '/publications', label: 'Publications' },
-  { href: '/projects', label: 'Projects' },
-  { href: '/contact', label: 'Contact' },
+  { href: '/', label: 'Home', labelZh: '首页' },
+  { href: '/publications', label: 'Publications', labelZh: '论文' },
+  { href: '/projects', label: 'Projects', labelZh: '项目' },
+  { href: '/contact', label: 'Contact', labelZh: '联系' },
 ];
 
 const pathname = Astro.url.pathname;
 const isActive = (href: string) =>
   href === '/' ? pathname === '/' : pathname.startsWith(href);
+
+const title = Astro.props.title;
+const siteName = 'Tong Zhu 朱通';
+const description =
+  'Tong Zhu (朱通) — computational chemist. Personal homepage with publications, projects, and contact.';
+const fullTitle = title === siteName ? title : `${title} — ${siteName}`;
 ---
 
 <!doctype html>
@@ -25,24 +32,46 @@ const isActive = (href: string) =>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
     <meta name="generator" content={Astro.generator} />
-    <title>{Astro.props.title}</title>
+    <title>{fullTitle}</title>
+    <meta name="description" content={description} />
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={siteName} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={new URL(Astro.url.pathname, Astro.site)} />
+    <meta name="twitter:card" content="summary" />
+
+    <!-- Fonts: Newsreader (display serif) + Inter (sans) + Noto Serif SC (CJK) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=Noto+Serif+SC:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
     <header class="site-header">
       <div class="container">
         <p class="site-title"><a href="/">Tong Zhu 朱通</a></p>
-        <nav class="site-nav">
-          {
-            nav.map((item) => (
-              <a
-                href={item.href}
-                aria-current={isActive(item.href) ? 'page' : undefined}
-              >
-                {item.label}
-              </a>
-            ))
-          }
-        </nav>
+        <div class="site-header-right">
+          <button id="lang-toggle" class="lang-toggle" type="button" aria-label="Switch language">中文</button>
+          <nav class="site-nav">
+            {
+              nav.map((item) => (
+                <a
+                  href={item.href}
+                  aria-current={isActive(item.href) ? 'page' : undefined}
+                  data-en={item.label}
+                  data-zh={item.labelZh}
+                >
+                  {item.label}
+                </a>
+              ))
+            }
+          </nav>
+        </div>
       </div>
     </header>
     <main class="container">
@@ -50,8 +79,12 @@ const isActive = (href: string) =>
     </main>
     <footer class="site-footer">
       <div class="container">
-        &copy; {new Date().getFullYear()} Tong Zhu
+        <span>&copy; {new Date().getFullYear()} Tong Zhu</span>
+        <span data-en="Built with Astro" data-zh="基于 Astro 构建">Built with Astro</span>
       </div>
     </footer>
+    <script>
+      import "../scripts/i18n.js";
+    </script>
   </body>
 </html>

@@ -7,9 +7,11 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "pubs": "node scripts/build-publications.mjs"
   },
   "dependencies": {
-    "astro": "^5.13.0"
+    "astro": "^5.13.0",
+    "bibtex-parse": "^2.1.0"
   }
 }
