@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <rect width="32" height="32" rx="6" fill="#1a1a1a" />
+  <text
+    x="50%"
+    y="54%"
+    dominant-baseline="middle"
+    text-anchor="middle"
+    font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif"
+    font-size="16"
+    font-weight="600"
+    fill="#ffffff"
+  >TZ</text>
+</svg>

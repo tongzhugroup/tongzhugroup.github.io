@@ -1,0 +1,57 @@
+---
+import '../styles/global.css';
+
+interface NavItem {
+  href: string;
+  label: string;
+}
+
+const nav: NavItem[] = [
+  { href: '/', label: 'Home' },
+  { href: '/publications', label: 'Publications' },
+  { href: '/projects', label: 'Projects' },
+  { href: '/contact', label: 'Contact' },
+];
+
+const pathname = Astro.url.pathname;
+const isActive = (href: string) =>
+  href === '/' ? pathname === '/' : pathname.startsWith(href);
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="generator" content={Astro.generator} />
+    <title>{Astro.props.title}</title>
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container">
+        <p class="site-title"><a href="/">Tong Zhu 朱通</a></p>
+        <nav class="site-nav">
+          {
+            nav.map((item) => (
+              <a
+                href={item.href}
+                aria-current={isActive(item.href) ? 'page' : undefined}
+              >
+                {item.label}
+              </a>
+            ))
+          }
+        </nav>
+      </div>
+    </header>
+    <main class="container">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="container">
+        &copy; {new Date().getFullYear()} Tong Zhu
+      </div>
+    </footer>
+  </body>
+</html>
