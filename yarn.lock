@@ -1869,10 +1869,9 @@ hexo-server@3.0.0:
     picocolors "^1.0.0"
     serve-static "^1.14.1"
 
-"hexo-tag-bootstrap@https://github.com/dotJobs/hexo-tag-bootstrap#06cc099d9a799fdc878a9b5d648f6aeda961b402":
+"hexo-tag-bootstrap@https://codeload.github.com/dotJobs/hexo-tag-bootstrap/tar.gz/06cc099d9a799fdc878a9b5d648f6aeda961b402":
   version "0.2.1"
-  uid "06cc099d9a799fdc878a9b5d648f6aeda961b402"
-  resolved "https://github.com/dotJobs/hexo-tag-bootstrap#06cc099d9a799fdc878a9b5d648f6aeda961b402"
+  resolved "https://codeload.github.com/dotJobs/hexo-tag-bootstrap/tar.gz/06cc099d9a799fdc878a9b5d648f6aeda961b402#80f46eebee7757e2e8040861e5d4d001eb4bd4e3"
 
 hexo-tag-injector@^0.1.0:
   version "0.1.0"
